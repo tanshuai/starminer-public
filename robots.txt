@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://work.tanshuai.com/sitemap.xml
+Sitemap: https://work.tanshuai.com/video-sitemap.xml
