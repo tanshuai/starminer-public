@@ -1,0 +1,3451 @@
+[
+  {
+    "id": "m01-what-is-a-block",
+    "slug": "what-is-a-block",
+    "group": "desk-miner-101",
+    "duration_s": 25.4,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m01-what-is-a-block.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m01-what-is-a-block_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m01-what-is-a-block.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m01-what-is-a-block_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m01-what-is-a-block_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "What even is a Bitcoin block?",
+      "Quick note: StarMiner sent me this miner.",
+      "Picture Bitcoin as one giant shared notebook.",
+      "Each page is a block: a batch of transactions.",
+      "About every ten minutes, the network adds a new page.",
+      "Miners race to seal it.",
+      "My little miner is in that race, page after page.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for part two: what a miner actually does."
+    ],
+    "poster": "/assets/media/m01-what-is-a-block.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "block",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m02-what-miners-do",
+    "slug": "what-miners-do",
+    "group": "desk-miner-101",
+    "duration_s": 28.7,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m02-what-miners-do.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m02-what-miners-do_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m02-what-miners-do.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m02-what-miners-do_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m02-what-miners-do_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "So what does a Bitcoin miner actually do all day?",
+      "Quick note: StarMiner sent me this one.",
+      "To add the next block, there's a puzzle to solve.",
+      "And the only way to solve it is to keep trying numbers.",
+      "Try, check, nope. Try, check, nope.",
+      "Miners everywhere do this nonstop, super fast.",
+      "While it's running, mine never stops trying.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for part three: why it's called mining."
+    ],
+    "poster": "/assets/media/m02-what-miners-do.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "miners",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m03-why-mining",
+    "slug": "why-mining",
+    "group": "desk-miner-101",
+    "duration_s": 25.3667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m03-why-mining.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m03-why-mining_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m03-why-mining.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m03-why-mining_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m03-why-mining_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "It's called Bitcoin mining. So where's the shovel?",
+      "StarMiner sent me this one, and it doesn't dig.",
+      "Gold miners dig through rock to find something rare.",
+      "Bitcoin miners dig through numbers instead.",
+      "Whoever finds the next block gets new bitcoin as the reward.",
+      "That's the mining part. The digging is math.",
+      "And my little miner digs for every block.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more desk miner basics."
+    ],
+    "poster": "/assets/media/m03-why-mining.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "mining",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m04-pool-or-solo",
+    "slug": "pool-or-solo",
+    "group": "desk-miner-101",
+    "duration_s": 23.3,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m04-pool-or-solo.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m04-pool-or-solo_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m04-pool-or-solo.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m04-pool-or-solo_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m04-pool-or-solo_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Setting up my miner, the app gave me one big choice.",
+      "Quick note: StarMiner sent me this miner.",
+      "Pool or solo?",
+      "In a pool, lots of miners team up and share the rewards.",
+      "Solo, you keep the whole block reward, but only if your miner finds the block itself.",
+      "With one tiny miner, that could take forever.",
+      "Solo mining does not guarantee rewards.",
+      "Pool or solo? Tell me what you'd pick."
+    ],
+    "poster": "/assets/media/m04-pool-or-solo.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "pool",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m05-ten-minutes",
+    "slug": "ten-minutes",
+    "group": "desk-miner-101",
+    "duration_s": 27.0,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m05-ten-minutes.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m05-ten-minutes_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m05-ten-minutes.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m05-ten-minutes_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m05-ten-minutes_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Why does Bitcoin add a block about every ten minutes?",
+      "Quick note: StarMiner sent me this miner.",
+      "If more miners join, blocks would come faster.",
+      "So about every two weeks, the network checks its pace.",
+      "Too fast? The puzzle gets harder. Too slow? It gets easier.",
+      "That keeps it near ten minutes on average.",
+      "My little miner? It just keeps trying.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more desk miner basics."
+    ],
+    "poster": "/assets/media/m05-ten-minutes.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "interval",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m06-whats-in-the-box",
+    "slug": "whats-in-the-box",
+    "group": "desk-miner-101",
+    "duration_s": 24.2,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m06-whats-in-the-box.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m06-whats-in-the-box_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m06-whats-in-the-box.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m06-whats-in-the-box_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m06-whats-in-the-box_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "POV: a box shows up from StarMiner.",
+      "Yes, they sent it to me. Here's what's inside.",
+      "A tiny desktop Bitcoin miner.",
+      "No warehouse, no server room. It fits on a desk.",
+      "It joins your Wi-Fi, and you check it from an app.",
+      "You even pick the mining pool right in the app.",
+      "Then it starts trying for blocks, right on the desk.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more desk miner basics."
+    ],
+    "poster": "/assets/media/m06-whats-in-the-box.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "unbox",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m07-setup-3-steps",
+    "slug": "setup-3-steps",
+    "group": "desk-miner-101",
+    "duration_s": 20.5,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m07-setup-3-steps.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m07-setup-3-steps_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m07-setup-3-steps.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m07-setup-3-steps_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m07-setup-3-steps_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Setting up a desk Bitcoin miner takes three steps.",
+      "Quick note: StarMiner sent me this one.",
+      "Step one: plug it in.",
+      "Step two: connect it to your Wi-Fi in the app.",
+      "Step three: choose your mining pool in the app.",
+      "That's it. From then on, it keeps trying for blocks.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more desk miner basics."
+    ],
+    "poster": "/assets/media/m07-setup-3-steps.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "setup",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m08-before-you-buy",
+    "slug": "before-you-buy",
+    "group": "desk-miner-101",
+    "duration_s": 25.1667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m08-before-you-buy.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m08-before-you-buy_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m08-before-you-buy.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m08-before-you-buy_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m08-before-you-buy_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Thinking about a desk Bitcoin miner? Three honest things first.",
+      "StarMiner sent me this one, and I'm still telling you.",
+      "One: it's a hobby and a way to learn, not a paycheck.",
+      "Two: it's one tiny miner in a giant global network.",
+      "Three: solo, it may never find a block.",
+      "Solo mining does not guarantee rewards.",
+      "Still sounds fun? Then it's a great little desk project.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/m08-before-you-buy.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "buy",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m09-block-found",
+    "slug": "block-found",
+    "group": "desk-miner-101",
+    "duration_s": 23.9333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m09-block-found.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m09-block-found_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m09-block-found.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m09-block-found_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m09-block-found_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "What actually happens when a miner finds a block?",
+      "Quick note: StarMiner sent me this miner.",
+      "First, it sends the new block out to the network.",
+      "Computers everywhere check it against the rules.",
+      "If it checks out, it's added, and the finder gets new bitcoin plus fees.",
+      "Then everyone starts over on the very next block.",
+      "Including my little miner.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more desk miner basics."
+    ],
+    "poster": "/assets/media/m09-block-found.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "found",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m10-three-words",
+    "slug": "three-words",
+    "group": "desk-miner-101",
+    "duration_s": 24.6667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m10-three-words.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m10-three-words_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m10-three-words.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m10-three-words_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m10-three-words_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Three words you'll hear the second you get a Bitcoin miner.",
+      "Quick note: StarMiner sent me mine.",
+      "Block: a batch of transactions added to Bitcoin's shared record.",
+      "Pool: a team of miners sharing the work and the rewards.",
+      "Hashrate: how fast a miner can try.",
+      "Mine is tiny. The network is huge.",
+      "Solo mining does not guarantee rewards.",
+      "Which word should I explain next? Comment below."
+    ],
+    "poster": "/assets/media/m10-three-words.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "words",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m11-why-run-one",
+    "slug": "why-run-one",
+    "group": "desk-miner-101",
+    "duration_s": 22.3,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m11-why-run-one.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m11-why-run-one_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m11-why-run-one.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m11-why-run-one_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m11-why-run-one_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "If it'll probably never find a block, why run one at all?",
+      "Fair question. StarMiner sent me this one, so here's my honest answer.",
+      "One: you learn how Bitcoin actually works.",
+      "Two: you're part of the Bitcoin network, not just watching it.",
+      "Three: it's honestly fun to check in on.",
+      "Solo mining does not guarantee rewards.",
+      "Would you run one? Tell me why in the comments."
+    ],
+    "poster": "/assets/media/m11-why-run-one.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "learn",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m12-never-due",
+    "slug": "never-due",
+    "group": "desk-miner-101",
+    "duration_s": 23.9667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m12-never-due.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m12-never-due_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m12-never-due.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m12-never-due_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m12-never-due_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "If a miner has been trying for weeks, is a block coming soon?",
+      "Quick note: StarMiner sent me this miner.",
+      "Nope. Every try is brand new.",
+      "The puzzle doesn't remember any of the tries before.",
+      "Week one or week fifty, it's the same fresh start.",
+      "So there's no countdown and no almost there.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/m12-never-due.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "chance",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m13-what-is-a-hash",
+    "slug": "what-is-a-hash",
+    "group": "desk-miner-101",
+    "duration_s": 25.8333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m13-what-is-a-hash.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m13-what-is-a-hash_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m13-what-is-a-hash.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m13-what-is-a-hash_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m13-what-is-a-hash_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Every Bitcoin block has a fingerprint. It's called a hash.",
+      "Quick note: StarMiner sent me this miner.",
+      "Put data in, and out comes a jumble of letters and numbers.",
+      "Change one tiny thing, and the whole fingerprint changes.",
+      "Miners change a number until that fingerprint fits the network's rule.",
+      "That's the puzzle my little miner keeps working on.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/m13-what-is-a-hash.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "hash",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m14-why-blockchain",
+    "slug": "why-blockchain",
+    "group": "desk-miner-101",
+    "duration_s": 23.4,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m14-why-blockchain.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m14-why-blockchain_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m14-why-blockchain.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m14-why-blockchain_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m14-why-blockchain_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Why is it called a blockchain?",
+      "Quick note: StarMiner sent me this miner.",
+      "Each block stores the fingerprint of the one before it.",
+      "That links the blocks together into a chain.",
+      "Change an old block, and every link after it breaks.",
+      "That's why Bitcoin's history is so hard to rewrite.",
+      "My little miner tries to add the next link.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/m14-why-blockchain.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "chain",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m15-who-checks-miners",
+    "slug": "who-checks-miners",
+    "group": "desk-miner-101",
+    "duration_s": 24.5667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m15-who-checks-miners.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m15-who-checks-miners_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m15-who-checks-miners.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m15-who-checks-miners_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m15-who-checks-miners_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Miners add blocks. So who checks the miners?",
+      "Quick note: StarMiner sent me this miner.",
+      "Computers called nodes check every new block against the rules.",
+      "A block that breaks the rules doesn't get passed on.",
+      "Good blocks spread across the network.",
+      "Everyone keeps the same shared record.",
+      "Even big miners have to follow those same rules.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/m15-who-checks-miners.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "nodes",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m16-where-fees-go",
+    "slug": "where-fees-go",
+    "group": "desk-miner-101",
+    "duration_s": 21.9667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m16-where-fees-go.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m16-where-fees-go_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m16-where-fees-go.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m16-where-fees-go_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m16-where-fees-go_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Where do Bitcoin transaction fees go?",
+      "Quick note: StarMiner sent me this miner.",
+      "When you send bitcoin, you can add a small fee.",
+      "The miner who puts your transaction in a block collects that fee.",
+      "Together with new bitcoin, those fees make up the block reward.",
+      "Every miner tries to be the one that collects it.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/m16-where-fees-go.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "fees",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m17-solo-pool",
+    "slug": "solo-pool",
+    "group": "desk-miner-101",
+    "duration_s": 23.6667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m17-solo-pool.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m17-solo-pool_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m17-solo-pool.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m17-solo-pool_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m17-solo-pool_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "You can mine solo through a pool. Wait, what?",
+      "Quick note: StarMiner sent me this miner.",
+      "Some services, called solo pools, connect your miner to the network.",
+      "But you're still mining solo, not sharing work as a team.",
+      "If your miner finds a block, that reward is yours.",
+      "If it doesn't, there's nothing for the group to share.",
+      "Solo mining does not guarantee rewards.",
+      "Tell me in the comments: pool or solo?"
+    ],
+    "poster": "/assets/media/m17-solo-pool.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "solo-pool",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m18-phone-mining",
+    "slug": "phone-mining",
+    "group": "desk-miner-101",
+    "duration_s": 26.0,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m18-phone-mining.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m18-phone-mining_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m18-phone-mining.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m18-phone-mining_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m18-phone-mining_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Can you mine Bitcoin on your phone?",
+      "Quick note: StarMiner sent me this miner.",
+      "In two thousand nine, people mined on ordinary computers.",
+      "Then came graphics cards, around two thousand ten.",
+      "Then, around two thousand thirteen, special mining chips took over.",
+      "Desk miners like this one use those special chips today.",
+      "Your phone just can't keep up with them.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/m18-phone-mining.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "phone",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m19-inside-a-block",
+    "slug": "inside-a-block",
+    "group": "desk-miner-101",
+    "duration_s": 22.9667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m19-inside-a-block.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m19-inside-a-block_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m19-inside-a-block.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m19-inside-a-block_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m19-inside-a-block_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "What's actually inside a Bitcoin block?",
+      "Quick note: StarMiner sent me this miner.",
+      "First, a batch of transactions, all bundled together.",
+      "Then a header with the fingerprint of the block before it.",
+      "One special entry pays the finder: new bitcoin plus the fees.",
+      "Seal it with a valid hash, and it joins the chain.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/m19-inside-a-block.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "inside",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m20-proof-of-work",
+    "slug": "proof-of-work",
+    "group": "desk-miner-101",
+    "duration_s": 24.7333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m20-proof-of-work.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m20-proof-of-work_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m20-proof-of-work.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m20-proof-of-work_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m20-proof-of-work_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Proof of work. Proof of what, exactly?",
+      "Quick note: StarMiner sent me this miner.",
+      "A block only counts if its fingerprint fits the network's rule.",
+      "Finding one usually takes a huge number of tries.",
+      "A valid fingerprint proves that work went into making the block.",
+      "That makes it very hard to fake.",
+      "My little miner keeps doing that work all day.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/m20-proof-of-work.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "pow",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m21-same-time",
+    "slug": "same-time",
+    "group": "desk-miner-101",
+    "duration_s": 22.8667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m21-same-time.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m21-same-time_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m21-same-time.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m21-same-time_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m21-same-time_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "What if two miners find a block at the same time?",
+      "Quick note: StarMiner sent me this miner.",
+      "It happens. Two versions of the chain exist for a moment.",
+      "Then the next block lands on one branch.",
+      "Nodes follow that chain with more work. The other block is dropped.",
+      "My little miner keeps trying the next block.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/m21-same-time.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "fork",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "m22-blocks-per-day",
+    "slug": "blocks-per-day",
+    "group": "desk-miner-101",
+    "duration_s": 25.5333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m22-blocks-per-day.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m22-blocks-per-day_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m22-blocks-per-day.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m22-blocks-per-day_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/desk-miner-101-v1/m22-blocks-per-day_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "About one hundred forty-four Bitcoin blocks get added every day.",
+      "Quick note: StarMiner sent me this miner.",
+      "That's roughly one every ten minutes, on average across the network.",
+      "Every block is a fresh puzzle for every miner on Earth.",
+      "Big or tiny, everyone starts each block from scratch.",
+      "Including my little miner, still trying with the rest.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/m22-blocks-per-day.jpg",
+    "upload_date": "2026-10-02T11:27:04Z",
+    "original_language": "en",
+    "topic": "day",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "story-01-rewards",
+    "slug": "story-01-rewards",
+    "group": "product-stories",
+    "duration_s": 23.0,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-01-rewards.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-01-rewards_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-01-rewards.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-01-rewards_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "The odds? Once in eighteen thousand years.",
+      "It happened in eight hours.",
+      "In July, one tiny Bit-Axe Gamma, mining solo, found a whole Bitcoin block.",
+      "Over three bitcoin. About two hundred thousand dollars.",
+      "Skill? Nope. Pure luck.",
+      "Solo mining does not guarantee rewards.",
+      "This is the StarMiner Bit-Axe Gamma six-oh-one. It sits right on your desk.",
+      "Would you run one?"
+    ],
+    "poster": "/assets/media/story-01-rewards.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "rewards",
+    "show_edition": false,
+    "historical": true
+  },
+  {
+    "id": "story-02-block-rewards",
+    "slug": "story-02-block-rewards",
+    "group": "product-stories",
+    "duration_s": 27.9,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-02-block-rewards.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-02-block-rewards_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-02-block-rewards.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-02-block-rewards_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Roughly every ten minutes, one Bitcoin block pays out about a quarter million dollars.",
+      "Here's who gets it.",
+      "Miners race to find each block. The winner gets three point one two five bitcoin, plus fees.",
+      "Most miners join pools: small, steady payouts.",
+      "Solo miners go it alone. The whole block, or nothing.",
+      "And for most solo miners, it's nothing.",
+      "Solo mining does not guarantee rewards.",
+      "The Gamma six-oh-one lets you pick your pool in the app.",
+      "So, team pool or team solo?"
+    ],
+    "poster": "/assets/media/story-02-block-rewards.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "found",
+    "show_edition": false,
+    "historical": true
+  },
+  {
+    "id": "story-03-myths",
+    "slug": "story-03-myths",
+    "group": "product-stories",
+    "duration_s": 21.433333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-03-myths.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-03-myths_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-03-myths.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-03-myths_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Three Bitcoin mining myths. Number three is the big one.",
+      "Myth one: you need a warehouse.",
+      "Nope. This one sits on a desk.",
+      "Myth two: it's hard to set up.",
+      "Plug it in, set up Wi-Fi, then check it from the app.",
+      "Myth three: it prints money.",
+      "It doesn't.",
+      "Solo mining does not guarantee rewards.",
+      "It's a hobby, not a salary.",
+      "Send this to the friend who thinks it prints money."
+    ],
+    "poster": "/assets/media/story-03-myths.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "myths",
+    "show_edition": false,
+    "historical": true
+  },
+  {
+    "id": "story-04-setup",
+    "slug": "story-04-setup",
+    "group": "product-stories",
+    "duration_s": 16.433333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-04-setup.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-04-setup_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-04-setup.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-04-setup_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Bitcoin miner setup, sped up.",
+      "Unbox.",
+      "Plug in.",
+      "Screen on.",
+      "Wi-Fi setup in the app.",
+      "And it's mining.",
+      "Solo mining does not guarantee rewards.",
+      "StarMiner Bit-Axe Gamma six-oh-one."
+    ],
+    "poster": "/assets/media/story-04-setup.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "setup",
+    "show_edition": false,
+    "historical": true
+  },
+  {
+    "id": "story-05-coworker",
+    "slug": "story-05-coworker",
+    "group": "product-stories",
+    "duration_s": 19.566667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-05-coworker.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-05-coworker_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-05-coworker.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-05-coworker_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Hey, what's that glowing thing on your desk?",
+      "My Bitcoin miner.",
+      "Wait, it's mining right now?",
+      "Right now.",
+      "So how much has it made?",
+      "Nothing yet.",
+      "Then why run it?",
+      "Because if it ever finds a block, that's a whole block.",
+      "And if it doesn't?",
+      "Then it's still the coolest thing on my desk."
+    ],
+    "poster": "/assets/media/story-05-coworker.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "desk",
+    "show_edition": false,
+    "historical": true
+  },
+  {
+    "id": "story-06-halving",
+    "slug": "story-06-halving",
+    "group": "product-stories",
+    "duration_s": 26.433333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-06-halving.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-06-halving_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-06-halving.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-06-halving_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "In about eighteen months, every Bitcoin miner takes a fifty percent pay cut.",
+      "It's called the halving.",
+      "About every four years, the new bitcoin in each block gets cut in half.",
+      "Today it's three point one two five. In spring twenty twenty-eight, half that.",
+      "That's why miners watch the block count like a countdown clock.",
+      "Even a desk miner like the Gamma six-oh-one plays by the same rules.",
+      "Solo mining does not guarantee rewards.",
+      "Follow, and we'll count it down together."
+    ],
+    "poster": "/assets/media/story-06-halving.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "halving",
+    "show_edition": false,
+    "historical": true
+  },
+  {
+    "id": "story-07-history",
+    "slug": "story-07-history",
+    "group": "product-stories",
+    "duration_s": 25.6,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-07-history.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-07-history_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-07-history.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-07-history_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "In two thousand nine, you could mine Bitcoin on a laptop.",
+      "Then people moved to graphics cards.",
+      "Then custom chips took over, and mining moved into giant warehouses.",
+      "Now it's coming back home.",
+      "Open-source Bit-Axe miners put a real mining chip back on your desk.",
+      "Like this StarMiner Bit-Axe Gamma six-oh-one. Set it up over Wi-Fi, check it from the app.",
+      "Solo mining does not guarantee rewards.",
+      "But solo miners do still find blocks.",
+      "Did you ever mine on a laptop?"
+    ],
+    "poster": "/assets/media/story-07-history.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "history",
+    "show_edition": false,
+    "historical": true
+  },
+  {
+    "id": "story-08-shovels",
+    "slug": "story-08-shovels",
+    "group": "product-stories",
+    "duration_s": 27.366667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-08-shovels.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-08-shovels_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-08-shovels.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-08-shovels_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "California's first gold rush millionaire never dug for gold.",
+      "Sam Brannan sold the supplies. Pans, shovels, everything miners needed.",
+      "Bitcoin has a gold rush too. And it has shovels.",
+      "Home miners, like the StarMiner Bit-Axe Gamma six-oh-one.",
+      "We design them with in-house R and D, and build them in our own manufacturing facility.",
+      "With factory-direct distributor terms.",
+      "Want to sell the shovels? Comment DEALER and we'll reach out."
+    ],
+    "poster": "/assets/media/story-08-shovels.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "business",
+    "show_edition": false,
+    "historical": true
+  },
+  {
+    "id": "story-09-supplier",
+    "slug": "story-09-supplier",
+    "group": "product-stories",
+    "duration_s": 25.7,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-09-supplier.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-09-supplier_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-09-supplier.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-09-supplier_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Selling Bitcoin miners? Ask your supplier three questions.",
+      "One. Who designs it?",
+      "Ours come from our in-house R and D team.",
+      "Two. Who builds it?",
+      "We do, in our own manufacturing facility.",
+      "Three. Can I come and see it?",
+      "Yes. Our partners are welcome to visit our manufacturing facility.",
+      "Keeping it in house helps us control costs and oversee production quality.",
+      "StarMiner. Factory-direct distributor terms. Comment DEALER and we'll reach out."
+    ],
+    "poster": "/assets/media/story-09-supplier.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "supplier",
+    "show_edition": false,
+    "historical": true
+  },
+  {
+    "id": "story-10-headlines",
+    "slug": "story-10-headlines",
+    "group": "product-stories",
+    "duration_s": 26.766667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-10-headlines.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-10-headlines_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-10-headlines.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-10-headlines_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Your customers are seeing these headlines.",
+      "A tiny solo miner found a whole Bitcoin block.",
+      "Solo miners claimed twenty-four blocks in a year. Up forty-one percent.",
+      "And Bitcoin is trading near eighty-five thousand dollars.",
+      "Headlines like these make people curious about home miners.",
+      "StarMiner builds the Bit-Axe Gamma six-oh-one in our own facility, with factory-direct distributor terms.",
+      "Selling electronics? Comment DEALER and we'll reach out."
+    ],
+    "poster": "/assets/media/story-10-headlines.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "headlines",
+    "show_edition": false,
+    "historical": true
+  },
+  {
+    "id": "story-11-gift",
+    "slug": "story-11-gift",
+    "group": "product-stories",
+    "duration_s": 17.266667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-11-gift.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-11-gift_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-11-gift.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-11-gift_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Your Bitcoin friend has everything. Except this.",
+      "Unwrap a desktop Bitcoin miner.",
+      "StarMiner Bit-Axe Gamma six-oh-one.",
+      "Compact. Right on their desk.",
+      "Wi-Fi setup. Check it in the app.",
+      "For fun, not income.",
+      "Solo mining does not guarantee rewards.",
+      "Tag your Bitcoin friend."
+    ],
+    "poster": "/assets/media/story-11-gift.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "gift",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "story-12-gift-story",
+    "slug": "story-12-gift-story",
+    "group": "product-stories",
+    "duration_s": 28.466667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-12-gift-story.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-12-gift-story_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-12-gift-story.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-12-gift-story_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Your Bitcoin friend has everything.",
+      "Bitcoin mug? Has it.",
+      "Bitcoin socks? Has it.",
+      "The hoodie? Obviously.",
+      "But have they ever mined Bitcoin themselves?",
+      "It's a real Bitcoin miner. Right on their desk.",
+      "StarMiner Bit-Axe Gamma six-oh-one.",
+      "Every ten minutes, it tries for a whole block.",
+      "Will it ever find one? Probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But it's the only gift that's actually trying.",
+      "Tag the friend who has everything."
+    ],
+    "poster": "/assets/media/story-12-gift-story.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "gift",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "story-c01-honest-review",
+    "slug": "story-c01-honest-review",
+    "group": "product-stories",
+    "duration_s": 26.3,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-c01-honest-review.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-c01-honest-review_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-c01-honest-review.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-c01-honest-review_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "I put a Bitcoin miner on my desk. Here's the honest truth.",
+      "Quick note: StarMiner sent me this one.",
+      "Size? Tiny. It fits right on my desk.",
+      "Setup? Wi-Fi and an app.",
+      "What does it do all day? It tries to find a whole Bitcoin block.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But watching it try is weirdly fun.",
+      "Would you put one on your desk?"
+    ],
+    "poster": "/assets/media/story-c01-honest-review.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "buy",
+    "show_edition": false,
+    "historical": true
+  },
+  {
+    "id": "r01-paper-block",
+    "slug": "r01-paper-block",
+    "group": "visual-explainers",
+    "duration_s": 22.966016,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r01-paper-block.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r01-paper-block_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r01-paper-block.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r01-paper-block_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "What even is a Bitcoin block?",
+      "Picture Bitcoin as one giant shared notebook.",
+      "Each page is a block: a batch of transactions.",
+      "About every ten minutes, the network adds a new page.",
+      "Miners race to seal it.",
+      "StarMiner Solo Miner is a desktop example of a Bitcoin miner.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/r01-paper-block.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "block",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "r02-paper-hash",
+    "slug": "r02-paper-hash",
+    "group": "visual-explainers",
+    "duration_s": 23.933008,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r02-paper-hash.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r02-paper-hash_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r02-paper-hash.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r02-paper-hash_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Every Bitcoin block has a fingerprint. It's called a hash.",
+      "Put data in, and out comes a jumble of letters and numbers.",
+      "Change one tiny thing, and the whole fingerprint changes.",
+      "Miners change a number until that fingerprint fits the network's rule.",
+      "StarMiner Solo Miner does that same number work on a desk.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/r02-paper-hash.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "hash",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "r03-paper-chain",
+    "slug": "r03-paper-chain",
+    "group": "visual-explainers",
+    "duration_s": 22.433008,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r03-paper-chain.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r03-paper-chain_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r03-paper-chain.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r03-paper-chain_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Why is it called a blockchain?",
+      "Each block stores the fingerprint of the one before it.",
+      "That links the blocks together into a chain.",
+      "Change an old block, and every link after it breaks.",
+      "That's why Bitcoin's history is so hard to rewrite.",
+      "StarMiner Solo Miner works within those same Bitcoin network rules.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/r03-paper-chain.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "chain",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "r04-paper-inside",
+    "slug": "r04-paper-inside",
+    "group": "visual-explainers",
+    "duration_s": 24.533333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r04-paper-inside.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r04-paper-inside_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r04-paper-inside.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r04-paper-inside_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "What's actually inside a Bitcoin block?",
+      "First, a batch of transactions, all bundled together.",
+      "Then a header with the fingerprint of the block before it.",
+      "One special entry pays the finder: new bitcoin plus the fees.",
+      "Seal it with a valid hash, and it joins the chain.",
+      "StarMiner Solo Miner is a desktop example of a Bitcoin miner.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/r04-paper-inside.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "inside",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "r05-chalk-miners",
+    "slug": "r05-chalk-miners",
+    "group": "visual-explainers",
+    "duration_s": 26.566667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r05-chalk-miners.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r05-chalk-miners_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r05-chalk-miners.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r05-chalk-miners_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "So what does a Bitcoin miner actually do all day?",
+      "To add the next block, there's a puzzle to solve.",
+      "And the only way to solve it is to keep trying numbers.",
+      "Try, check, nope. Try, check, nope.",
+      "Miners everywhere do this nonstop, super fast.",
+      "StarMiner Solo Miner does that same number work on a desk.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/r05-chalk-miners.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "miners",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "r06-chalk-shovel",
+    "slug": "r06-chalk-shovel",
+    "group": "visual-explainers",
+    "duration_s": 23.833333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r06-chalk-shovel.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r06-chalk-shovel_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r06-chalk-shovel.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r06-chalk-shovel_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "It's called Bitcoin mining. So where's the shovel?",
+      "Gold miners dig through rock to find something rare.",
+      "Bitcoin miners dig through numbers instead.",
+      "Whoever finds the next block gets new bitcoin as the reward.",
+      "That's the mining part. The digging is math.",
+      "StarMiner Solo Miner does that same number work on a desk.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/r06-chalk-shovel.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "mining",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "r07-chalk-nodes",
+    "slug": "r07-chalk-nodes",
+    "group": "visual-explainers",
+    "duration_s": 25.9,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r07-chalk-nodes.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r07-chalk-nodes_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r07-chalk-nodes.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r07-chalk-nodes_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Miners add blocks. So who checks the miners?",
+      "Computers called nodes check every new block against the rules.",
+      "A block that breaks the rules doesn't get passed on.",
+      "Good blocks spread across the network.",
+      "Everyone keeps the same shared record.",
+      "Even big miners have to follow those same rules.",
+      "StarMiner Solo Miner works within those same Bitcoin network rules.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/r07-chalk-nodes.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "nodes",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "r08-chalk-proof",
+    "slug": "r08-chalk-proof",
+    "group": "visual-explainers",
+    "duration_s": 23.2,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r08-chalk-proof.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r08-chalk-proof_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r08-chalk-proof.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r08-chalk-proof_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Proof of work. Proof of what, exactly?",
+      "A block only counts if its fingerprint fits the network's rule.",
+      "Finding one usually takes a huge number of tries.",
+      "A valid fingerprint proves that work went into making the block.",
+      "That makes it very hard to fake.",
+      "StarMiner Solo Miner does that same number work on a desk.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/r08-chalk-proof.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "pow",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "r09-editorial-time",
+    "slug": "r09-editorial-time",
+    "group": "visual-explainers",
+    "duration_s": 25.866667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r09-editorial-time.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r09-editorial-time_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r09-editorial-time.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r09-editorial-time_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Why does Bitcoin add a block about every ten minutes?",
+      "If more miners join, blocks would come faster.",
+      "So about every two weeks, the network checks its pace.",
+      "Too fast? The puzzle gets harder. Too slow? It gets easier.",
+      "That keeps it near ten minutes on average.",
+      "StarMiner Solo Miner works within those same Bitcoin network rules.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/r09-editorial-time.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "interval",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "r10-editorial-fees",
+    "slug": "r10-editorial-fees",
+    "group": "visual-explainers",
+    "duration_s": 23.533333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r10-editorial-fees.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r10-editorial-fees_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r10-editorial-fees.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r10-editorial-fees_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Where do Bitcoin transaction fees go?",
+      "When you send bitcoin, you can add a small fee.",
+      "The miner who puts your transaction in a block collects that fee.",
+      "Together with new bitcoin, those fees make up the block reward.",
+      "Every miner tries to be the one that collects it.",
+      "StarMiner Solo Miner is a desktop example of a Bitcoin miner.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/r10-editorial-fees.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "fees",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "r11-editorial-fork",
+    "slug": "r11-editorial-fork",
+    "group": "visual-explainers",
+    "duration_s": 21.933333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r11-editorial-fork.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r11-editorial-fork_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r11-editorial-fork.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r11-editorial-fork_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "What if two miners find a block at the same time?",
+      "It happens. Two versions of the chain exist for a moment.",
+      "Then the next block lands on one branch.",
+      "Nodes follow that chain with more work. The other block is dropped.",
+      "StarMiner Solo Miner works within those same Bitcoin network rules.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/r11-editorial-fork.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "fork",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "r12-editorial-day",
+    "slug": "r12-editorial-day",
+    "group": "visual-explainers",
+    "duration_s": 24.266667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r12-editorial-day.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r12-editorial-day_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r12-editorial-day.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r12-editorial-day_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "About one hundred forty-four Bitcoin blocks get added every day.",
+      "That's roughly one every ten minutes, on average across the network.",
+      "Every block is a fresh puzzle for every miner on Earth.",
+      "Big or tiny, everyone starts each block from scratch.",
+      "StarMiner Solo Miner is a desktop example of a Bitcoin miner.",
+      "Solo mining does not guarantee rewards.",
+      "Follow for more honest desk miner basics."
+    ],
+    "poster": "/assets/media/r12-editorial-day.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "day",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "buyer-01-first-miner",
+    "slug": "buyer-01-first-miner",
+    "group": "buyer-dealer-guides",
+    "duration_s": 16.433333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-01-first-miner.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-01-first-miner.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-01-first-miner_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Buying a Bitcoin miner",
+      "for passive income?",
+      "Hear this first.",
+      "Gamma 601",
+      "is compact desktop hardware",
+      "you can explore",
+      "hands on.",
+      "Solo mining",
+      "does not guarantee rewards.",
+      "If the hardware",
+      "is what excites you,",
+      "explore the model",
+      "on our website."
+    ],
+    "poster": "/assets/media/buyer-01-first-miner.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "buy",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "buyer-02-cost-check",
+    "slug": "buyer-02-cost-check",
+    "group": "buyer-dealer-guides",
+    "duration_s": 17.233333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-02-cost-check.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-02-cost-check.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-02-cost-check_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Before you ask",
+      "about mining payback,",
+      "ask these three questions.",
+      "What's your electricity rate?",
+      "What power",
+      "does the device use?",
+      "How are rewards paid?",
+      "Solo mining",
+      "does not guarantee rewards.",
+      "Ask StarMiner",
+      "for current Gamma 601",
+      "specifications before buying."
+    ],
+    "poster": "/assets/media/buyer-02-cost-check.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "cost",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "buyer-03-desk-choice",
+    "slug": "buyer-03-desk-choice",
+    "group": "buyer-dealer-guides",
+    "duration_s": 16.033333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-03-desk-choice.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-03-desk-choice.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-03-desk-choice_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Orange or black?",
+      "Which one belongs",
+      "on your desk?",
+      "Meet Gamma 601:",
+      "a compact Bitcoin miner",
+      "with hardware worth",
+      "a closer look.",
+      "Solo mining",
+      "does not guarantee rewards.",
+      "Choose your style,",
+      "then check current configurations",
+      "on our website."
+    ],
+    "poster": "/assets/media/buyer-03-desk-choice.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "design",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "buyer-04-setup-path",
+    "slug": "buyer-04-setup-path",
+    "group": "buyer-dealer-guides",
+    "duration_s": 16.866667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-04-setup-path.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-04-setup-path.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-04-setup-path_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "The box is open.",
+      "Now what?",
+      "For Gamma 601,",
+      "the path is power,",
+      "network setup,",
+      "then app monitoring.",
+      "Follow the official guide",
+      "for your model.",
+      "Solo mining",
+      "does not guarantee rewards.",
+      "See the setup guide",
+      "and explore the hardware",
+      "on our website."
+    ],
+    "poster": "/assets/media/buyer-04-setup-path.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "setup",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "buyer-05-holiday-project",
+    "slug": "buyer-05-holiday-project",
+    "group": "buyer-dealer-guides",
+    "duration_s": 17.4,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-05-holiday-project.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-05-holiday-project.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-05-holiday-project_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Shopping for a Bitcoin fan",
+      "who loves building things?",
+      "Think about a hands on",
+      "hardware project:",
+      "Gamma 601,",
+      "with network setup",
+      "and app monitoring.",
+      "Solo mining",
+      "does not guarantee rewards.",
+      "For a gift",
+      "built around curiosity,",
+      "explore the model",
+      "on our website."
+    ],
+    "poster": "/assets/media/buyer-05-holiday-project.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "gift",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "buyer-06-phone-role",
+    "slug": "buyer-06-phone-role",
+    "group": "buyer-dealer-guides",
+    "duration_s": 14.2,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-06-phone-role.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-06-phone-role.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-06-phone-role_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "The phone is not",
+      "the mining hardware.",
+      "Gamma 601",
+      "is the physical Bitcoin miner.",
+      "The app is for",
+      "monitoring the device.",
+      "Solo mining",
+      "does not guarantee rewards.",
+      "Want to understand",
+      "the real hardware?",
+      "Explore it on our website."
+    ],
+    "poster": "/assets/media/buyer-06-phone-role.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "phone",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "buyer-07-real-margin",
+    "slug": "buyer-07-real-margin",
+    "group": "buyer-dealer-guides",
+    "duration_s": 20.3,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-07-real-margin.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-07-real-margin.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-07-real-margin_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Retailers:",
+      "the gap between",
+      "wholesale and retail",
+      "is not",
+      "your take home profit.",
+      "Count freight, fees,",
+      "returns and support",
+      "before setting your price.",
+      "Ask StarMiner",
+      "about Gamma 601",
+      "configurations and distributor terms.",
+      "Build the offer",
+      "on real costs.",
+      "Visit our distributor page."
+    ],
+    "poster": "/assets/media/buyer-07-real-margin.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "margin",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "buyer-08-demo-first",
+    "slug": "buyer-08-demo-first",
+    "group": "buyer-dealer-guides",
+    "duration_s": 17.9,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-08-demo-first.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-08-demo-first.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-08-demo-first_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Before you build inventory,",
+      "build a product demonstration.",
+      "Show the setup.",
+      "Explain who",
+      "the hardware is for.",
+      "Track customer questions,",
+      "not just video views.",
+      "Then discuss",
+      "Gamma 601 configurations",
+      "with StarMiner.",
+      "Tell us your market",
+      "and sales channel",
+      "on our distributor page."
+    ],
+    "poster": "/assets/media/buyer-08-demo-first.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "demo",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "buyer-09-supplier-proof",
+    "slug": "buyer-09-supplier-proof",
+    "group": "buyer-dealer-guides",
+    "duration_s": 17.966667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-09-supplier-proof.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-09-supplier-proof.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-09-supplier-proof_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "A supplier conversation",
+      "should go beyond",
+      "a product photo.",
+      "Ask who handles design,",
+      "manufacturing and support.",
+      "StarMiner reports",
+      "in house research",
+      "and manufacturing.",
+      "Discuss the exact model",
+      "and support terms",
+      "before ordering.",
+      "Request partnership information",
+      "on our distributor page."
+    ],
+    "poster": "/assets/media/buyer-09-supplier-proof.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "supplier",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "buyer-10-q4-planning",
+    "slug": "buyer-10-q4-planning",
+    "group": "buyer-dealer-guides",
+    "duration_s": 20.0,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-10-q4-planning.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-10-q4-planning.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-10-q4-planning_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Planning fourth quarter",
+      "hardware stock?",
+      "Ask three things first.",
+      "Configuration, availability",
+      "and delivery schedule.",
+      "Confirm the details",
+      "before promising dates.",
+      "Tell StarMiner your country,",
+      "sales channels",
+      "and partnership plan.",
+      "Request current terms",
+      "through our distributor page."
+    ],
+    "poster": "/assets/media/buyer-10-q4-planning.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "planning",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "original-distributor",
+    "slug": "original-distributor",
+    "group": "product-films",
+    "duration_s": 24.0,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-distributor.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-distributor_no_music.mp4",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-distributor_cover.jpg",
+      "music_only": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-distributor_music_only.mp4"
+    },
+    "index": true,
+    "transcript": [
+      "Bitcoin mining, on your desk.",
+      "Meet the StarMiner Gamma 601:",
+      "compact hardware,",
+      "Wi-Fi setup, and app monitoring.",
+      "Get hands-on with your own Bitcoin miner.",
+      "Solo mining does not guarantee rewards.",
+      "Explore Gamma 601",
+      "at ustarminer.com."
+    ],
+    "poster": "/assets/media/original-distributor.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "product",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "original-enthusiast",
+    "slug": "original-enthusiast",
+    "group": "product-films",
+    "duration_s": 20.0,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-enthusiast.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-enthusiast_no_music.mp4",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-enthusiast_cover.jpg",
+      "music_only": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-enthusiast_music_only.mp4"
+    },
+    "index": true,
+    "transcript": [
+      "Bitcoin mining, on your desk.",
+      "Meet the StarMiner Gamma 601:",
+      "compact hardware,",
+      "Wi-Fi setup, and app monitoring.",
+      "Get hands-on with your own Bitcoin miner.",
+      "Solo mining does not guarantee rewards.",
+      "Explore Gamma 601",
+      "at ustarminer.com."
+    ],
+    "poster": "/assets/media/original-enthusiast.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "product",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "design-distributor",
+    "slug": "design-distributor",
+    "group": "product-films",
+    "duration_s": 24.0,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-distributor.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-distributor_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-distributor.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-distributor_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Bitcoin mining, on your desk.",
+      "Meet the StarMiner Gamma 601:",
+      "compact hardware,",
+      "Wi-Fi setup, and app monitoring.",
+      "Get hands-on with your own Bitcoin miner.",
+      "Solo mining does not guarantee rewards.",
+      "Explore Gamma 601",
+      "at ustarminer.com."
+    ],
+    "poster": "/assets/media/design-distributor.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "product",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "design-enthusiast",
+    "slug": "design-enthusiast",
+    "group": "product-films",
+    "duration_s": 20.0,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-enthusiast.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-enthusiast_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-enthusiast.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-enthusiast_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Bitcoin mining, on your desk.",
+      "Meet the StarMiner Gamma 601:",
+      "compact hardware,",
+      "Wi-Fi setup, and app monitoring.",
+      "Get hands-on with your own Bitcoin miner.",
+      "Solo mining does not guarantee rewards.",
+      "Explore Gamma 601",
+      "at ustarminer.com."
+    ],
+    "poster": "/assets/media/design-enthusiast.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "product",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "desktop-product-film",
+    "slug": "desktop-product-film",
+    "group": "product-films",
+    "duration_s": 16.0,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-film.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-film_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-film.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-film_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Bitcoin mining, on your desk.",
+      "Meet the StarMiner Gamma 601:",
+      "compact hardware,",
+      "Wi-Fi setup, and app monitoring.",
+      "Solo mining does not guarantee rewards.",
+      "Explore Gamma 601",
+      "at ustarminer.com."
+    ],
+    "poster": "/assets/media/desktop-product-film.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "product",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "desktop-product-opening",
+    "slug": "desktop-product-opening",
+    "group": "product-films",
+    "duration_s": 16.0,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-opening.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-film.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-film_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Bitcoin mining, on your desk.",
+      "Meet the StarMiner Gamma 601:",
+      "compact hardware,",
+      "Wi-Fi setup, and app monitoring.",
+      "Solo mining does not guarantee rewards.",
+      "Explore Gamma 601",
+      "at ustarminer.com."
+    ],
+    "poster": "/assets/media/desktop-product-opening.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "product",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "desktop-product-narration",
+    "slug": "desktop-product-narration",
+    "group": "product-films",
+    "duration_s": 16.0,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-narration.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-narration_no_music.mp4",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-film_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Bitcoin mining, on your desk.",
+      "Meet the StarMiner Gamma 601:",
+      "compact hardware,",
+      "Wi-Fi setup, and app monitoring.",
+      "Solo mining does not guarantee rewards.",
+      "Explore Gamma 601",
+      "at ustarminer.com."
+    ],
+    "poster": "/assets/media/desktop-product-narration.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "product",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "desktop-miner-reveal",
+    "slug": "desktop-miner-reveal",
+    "group": "product-films",
+    "duration_s": 17.766667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-miner-reveal.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-miner-reveal_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-miner-reveal.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-miner-reveal_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Guess what this tiny thing does?",
+      "Hint: it's not a desk fan",
+      "It mines Bitcoin, right on your desk",
+      "It's the StarMiner Gamma 601",
+      "Set it up over Wi-Fi,",
+      "then check on it from the app",
+      "The catch?",
+      "Solo mining does not guarantee rewards.",
+      "So, would you still run one?"
+    ],
+    "poster": "/assets/media/desktop-miner-reveal.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "reveal",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "gamma601-overview",
+    "slug": "gamma601-overview",
+    "group": "product-films",
+    "duration_s": 21.4,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/gamma601-overview.mp4",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/gamma601-overview_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "This tiny board",
+      "mines Bitcoin",
+      "but it doesn't",
+      "print money",
+      "Here's what it's doing",
+      "trying to find",
+      "a valid block",
+      "In solo mining",
+      "rewards aren't guaranteed",
+      "Meet Gamma 601",
+      "desktop hardware",
+      "Wi-Fi setup",
+      "app monitoring",
+      "Curious about the tech",
+      "Follow for",
+      "Bitcoin Hardware explained"
+    ],
+    "poster": "/assets/media/gamma601-overview.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "device",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "early-product-film",
+    "slug": "early-product-film",
+    "group": "alternate-cuts",
+    "duration_s": 14.966667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/early-product-film.mp4",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/early-product-film_cover.jpg"
+    },
+    "index": false,
+    "transcript": [],
+    "poster": "/assets/media/early-product-film.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "product",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-r5qn",
+    "slug": "daily-cut-r5qn",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-r5qn.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-53a5",
+    "slug": "daily-cut-53a5",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-53a5.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-53a5_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-53a5_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-53a5.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-622n",
+    "slug": "daily-cut-622n",
+    "group": "daily-use",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-622n.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-622n_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-622n_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-622n.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": false
+  },
+  {
+    "id": "daily-cut-xxq4",
+    "slug": "daily-cut-xxq4",
+    "group": "daily-use",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-xxq4.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-xxq4_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-xxq4_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-xxq4.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": false
+  },
+  {
+    "id": "daily-cut-dxda",
+    "slug": "daily-cut-dxda",
+    "group": "daily-use",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-dxda.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-dxda_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-dxda_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-dxda.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": false
+  },
+  {
+    "id": "daily-cut-avq6",
+    "slug": "daily-cut-avq6",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-avq6.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-avq6_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-avq6_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-avq6.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-5hbl",
+    "slug": "daily-cut-5hbl",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-5hbl.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-5hbl_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-5hbl_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-5hbl.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-uwdf",
+    "slug": "daily-cut-uwdf",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-uwdf.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-uwdf_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-uwdf_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-uwdf.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-hth7",
+    "slug": "daily-cut-hth7",
+    "group": "daily-use",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hth7.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hth7_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hth7_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-hth7.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": false
+  },
+  {
+    "id": "daily-cut-bdul",
+    "slug": "daily-cut-bdul",
+    "group": "daily-use",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-bdul.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-bdul_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-bdul_cover.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-bdul.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": false
+  },
+  {
+    "id": "daily-cut-ka85",
+    "slug": "daily-cut-ka85",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ka85.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ka85_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ka85_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-ka85.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-bkpy",
+    "slug": "daily-cut-bkpy",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-bkpy.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-bkpy_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-bkpy_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-bkpy.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-hfl8",
+    "slug": "daily-cut-hfl8",
+    "group": "alternate-cuts",
+    "duration_s": 26.066016,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hfl8.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hfl8_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hfl8_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-hfl8.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-pb6a",
+    "slug": "daily-cut-pb6a",
+    "group": "alternate-cuts",
+    "duration_s": 26.066016,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-pb6a.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-pb6a_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-pb6a_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-pb6a.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-vc6m",
+    "slug": "daily-cut-vc6m",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-vc6m.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-vc6m_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-vc6m_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-vc6m.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-ralu",
+    "slug": "daily-cut-ralu",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ralu.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ralu_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ralu_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-ralu.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-h3mf",
+    "slug": "daily-cut-h3mf",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-h3mf.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-h3mf_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-h3mf_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-h3mf.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-95vd",
+    "slug": "daily-cut-95vd",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-95vd.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-95vd_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-95vd_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-95vd.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-z4lw",
+    "slug": "daily-cut-z4lw",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-z4lw.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-z4lw_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-z4lw_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-z4lw.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-4vzc",
+    "slug": "daily-cut-4vzc",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-4vzc.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-4vzc_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-4vzc_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-4vzc.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-538u",
+    "slug": "daily-cut-538u",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-538u.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-538u_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-538u_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-538u.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-4733",
+    "slug": "daily-cut-4733",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-4733.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-4733_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-4733_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-4733.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-w839",
+    "slug": "daily-cut-w839",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-w839.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-w839_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-w839_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-w839.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-s9yj",
+    "slug": "daily-cut-s9yj",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-s9yj.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-s9yj_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-s9yj_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-s9yj.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-9cls",
+    "slug": "daily-cut-9cls",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-9cls.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-9cls_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-9cls_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-9cls.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-kewq",
+    "slug": "daily-cut-kewq",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kewq.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kewq_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kewq_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-kewq.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-z7vr",
+    "slug": "daily-cut-z7vr",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-z7vr.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-z7vr_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-z7vr_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-z7vr.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-gzcf",
+    "slug": "daily-cut-gzcf",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-gzcf.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-gzcf_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-gzcf_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-gzcf.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-fega",
+    "slug": "daily-cut-fega",
+    "group": "alternate-cuts",
+    "duration_s": 26.066016,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-fega.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-fega_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-fega_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-fega.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-gsyf",
+    "slug": "daily-cut-gsyf",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-gsyf.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-gsyf_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-gsyf_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-gsyf.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-kw4z",
+    "slug": "daily-cut-kw4z",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kw4z.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kw4z_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kw4z_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-kw4z.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-pmgj",
+    "slug": "daily-cut-pmgj",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-pmgj.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-pmgj_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-pmgj_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-pmgj.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-mctq",
+    "slug": "daily-cut-mctq",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-mctq.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-mctq_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-mctq_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-mctq.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-ulg2",
+    "slug": "daily-cut-ulg2",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ulg2.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ulg2_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ulg2_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-ulg2.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-39f5",
+    "slug": "daily-cut-39f5",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-39f5.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-39f5_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-39f5_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-39f5.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-hgjh",
+    "slug": "daily-cut-hgjh",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hgjh.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hgjh_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hgjh_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-hgjh.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-8535",
+    "slug": "daily-cut-8535",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-8535.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-8535_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-8535_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-8535.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-sen9",
+    "slug": "daily-cut-sen9",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-sen9.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-sen9_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-sen9_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-sen9.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-vfkn",
+    "slug": "daily-cut-vfkn",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-vfkn.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-vfkn_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-vfkn_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-vfkn.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-558g",
+    "slug": "daily-cut-558g",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-558g.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-558g_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-558g_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-558g.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-88d2",
+    "slug": "daily-cut-88d2",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-88d2.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-88d2_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-88d2_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-88d2.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-kh46",
+    "slug": "daily-cut-kh46",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kh46.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kh46_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kh46_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-kh46.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-9vmh",
+    "slug": "daily-cut-9vmh",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-9vmh.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-9vmh_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-9vmh_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-9vmh.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-ebqy",
+    "slug": "daily-cut-ebqy",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ebqy.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ebqy_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ebqy_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-ebqy.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-wm28",
+    "slug": "daily-cut-wm28",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-wm28.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-wm28_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-wm28_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-wm28.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-aptt",
+    "slug": "daily-cut-aptt",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-aptt.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-aptt_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-aptt_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-aptt.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-kl6q",
+    "slug": "daily-cut-kl6q",
+    "group": "alternate-cuts",
+    "duration_s": 26.066016,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kl6q.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kl6q_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kl6q_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-kl6q.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  },
+  {
+    "id": "daily-cut-xex4",
+    "slug": "daily-cut-xex4",
+    "group": "alternate-cuts",
+    "duration_s": 26.066667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-xex4.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-xex4_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-xex4_cover.jpg"
+    },
+    "index": false,
+    "transcript": [
+      "Day one of trying to mine a whole Bitcoin block from my desk.",
+      "Quick note: StarMiner sent me this miner.",
+      "It's tiny. It joins my Wi-Fi, and I check it from an app.",
+      "Every ten minutes or so, the network finds a new block.",
+      "My little miner tries for every single one.",
+      "Will it ever find one? Honestly, probably not.",
+      "Solo mining does not guarantee rewards.",
+      "But I'm curious, so I'm checking in every day.",
+      "Follow along and see if it ever does."
+    ],
+    "poster": "/assets/media/daily-cut-xex4.jpg",
+    "upload_date": "2026-10-02T17:29:45Z",
+    "original_language": "en",
+    "topic": "daily",
+    "show_edition": true,
+    "historical": true
+  }
+]

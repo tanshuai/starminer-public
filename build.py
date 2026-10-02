@@ -1,119 +1,117 @@
-"""Build the public portfolio from the curated, credential-free catalogue."""
-import argparse, html, json, pathlib, re, shutil, xml.etree.ElementTree as ET
+"""Build independently localized case pages with shared navigation and media."""
+import argparse, html, json, pathlib, shutil, xml.etree.ElementTree as ET
+HERE=pathlib.Path(__file__).resolve().parent
+E=html.escape
 
-HERE = pathlib.Path(__file__).resolve().parent
-parser = argparse.ArgumentParser()
-parser.add_argument('--out', type=pathlib.Path, required=True)
-args = parser.parse_args()
-OUT = args.out.resolve()
-C = json.loads((HERE / 'catalog.json').read_text())
-ORIGIN = C['origin'].rstrip('/')
-A = C['author']
-E = html.escape
-pages = []
-videos = []
-redirects = []
+def load(path):return json.loads(path.read_text())
+def j(value):return json.dumps(value,ensure_ascii=False).replace('<','\\u003c')
+def a(url,label,cls=''):return f'<a class="{cls}" href="{E(url,quote=True)}">{E(label)}</a>'
+def local(code,path):return path if code=='en' else '/'+code+path
 
-def write(name, text):
-    p = OUT / name
-    p.parent.mkdir(parents=True, exist_ok=True)
-    p.write_text(text)
-
-def page(path, title, description, body, schemas=(), image=None, index=True):
-    url = ORIGIN + path
-    graph = [{'@context':'https://schema.org','@type':'WebPage','name':title,'description':description,'url':url,'author':{'@type':'Person','name':A['name'],'url':A['profile']}}] + list(schemas)
-    ld = ''.join('<script type="application/ld+json">' + json.dumps(x,ensure_ascii=False).replace('<','\\u003c') + '</script>' for x in graph)
-    browser_title = title if title.startswith('Tan Shuai') else title+' | Tan Shuai'
-    head = f'<title>{E(browser_title)}</title><meta name="description" content="{E(description,quote=True)}"><meta name="robots" content="{"index,follow" if index else "noindex,follow"}"><link rel="canonical" href="{url}"><meta property="og:title" content="{E(title,quote=True)}"><meta property="og:description" content="{E(description,quote=True)}"><meta property="og:url" content="{url}"><meta property="og:type" content="website"><meta property="og:site_name" content="Tan Shuai — Selected Work"><meta name="twitter:card" content="summary_large_image">'
-    if image: head += f'<meta property="og:image" content="{ORIGIN+image}">'
-    header = f'<header class="site-header"><a class="brand" href="/">Tan Shuai <span>Selected Work</span></a><nav aria-label="Main navigation"><a href="{A["profile"]}">About</a><a href="{A["blog"]}">Writing</a><a href="mailto:{A["email"]}">Contact</a></nav></header>'
-    footer = f'<footer class="site-footer"><span>© 2026 Tan Shuai · 谭帅作品集</span><a href="{A["profile"]}">About Tan Shuai</a><a href="mailto:{A["email"]}">{A["email"]}</a></footer>'
-    document = f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">{head}<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/assets/site.css">{ld}</head><body>{header}<main>{body}</main>{footer}</body></html>'
-    write(('index.html' if path=='/' else path.strip('/')+'/index.html'),document)
-    if index: pages.append(url)
-
-def crumb(parts):
-    items = [('Selected Work','/')] + parts
-    markup = '<nav class="crumbs" aria-label="Breadcrumb">' + ' <span>/</span> '.join(f'<a href="{p}">{E(n)}</a>' for n,p in items) + '</nav>'
-    schema = {'@context':'https://schema.org','@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'item':ORIGIN+p} for i,(n,p) in enumerate(items)]}
-    return markup,schema
-
-def link(url, text, cls=''):
-    return f'<a class="{cls}" href="{E(url,quote=True)}">{E(text)}</a>'
-
-def kit_sections(text):
-    result = ''
-    for heading in ['Caption · CLEAN COPY','Pinned comment · CLEAN COPY','发布前核对']:
-        match = re.search(r'## '+re.escape(heading)+r'\s*(.*?)(?=\n## |\Z)',text,re.S)
-        if match: result += '<h2>'+E(heading.replace(' · CLEAN COPY',''))+'</h2><div class="copy">'+E(match[1].strip())+'</div>'
-    return result
-
-OUT.mkdir(parents=True,exist_ok=True)
-shutil.copytree(HERE/'assets',OUT/'assets',dirs_exist_ok=True)
-write('manifest.json',(HERE/'delivery-manifest.json').read_text())
-cards = ''
-hero_image = None
-for project in C['projects']:
-    pp = '/'+project['slug']+'/'
-    batches = project.get('batches',[])
-    first = batches[0]['episodes'][0] if batches else None
-    image = '/assets/'+project['slug']+'/'+first['id']+'.jpg' if first else project.get('image')
-    if image and hero_image is None: hero_image = image
-    ep_count = sum(len(b['episodes']) for b in batches)
-    photo = f'<img src="{image}" alt="{E(first["title"] if first else project["name"],quote=True)}" width="120" height="213">' if image else ''
-    metric = f'<p class="note">{ep_count} episodes · {ep_count*2} video files · Public review collection</p>' if ep_count else ''
-    cards += f'<article class="project-card">{photo}<div><p class="eyebrow">{E(project.get("kind","Selected project"))}</p><h2>{link(pp,project["name"])}</h2><p>{E(project["summary"])}</p>{metric}{link(pp,"Explore the project →","button")}</div></article>'
-    project_body, breadcrumb = crumb([(project['name'],pp)])
-    project_body += f'<section class="intro"><p class="eyebrow">{E(project.get("kind","Selected project"))}</p><h1>{E(project["name"])}</h1><p>{E(project["summary"])}</p></section><section class="case-grid"><div><h2>The goal</h2><p>{E(project["goal"])}</p><h2>My contribution</h2><p>{E(project["role"])}</p><p>{E(project.get("contributions",""))}</p></div><div><h2>Delivered</h2><ul>'+''.join('<li>'+E(x)+'</li>' for x in project['delivered'])+'</ul><p class="note">'+E(project.get('review_note',''))+'</p></div></section>'
-    if project.get('links'): project_body += '<div class="actions">'+''.join(link(x['url'],x['label'],'button') for x in project['links'])+'</div>'
-    for batch in batches:
-        bp = pp+batch['slug']+'/'
-        project_body += f'<section class="collection"><h2>{E(batch["name"])}</h2><p>{E(batch["description"])}</p><div class="actions">{link(bp,"Preview all "+str(len(batch["episodes"]))+" episodes","button")}{link(batch["release_url"],"Delivery files")}</div></section>'
-        rows = ''; data = []; first = batch['episodes'][0]
-        for ep in batch['episodes']:
-            wp = bp+ep['slug']+'/'
-            kp = wp+'posting-kit/'
-            poster = '/assets/'+project['slug']+'/'+ep['id']+'.jpg'
-            rows += f'<tr><td>{ep["n"]:02d}</td><td><a class="pick" data-index="{ep["n"]-1}" href="{wp}">{E(ep["title_zh"])}</a><small>{E(ep["title"])}</small></td><td>{ep["duration_s"]:.1f}s</td><td>{link(wp,"Watch")}&nbsp;·&nbsp;{link(kp,"发布包")}</td></tr>'
-            data.append({'n':ep['n'],'title':ep['title'],'title_zh':ep['title_zh'],'duration':round(ep['duration_s'],1),'main':ep['links']['main'],'no_music':ep['links']['no_music'],'poster':poster,'watch':wp})
-            vobject = {'@context':'https://schema.org','@type':'VideoObject','name':ep['title'],'description':ep['description'],'thumbnailUrl':[ORIGIN+poster],'uploadDate':batch['upload_date'],'duration':f'PT{ep["duration_s"]:g}S','contentUrl':ep['links']['main'],'embedUrl':ORIGIN+wp,'inLanguage':'en','transcript':' '.join(ep['transcript']),'isPartOf':{'@type':'CreativeWorkSeries','name':batch['name']}}
-            videos.append({'page':ORIGIN+wp,'poster':ORIGIN+poster,'title':ep['title'],'description':ep['description'],'content':ep['links']['main'],'date':batch['upload_date']})
-            watch_body, wc = crumb([(project['name'],pp),(batch['name'],bp)])
-            watch_body += f'<h1 class="watch-title">{E(ep["title"])}</h1><p class="subtitle" lang="zh-CN">{E(ep["title_zh"])} · {ep["duration_s"]:.1f}s · Episode {ep["n"]}</p><section class="watch-layout"><div class="player"><video id="video" controls playsinline preload="metadata" poster="{poster}" src="{ep["links"]["main"]}"></video><div class="actions"><button id="audio-toggle" class="button" type="button">Switch to no music</button>{link(ep["links"]["main"],"Download main")}</div><p class="note">The no-music version retains narration and sound effects.</p></div><div><p>{E(ep["description"])}</p><h2>Transcript</h2><div class="transcript">'+''.join('<p>'+E(t)+'</p>' for t in ep['transcript'])+'</div><p class="note">'+E(batch['disclosure'])+'</p><div class="actions">'+link(kp,'Posting copy & downloads','button')+link(bp,'All episodes')+'</div><p class="note">Public preview. Creator listening, physical-phone playback, TikTok preview and director publication approval remain pending.</p></div></section>'
-            watch_body += '<script>const toggle=document.querySelector("#audio-toggle"),v=document.querySelector("#video");const sources='+json.dumps([ep['links']['main'],ep['links']['no_music']])+';let alt=false;toggle.onclick=()=>{v.pause();alt=!alt;v.src=sources[alt?1:0];toggle.textContent=alt?"Switch to main":"Switch to no music";v.play().catch(()=>{});};</script>'
-            page(wp,ep['title'],ep['description'],watch_body,[wc,vobject],poster)
-            kit_body,kc = crumb([(project['name'],pp),(batch['name'],bp),(ep['title'],wp)])
-            kit_body += '<h1 class="watch-title">Posting kit · '+E(ep['title'])+'</h1>'
-            if ep['draft']: kit_body += '<p class="note">Codex draft from Claude outline; director review pending.</p>'
-            kit_body += kit_sections(ep['kit'])+'<h2>Files</h2><div class="file-links">'
-            labels={'main':'Main video','no_music':'No-music video','subtitles':'SRT subtitles','cover':'9:16 cover','cover_3x4':'3:4 cover','posting_kit':'Posting kit (Markdown)'}
-            kit_body += ''.join(link(url,labels[k]) for k,url in ep['links'].items())+'</div>'
-            page(kp,'Posting kit — '+ep['title'],'Captions, pinned comment, publication checklist and delivery files for '+ep['title'],kit_body,[kc],poster,index=False)
-            redirects.append('/kits/'+ep['id']+'.html '+ORIGIN+kp+' 301')
-            redirects.append('/kits/'+ep['id']+' '+ORIGIN+kp+' 301')
-            redirects.append('/covers/'+ep['id']+'.jpg '+ORIGIN+poster+' 301')
-        bc,bs = crumb([(project['name'],pp)])
-        total = round(sum(e['duration_s'] for e in batch['episodes']))
-        batch_body = bc+f'<div class="batch-heading"><div><h1>{E(batch["name"])}</h1><p>{len(batch["episodes"])} 集 · Total {total//60}:{total%60:02d} · {"Technical checks passed" if batch.get("technical_qa")=="PASS" else "Review collection"}</p></div>{link(batch["release_url"],"全部文件")}</div><div class="batch-layout"><section class="player"><div id="label">01 · {E(first["title_zh"])}</div><video id="video" controls playsinline preload="metadata" poster="/assets/{project["slug"]}/{first["id"]}.jpg" src="{first["links"]["main"]}"></video><div class="player-buttons"><button id="prev">← 上一集</button><button id="audio-toggle">切换无配乐</button><button id="next">下一集 →</button></div><p class="note">点击集名直接预览；Watch 打开独立播放页。无配乐版保留旁白与音效。</p></section><section><table><tbody>{rows}</tbody></table><p class="note">{E(batch["disclosure"])} Public preview; creator/director publication review pending.</p></section></div>'
-        batch_body += '<script>const items='+json.dumps(data,ensure_ascii=False)+';let current=0,alt=false;const v=document.querySelector("#video");function show(i,play=true){current=(i+items.length)%items.length;const e=items[current];v.pause();v.src=alt?e.no_music:e.main;v.poster=e.poster;document.querySelector("#label").textContent=String(e.n).padStart(2,"0")+" · "+e.title_zh;document.querySelector("#audio-toggle").textContent=alt?"切换主片":"切换无配乐";document.querySelectorAll("tr").forEach((r,j)=>r.classList.toggle("active",j===current));if(play)v.play().catch(()=>{});}document.querySelectorAll(".pick").forEach(a=>a.onclick=event=>{if(event.ctrlKey||event.metaKey||event.shiftKey||event.altKey)return;event.preventDefault();show(+a.dataset.index);});document.querySelector("#prev").onclick=()=>show(current-1);document.querySelector("#next").onclick=()=>show(current+1);document.querySelector("#audio-toggle").onclick=()=>{alt=!alt;show(current);};show(0,false);</script>'
-        page(bp,batch['name']+' — Bitcoin explainer videos',batch['description'],batch_body,[bs],image)
-    page(pp,project['name']+' — Production case study',project['summary'],project_body,[breadcrumb],image)
-
-root_body = '<section class="intro home-intro"><p class="eyebrow">Tan Shuai · 谭帅</p><h1>Selected Work</h1><p class="lead">Client projects, useful tools, and practical experiments.</p><p lang="zh-CN">项目、作品与可复用的工具。看看我做过什么，以及能一起完成什么。</p><div class="actions">'+link(A['profile'],'About me')+link('mailto:'+A['email'],'Discuss a project','button')+'</div></section><section aria-label="Selected projects">'+cards+'</section>'
-website={'@context':'https://schema.org','@type':'WebSite','name':C['name'],'alternateName':'谭帅作品集','url':ORIGIN+'/','publisher':{'@type':'Person','name':A['name'],'url':A['profile']}}
-page('/',C['name'],'Selected client projects, practical tools and production work by Tan Shuai. Explore the results and get in touch.',root_body,[website],hero_image)
-write('robots.txt','User-agent: *\nAllow: /\nSitemap: '+ORIGIN+'/sitemap.xml\nSitemap: '+ORIGIN+'/video-sitemap.xml\n')
-ns='http://www.sitemaps.org/schemas/sitemap/0.9';vn='http://www.google.com/schemas/sitemap-video/1.1';ET.register_namespace('',ns);ET.register_namespace('video',vn)
-sm=ET.Element('{'+ns+'}urlset')
-for url in pages: ET.SubElement(ET.SubElement(sm,'{'+ns+'}url'),'{'+ns+'}loc').text=url
-write('sitemap.xml',ET.tostring(sm,encoding='unicode',xml_declaration=True))
-vm=ET.Element('{'+ns+'}urlset')
-for item in videos:
-    u=ET.SubElement(vm,'{'+ns+'}url');ET.SubElement(u,'{'+ns+'}loc').text=item['page'];v=ET.SubElement(u,'{'+vn+'}video')
-    for k,key in [('thumbnail_loc','poster'),('title','title'),('description','description'),('content_loc','content'),('publication_date','date')]:ET.SubElement(v,'{'+vn+'}'+k).text=item[key]
-write('video-sitemap.xml',ET.tostring(vm,encoding='unicode',xml_declaration=True))
-write('_redirects','\n'.join(redirects)+'\n')
-write('_headers','/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n  X-Frame-Options: SAMEORIGIN\n')
-write('404.html','<!doctype html><html lang="en"><meta charset="utf-8"><title>Page not found | Tan Shuai</title><meta name="robots" content="noindex"><h1>Page not found</h1><a href="/">Selected Work</a></html>')
-write('site-catalog.json',json.dumps({'name':C['name'],'origin':ORIGIN,'projects':[{'slug':p['slug'],'name':p['name'],'url':ORIGIN+'/'+p['slug']+'/'} for p in C['projects']]},ensure_ascii=False,indent=2))
-print('Built',len(pages),'indexable pages,',len(videos),'watch pages,',len(redirects),'redirects.')
+def build(out, language_codes=None):
+    site=load(HERE/'site.json');origin=site['origin'];languages=site['languages'];author=site['author']
+    if language_codes:languages=[x for x in languages if x['code'] in language_codes]
+    cases=[load(HERE/'content/cases'/f'{id}.json') for id in site['cases']]
+    registry={x['id']:x for x in load(HERE/'content/media.json')}
+    out.mkdir(parents=True,exist_ok=True);shutil.copytree(HERE/'assets',out/'assets',dirs_exist_ok=True)
+    routes=[];video_entries=[];redirects=[]
+    def write(path,text):
+        f=out/path;f.parent.mkdir(parents=True,exist_ok=True);f.write_text(text)
+    def page(code,path,title,description,body,ui,index=True,schemas=(),image=None,kind='website'):
+        route=local(code,path);url=origin+route;lang=next(x for x in languages if x['code']==code)
+        alternatives=''.join(f'<link rel="alternate" hreflang="{x["code"]}" href="{origin+local(x["code"],path)}">' for x in languages) if index else ''
+        if index:alternatives+=f'<link rel="alternate" hreflang="x-default" href="{origin+path}">'
+        choices=''.join(f'<a lang="{x["code"]}" hreflang="{x["code"]}" href="{local(x["code"],path)}"'+(' aria-current="true"' if x['code']==code else '')+f'>{E(x["name"])}</a>' for x in languages)
+        header=f'<header><a class="brand" href="{local(code,"/")}">Tan Shuai<span>{E(ui["work"])}</span></a><nav>{a(author["home"],ui["home"])}<details class="languages"><summary>{E(lang["name"])} <span aria-hidden="true">⌄</span></summary><div class="language-menu" aria-label="{E(ui["language"])}">{choices}</div></details></nav></header>'
+        footer=f'<footer><span>© 2026 Tan Shuai</span>{a(author["home"],ui["home"])}{a("mailto:"+author["email"],ui["contact"])}{a(local(code,"/privacy/"),ui["privacy"])}</footer>'
+        consent=f'<aside id="consent" hidden><p>{E(ui["consent"])}</p><div><button data-consent="yes">{E(ui["accept"])}</button><button data-consent="no" class="quiet">{E(ui["decline"])}</button>{a(local(code,"/privacy/"),ui["privacy"])}</div></aside>'
+        metadata={'@context':'https://schema.org','@type':'WebPage','name':title,'description':description,'url':url,'inLanguage':code,'author':{'@type':'Person','name':author['name'],'url':author['home']}}
+        ld=''.join('<script type="application/ld+json">'+j(x)+'</script>' for x in [metadata,*schemas])
+        head=f'<title>{E(title)} | Tan Shuai</title><meta name="description" content="{E(description,quote=True)}"><meta name="robots" content="{"index,follow" if index else "noindex,follow"}"><link rel="canonical" href="{url}">{alternatives}<meta property="og:title" content="{E(title,quote=True)}"><meta property="og:description" content="{E(description,quote=True)}"><meta property="og:url" content="{url}"><meta property="og:type" content="{kind}"><meta property="og:site_name" content="Tan Shuai"><meta name="twitter:card" content="summary_large_image">'
+        if image:head+=f'<meta property="og:image" content="{origin+image}">'
+        doc=f'<!doctype html><html lang="{code}" dir="{lang["dir"]}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">{head}<link rel="icon" href="/assets/favicon.svg"><link rel="stylesheet" href="/assets/site.css">{ld}<script src="/assets/site.js" defer data-ga="{site["analytics"]["measurement_id"]}"></script></head><body>{header}<main>{body}</main>{footer}{consent}</body></html>'
+        write(route.strip('/')+'/index.html' if route!='/' else 'index.html',doc)
+        routes.append({'path':route,'index':index,'language':code})
+    def crumbs(code,ui,items):
+        return '<nav class="crumbs">'+'<span aria-hidden="true">/</span>'.join(a(local(code,p),t) for t,p in [(ui['work'],'/'),*items])+'</nav>'
+    def files(m,ui):
+        return '<div class="downloads">'+''.join(a(url,ui.get(key,key),'download') for key,url in m['links'].items())+'</div>'
+    def title(m,text):
+        base=text['topics'][m['topic']][0]
+        if m.get('show_edition'):
+            base+=f' · {text["ui"]["edition"]} {m["sequence"]:02}'
+        return base
+    for case in cases:
+        items=[registry[id] for id in case.get('media',[])]
+        for group in case.get('collections',[]):
+            for n,m in enumerate([x for x in items if x['group']==group],1):m['sequence']=n
+    for lang in languages:
+        code=lang['code'];base=load(HERE/'locales'/f'{code}.json');ui=base['ui']
+        index_rows=''
+        for case in cases:
+            text=load(HERE/'content/cases'/case['id']/'locales'/f'{code}.json');text['ui']=ui;c=text['case'];cp='/'+case['slug']+'/'
+            items=[registry[id] for id in case.get('media',[])];groups=case.get('collections',[])
+            photo=f'<img src="{items[0]["poster"]}" width="72" height="96" alt="" loading="lazy">' if items else ''
+            count=f'{len(items)} {ui["videos"]}' if items else ui.get(case['kind'],case['kind'])
+            index_rows+=f'<article class="case-row" data-search="{E(c["title"]+" "+case.get("client","")+" "+c["summary"]+" "+" ".join(text["topics"][m["topic"]][0] for m in items),quote=True)}">{photo}<div><div class="eyebrow">{E(ui.get(case["kind"],case["kind"]))} <span>· {E(c.get("credit",""))}</span></div><h2>{a(local(code,cp),c["title"])}</h2><p>{E(c["summary"])}</p></div><div class="case-tail"><small>{E(count)}</small>{a(local(code,cp),ui["open"]+' ↗')}</div></article>'
+            body=crumbs(code,ui,[])+f'<section class="case-intro"><div><p class="eyebrow">{E(c.get("credit",""))}</p><h1>{E(c["title"])}</h1><p class="lead">{E(c["summary"])}</p></div>'+photo+'</section><section class="case-notes">'+''.join(f'<div><h2>{E(ui[k])}</h2><p>{E(c[k])}</p></div>' for k in ['role','scope','results'] if c.get(k))+'</section>'
+            if case.get('links'):body+='<div class="actions">'+''.join(a(x['url'],x['label']) for x in case['links'])+'</div>'
+            if groups:body+=f'<div class="section-heading"><h2>{E(ui["collections"])}</h2><span>{len(items)} {E(ui["videos"])}</span></div><div class="collection-index">'
+            for group in groups:
+                members=[x for x in items if x['group']==group];gt,gd=text['collections'][group];gp=cp+group+'/'
+                body+=f'<a class="collection-row" href="{local(code,gp)}"><img src="{members[0]["poster"]}" width="48" height="64" alt="" loading="lazy"><div><h3>{E(gt)}</h3><p>{E(gd)}</p></div><small>{len(members)} <span aria-hidden="true">↗</span></small></a>'
+                rows='';playlist=[]
+                for m in members:
+                    wp=gp+m['slug']+'/';fp=wp+'files/';mt=title(m,text);md=text['topics'][m['topic']][1]
+                    rows+=f'<article class="video-row" data-search="{E(mt+" "+md,quote=True)}"><span class="number">{m["sequence"]:02}</span><div><a data-pick="{len(playlist)}" href="{local(code,wp)}">{E(mt)}</a><small>{E(md)}</small></div><time>{m["duration_s"]:.0f}s</time>{a(local(code,wp),ui["watch"]+' ↗')}</article>'
+                    playlist.append({'title':mt,'poster':m['poster'],'main':m['links']['main'],'no_music':m['links'].get('no_music'),'url':local(code,wp)})
+                    player=f'<section class="watch-player"><video id="video" controls playsinline preload="none" poster="{m["poster"]}" src="{E(m["links"]["main"],quote=True)}" data-case="{case["id"]}" data-media="{m["id"]}"></video><div class="actions">'+(f'<button data-audio-main="{E(m["links"]["main"],quote=True)}" data-audio-alt="{E(m["links"]["no_music"],quote=True)}" data-label-main="{E(ui["main"])}" data-label-alt="{E(ui["no_music"])}">{E(ui["no_music"])}</button>' if m['links'].get('no_music') else '')+a(m['links']['main'],ui['main']+' ↓','download')+'</div></section>'
+                    source='<details class="transcript"><summary>'+E(ui['source'])+'</summary><div lang="en" dir="ltr">'+''.join('<p>'+E(t)+'</p>' for t in m['transcript'])+'</div></details>' if m['transcript'] else ''
+                    pos=m['sequence']-1;near=[]
+                    if pos>0:near.append(a(local(code,gp+members[pos-1]['slug']+'/'),'← '+ui['previous']))
+                    if pos+1<len(members):near.append(a(local(code,gp+members[pos+1]['slug']+'/'),ui['next']+' →'))
+                    watch=crumbs(code,ui,[(c['title'],cp),(gt,gp)])+f'<section class="watch-layout">{player}<div><p class="eyebrow">{E(gt)} · {m["sequence"]:02} · {m["duration_s"]:.0f}s</p><h1>{E(mt)}</h1><p class="lead">{E(md)}</p><p class="note">{E(c["original"])}</p><div class="actions">{a(local(code,fp),ui["files"]+" ↓")}{a(local(code,gp),ui["back"])}</div>{source}<p class="note">{E(c["caveat"])}</p>'+ (f'<p class="note">{E(c["historical"])}</p>' if m.get('historical') else '')+'<div class="next-links">'+' '.join(near)+'</div></div></section>'
+                    video={'@context':'https://schema.org','@type':'VideoObject','name':mt,'description':md,'thumbnailUrl':[origin+m['poster']],'uploadDate':m['upload_date'],'duration':f'PT{m["duration_s"]:g}S','contentUrl':m['links']['main'],'embedUrl':origin+local(code,wp),'inLanguage':m['original_language'],'isPartOf':{'@type':'CreativeWorkSeries','name':gt}}
+                    assert m['upload_date'],f'Missing actual public release date: {m["id"]}'
+                    page(code,wp,mt+' · '+gt+(' · '+case['client'] if case.get('client') else ''),md,watch,ui,index=m['index'],schemas=[video],image=m['poster'],kind='video.other')
+                    if m['index']:video_entries.append({'page':origin+local(code,wp),'poster':origin+m['poster'],'title':mt,'description':md,'content':m['links']['main'],'date':m['upload_date']})
+                    fb=crumbs(code,ui,[(c['title'],cp),(gt,gp),(mt,wp)])+f'<h1>{E(ui["files"])}</h1><p>{E(mt)}</p>'+files(m,ui)+f'<p class="note">{E(c["original"])}</p><p class="note">{E(c["caveat"])}</p>'
+                    page(code,fp,ui['files']+' · '+mt,md,fb,ui,index=False,image=m['poster'])
+                    if code=='en' and group=='desk-miner-101' and case.get('legacy_slugs'):
+                        old='/'+case['legacy_slugs'][0]+'/'+group+'/'+m['slug']+'/'
+                        redirects.extend([old+' '+wp+' 301',old+'posting-kit/ '+fp+' 301','/kits/'+m['id']+'.html '+fp+' 301','/kits/'+m['id']+' '+fp+' 301','/covers/'+m['id']+'.jpg '+m['poster']+' 301'])
+                cb=crumbs(code,ui,[(c['title'],cp)])+f'<div class="collection-title"><div><p class="eyebrow">{E(case.get('client',''))} · {len(members)} {E(ui["videos"])}</p><h1>{E(gt)}</h1><p>{E(gd)}</p></div>{a(local(code,cp),ui["more"]+" ↗")}</div>'
+                if group=='alternate-cuts':cb+=f'<p class="note">{E(ui["archive_note"])}</p>'
+                cb+=f'<div class="preview-layout"><section class="preview-player"><p id="preview-title">{E(playlist[0]["title"])}</p><video id="video" controls playsinline preload="none" poster="{members[0]["poster"]}" src="{E(members[0]["links"]["main"],quote=True)}" data-case="{case["id"]}"></video><div class="actions"><button data-prev>← {E(ui["previous"])}</button><button data-next>{E(ui["next"])} →</button></div><a id="preview-link" href="{playlist[0]["url"]}">{E(ui["watch"])} ↗</a><p class="note">{E(c["original"])}</p></section><section><label class="search"><span>{E(ui["search"])}</span><input type="search" data-search-input placeholder="{E(ui["search"],quote=True)}"></label><div class="video-list">{rows}</div><p class="empty" hidden>{E(ui["empty"])}</p></section></div><script type="application/json" id="playlist">{j(playlist)}</script>'
+                page(code,gp,gt+(' · '+case['client'] if case.get('client') else ''),gd,cb,ui,index=any(m['index'] for m in members),image=members[0]['poster'])
+            if groups:body+='</div>'
+            page(code,cp,c['title']+(' · '+case['client'] if case.get('client') else ''),c['summary'],body,ui,image=items[0]['poster'] if items else None)
+        root=f'<section class="home-intro"><p class="eyebrow">Tan Shuai · 谭帅</p><h1>{E(ui["work"])}</h1><p>{E(ui["intro"])}</p></section><div class="section-heading"><h2>{E(ui["index"])}</h2><label class="search"><span>{E(ui["search"])}</span><input type="search" data-search-input placeholder="{E(ui["search"],quote=True)}"></label></div><section class="work-index">{index_rows}</section><p class="empty" hidden>{E(ui["empty"])}</p><div class="home-contact">{a("mailto:"+author["email"],ui["contact"]+" ↗")}{a(author["home"],ui["home"]+" ↗")}</div>'
+        website={'@context':'https://schema.org','@type':'WebSite','name':'Tan Shuai · '+ui['work'],'url':origin+local(code,'/'),'inLanguage':code,'publisher':{'@type':'Person','name':author['name'],'url':author['home']}}
+        page(code,'/',ui['work'],ui['intro'],root,ui,schemas=[website],image=registry[cases[0]['media'][0]]['poster'] if cases and cases[0].get('media') else None)
+        pb=f'<h1>{E(ui["privacy"])}</h1><p>{E(ui["privacy_text"])}</p><button data-reset-consent>{E(ui["change"])}</button><p>'+a('https://policies.google.com/privacy','Google')+' · '+a('https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement','GitHub')+'</p>'
+        page(code,'/privacy/',ui['privacy'],ui['privacy_text'],pb,ui,index=False)
+    
+    for case in cases:
+        for slug in case.get('legacy_slugs',[]):
+            redirects.extend(['/'+slug+'/ /'+case['slug']+'/ 301','/'+slug+'/* /'+case['slug']+'/:splat 301'])
+    write('_redirects','\n'.join(redirects)+'\n')
+    write('_headers','/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n  X-Frame-Options: SAMEORIGIN\n')
+    ns='http://www.sitemaps.org/schemas/sitemap/0.9';vn='http://www.google.com/schemas/sitemap-video/1.1';ET.register_namespace('',ns);ET.register_namespace('video',vn)
+    sm=ET.Element('{'+ns+'}urlset')
+    for r in routes:
+        if r['index']:ET.SubElement(ET.SubElement(sm,'{'+ns+'}url'),'{'+ns+'}loc').text=origin+r['path']
+    write('sitemap.xml',ET.tostring(sm,encoding='unicode',xml_declaration=True))
+    vm=ET.Element('{'+ns+'}urlset')
+    for item in video_entries:
+        u=ET.SubElement(vm,'{'+ns+'}url');ET.SubElement(u,'{'+ns+'}loc').text=item['page'];v=ET.SubElement(u,'{'+vn+'}video')
+        for k,key in [('thumbnail_loc','poster'),('title','title'),('description','description'),('content_loc','content'),('publication_date','date')]:ET.SubElement(v,'{'+vn+'}'+k).text=item[key]
+    write('video-sitemap.xml',ET.tostring(vm,encoding='unicode',xml_declaration=True))
+    write('robots.txt','User-agent: *\nAllow: /\nSitemap: '+origin+'/sitemap.xml\nSitemap: '+origin+'/video-sitemap.xml\n')
+    write('404.html','<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>Page not found · Tan Shuai</title><a href="/">Tan Shuai · Selected work</a></html>')
+    receipt={'languages':len(languages),'cases':len(cases),'unique_videos':len(registry),'watch_pages':len(registry)*len(languages),'indexable_pages':sum(r['index'] for r in routes),'total_pages':len(routes),'video_sitemap_entries':len(video_entries),'redirects':len(redirects)}
+    write('site-catalog.json',j({'origin':origin,'cases':site['cases'],'languages':languages,'counts':receipt}))
+    print(j(receipt))
+    return receipt
+if __name__=='__main__':
+    p=argparse.ArgumentParser();p.add_argument('--out',type=pathlib.Path,required=True);p.add_argument('--languages',help='Optional development subset, comma-separated');args=p.parse_args();build(args.out.resolve(),args.languages.split(',') if args.languages else None)

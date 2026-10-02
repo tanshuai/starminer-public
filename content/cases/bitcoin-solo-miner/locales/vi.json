@@ -1,0 +1,205 @@
+{
+  "case": {
+    "title": "Phát triển máy đào Bitcoin solo",
+    "summary": "Đào Bitcoin trên bàn làm việc, dễ hiểu hơn. Phát triển sản phẩm và truyền thông cho phần cứng đào solo, với StarMiner là khách hàng tiêu biểu.",
+    "role": "Tôi là một trong những nhà phát triển sản phẩm máy đào Bitcoin solo. Dự án này kết hợp câu chuyện phần cứng với nội dung được tạo quanh sản phẩm.",
+    "scope": "Phim sản phẩm, giải thích rõ về đào Bitcoin, hướng dẫn thiết lập và tài liệu cho người mua, đại lý. Bitaxe Gamma 601 xuất hiện trong các tác phẩm liên quan.",
+    "results": "Thư viện video đầy đủ với trang xem riêng, phụ đề gốc và tệp bàn giao, giúp khách hàng xem nhanh và công chúng tìm thấy qua tìm kiếm.",
+    "credit": "Khách hàng tiêu biểu · StarMiner",
+    "original": "Video gốc bằng tiếng Anh",
+    "historical": "Các phiên bản cũ được giữ nguyên như lúc sản xuất. Thông số, giá và phần thưởng có thể thay đổi.",
+    "caveat": "Đào solo không đảm bảo phần thưởng. StarMiner là khách hàng tiêu biểu; thông tin sản phẩm và hợp tác vẫn được giữ trong video gốc."
+  },
+  "collections": {
+    "desk-miner-101": [
+      "Nhập môn máy đào để bàn",
+      "Câu trả lời ngắn cho thắc mắc thường ngày về đào Bitcoin để bàn."
+    ],
+    "visual-explainers": [
+      "Giải thích trực quan",
+      "Khái niệm Bitcoin qua giấy, phấn và sơ đồ đơn giản."
+    ],
+    "product-stories": [
+      "Câu chuyện sản phẩm",
+      "Các câu chuyện trước đây về sản phẩm, người dùng và kinh doanh máy đào."
+    ],
+    "product-films": [
+      "Phim sản phẩm",
+      "Giới thiệu sản phẩm, thiết kế và video ra mắt."
+    ],
+    "buyer-dealer-guides": [
+      "Hướng dẫn người mua và đại lý",
+      "Lưu ý thực tế khi chọn, trình diễn và cung cấp máy đào để bàn."
+    ],
+    "daily-use": [
+      "Trên bàn làm việc",
+      "Phim ngắn chọn lọc về sử dụng máy đào Bitcoin để bàn."
+    ],
+    "alternate-cuts": [
+      "Phiên bản khác",
+      "Các bản dựng hoàn chỉnh khác được lưu chung để xem xét."
+    ]
+  },
+  "topics": {
+    "block": [
+      "Khối Bitcoin là gì?",
+      "Một cuốn sổ chung giải thích cách giao dịch tạo thành khối."
+    ],
+    "miners": [
+      "Máy đào làm gì?",
+      "Máy liên tục thử số để tìm khối hợp lệ."
+    ],
+    "mining": [
+      "Vì sao gọi là đào?",
+      "Đây là phép tính lặp lại để tìm kết quả hợp lệ."
+    ],
+    "pool": [
+      "Đào pool hay solo?",
+      "Hai cách đào với cách chia phần thưởng khác nhau."
+    ],
+    "interval": [
+      "Vì sao khoảng mười phút?",
+      "Độ khó giữ thời gian trung bình giữa các khối gần mười phút."
+    ],
+    "unbox": [
+      "Bên trong hộp",
+      "Xem nhanh các bộ phận của máy đào để bàn."
+    ],
+    "setup": [
+      "Thiết lập máy đào để bàn",
+      "Từ nguồn điện và Wi-Fi đến cài đặt đào."
+    ],
+    "buy": [
+      "Trước khi mua",
+      "Học hỏi, chi phí và kỳ vọng thực tế cần đi trước phần thưởng."
+    ],
+    "found": [
+      "Khi tìm được khối",
+      "Giải thích ngắn về khối hợp lệ và phần thưởng đào."
+    ],
+    "words": [
+      "Ba thuật ngữ đào",
+      "Hashrate, độ khó và đào solo được giải thích đơn giản."
+    ],
+    "learn": [
+      "Vì sao chạy máy đào nhỏ?",
+      "Máy nhỏ giúp việc học Bitcoin trở nên cụ thể."
+    ],
+    "chance": [
+      "Không có khối nào đến hạn",
+      "Những lần thử trước không đảm bảo phần thưởng sau này."
+    ],
+    "hash": [
+      "Hash là gì?",
+      "Dấu vân tay số kết nối dữ liệu với việc đào."
+    ],
+    "chain": [
+      "Vì sao là blockchain?",
+      "Mỗi khối tham chiếu dấu vân tay của khối trước."
+    ],
+    "nodes": [
+      "Ai kiểm tra thợ đào?",
+      "Các nút kiểm tra khối theo quy tắc Bitcoin."
+    ],
+    "fees": [
+      "Phí đi đâu?",
+      "Phí giao dịch là một phần thưởng của khối hợp lệ."
+    ],
+    "solo-pool": [
+      "Đào solo thông qua pool",
+      "Có thể dùng hạ tầng pool mà không chia mọi phần thưởng."
+    ],
+    "phone": [
+      "Điện thoại làm gì?",
+      "Điện thoại quản lý cài đặt; phần cứng chuyên dụng thực hiện đào."
+    ],
+    "inside": [
+      "Bên trong khối Bitcoin",
+      "Giao dịch, tham chiếu khối trước và dữ liệu đào."
+    ],
+    "pow": [
+      "Bằng chứng công việc",
+      "Kết quả hợp lệ chứng minh công việc mạng yêu cầu."
+    ],
+    "fork": [
+      "Hai khối cùng lúc",
+      "Khối cạnh tranh có thể tạo hai chuỗi trong thời gian ngắn."
+    ],
+    "day": [
+      "Mỗi ngày bao nhiêu khối?",
+      "Trung bình khoảng 144 khối trên toàn mạng."
+    ],
+    "rewards": [
+      "Phần thưởng và xác suất",
+      "Câu chuyện cũ về kết quả hiếm và kỳ vọng thực tế."
+    ],
+    "myths": [
+      "Hiểu lầm về đào Bitcoin",
+      "Quan niệm thường gặp về thiết bị, quy mô và phần thưởng."
+    ],
+    "desk": [
+      "Máy đào trên bàn",
+      "Câu chuyện đưa phần cứng Bitcoin vào không gian hằng ngày."
+    ],
+    "halving": [
+      "Halving Bitcoin",
+      "Giải thích trước đây về việc giảm trợ cấp khối theo lịch."
+    ],
+    "history": [
+      "Lịch sử đào ngắn gọn",
+      "Từ máy tính phổ thông đến phần cứng Bitcoin chuyên dụng."
+    ],
+    "business": [
+      "Kinh doanh phần cứng đào",
+      "Câu chuyện cung cấp công cụ cho thợ đào."
+    ],
+    "supplier": [
+      "Câu hỏi cho nhà cung cấp",
+      "Thiết kế, giao hàng và hỗ trợ quan trọng ngoài giá."
+    ],
+    "headlines": [
+      "Sau các tin đào Bitcoin",
+      "Kết quả hiếm cần bối cảnh trước khi dùng để bán hàng."
+    ],
+    "gift": [
+      "Dự án cho người mê Bitcoin",
+      "Máy đào để bàn làm quà thực hành và dự án học tập."
+    ],
+    "cost": [
+      "Kiểm tra chi phí vận hành",
+      "Điện, hỗ trợ và kỳ vọng cần có trong quyết định mua."
+    ],
+    "design": [
+      "Lựa chọn cho bàn làm việc",
+      "Hình thức sản phẩm và sự phù hợp với không gian làm việc."
+    ],
+    "margin": [
+      "Không chỉ chênh lệch giá",
+      "Lợi nhuận bán lẻ cần tính chi phí và hỗ trợ sau bán."
+    ],
+    "demo": [
+      "Trình diễn trước khi nhập kho",
+      "Giúp người mua hiểu sản phẩm trước khi tăng tồn kho."
+    ],
+    "planning": [
+      "Lập kế hoạch tồn kho",
+      "Góc nhìn thực tế về trình diễn và tồn kho theo mùa."
+    ],
+    "reveal": [
+      "Ra mắt máy đào để bàn",
+      "Giới thiệu ngắn một thiết bị đào Bitcoin nhỏ gọn."
+    ],
+    "device": [
+      "Tổng quan Bitaxe Gamma 601",
+      "Tìm hiểu bo mạch đào nhỏ gọn và công dụng."
+    ],
+    "daily": [
+      "Phim máy đào hằng ngày",
+      "Phim sản phẩm về máy đào Bitcoin trên bàn làm việc."
+    ],
+    "product": [
+      "Phim sản phẩm StarMiner",
+      "Giới thiệu máy đào để bàn và thiết kế của sản phẩm."
+    ]
+  }
+}

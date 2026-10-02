@@ -1,0 +1,1846 @@
+{
+  "release": {
+    "url": "https://github.com/tanshuai/starminer-public/releases/tag/starminer-library-v1",
+    "published_at": "2026-10-02T17:29:45Z",
+    "assets": 306,
+    "all_server_hashes_match": true
+  },
+  "files": [
+    {
+      "name": "story-01-rewards.mp4",
+      "bytes": 10893369,
+      "sha256": "15071f1fc479fcf0573133382f82d1ca7350d2087c229bc74ba2b243cf69a465",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-01-rewards.mp4"
+    },
+    {
+      "name": "story-01-rewards_no_music.mp4",
+      "bytes": 10872121,
+      "sha256": "64049c1ef37e369c8c02b39ff58037ec601dfe0fb8135eb009bd8f940964fa1f",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-01-rewards_no_music.mp4"
+    },
+    {
+      "name": "story-01-rewards.srt",
+      "bytes": 576,
+      "sha256": "511cc8cb18ac0a8833fd89aa1bd323112acc50e0f0a7b0ac0e128a04cc607fde",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-01-rewards.srt"
+    },
+    {
+      "name": "story-01-rewards_cover.jpg",
+      "bytes": 163707,
+      "sha256": "dae8083e00f452af8860a59592eb09d0eb6ecd0aac31239568ba38c852ee4d32",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-01-rewards_cover.jpg"
+    },
+    {
+      "name": "story-02-block-rewards.mp4",
+      "bytes": 16176152,
+      "sha256": "ce761e1659da3d4448a9ddc43de2aa952f36e0983a799b023c8a429473800eb6",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-02-block-rewards.mp4"
+    },
+    {
+      "name": "story-02-block-rewards_no_music.mp4",
+      "bytes": 16158284,
+      "sha256": "791761da152d744ded693f313393e4fe9c255a0e3968c36a0ad2610ca9224069",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-02-block-rewards_no_music.mp4"
+    },
+    {
+      "name": "story-02-block-rewards.srt",
+      "bytes": 769,
+      "sha256": "9dbd27ce6057ccf00ac5e47957b16016534b833f6bd2c447bdd3ef531d382918",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-02-block-rewards.srt"
+    },
+    {
+      "name": "story-02-block-rewards_cover.jpg",
+      "bytes": 291487,
+      "sha256": "4f33f60d8d501ec3a373c28812d5d12d3195232f000eb61a9f6fdaa25d0111e2",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-02-block-rewards_cover.jpg"
+    },
+    {
+      "name": "story-03-myths.mp4",
+      "bytes": 12566168,
+      "sha256": "acf2d607c7a5c5ba919ee4d81b68148d86494c3186a958930d1a1440a3884c2d",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-03-myths.mp4"
+    },
+    {
+      "name": "story-03-myths_no_music.mp4",
+      "bytes": 12562500,
+      "sha256": "d23e961762dee0a35bebb058b0ecb0ce1f6fa5b1d388f337670cdd58e729f7cb",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-03-myths_no_music.mp4"
+    },
+    {
+      "name": "story-03-myths.srt",
+      "bytes": 680,
+      "sha256": "d8320671d152ae772ee15156e8ee5e7eceeaa62f95a1e85b56673d3c8954e9a3",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-03-myths.srt"
+    },
+    {
+      "name": "story-03-myths_cover.jpg",
+      "bytes": 214215,
+      "sha256": "ecaf658d2e0528814d6f07df171710c27a1b7a1c55ba8dc40b9adcde778d4932",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-03-myths_cover.jpg"
+    },
+    {
+      "name": "story-04-setup.mp4",
+      "bytes": 10294885,
+      "sha256": "7f70a212b0f70fbcfc0adbdd54215d5437fae853b590ac029bc5d9e1a88fcb17",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-04-setup.mp4"
+    },
+    {
+      "name": "story-04-setup_no_music.mp4",
+      "bytes": 10192340,
+      "sha256": "1e7b5d77170423b1d28ad91b9710fd0f8033b2efe6b66999425f293b2c7ca439",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-04-setup_no_music.mp4"
+    },
+    {
+      "name": "story-04-setup.srt",
+      "bytes": 429,
+      "sha256": "08a3c055a52e2607d52c3a7fbb71033b079a181bd1b4e4a6e2a3f0e5c909865d",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-04-setup.srt"
+    },
+    {
+      "name": "story-04-setup_cover.jpg",
+      "bytes": 214964,
+      "sha256": "5d60c191b68c5a071abeeec63c11bf294143ccf4cbbe32465e2572105fcb4908",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-04-setup_cover.jpg"
+    },
+    {
+      "name": "story-05-coworker.mp4",
+      "bytes": 8738815,
+      "sha256": "a3e0357c1017578068c9189f0578d805438da577b3afbd950964dbb80c5cb979",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-05-coworker.mp4"
+    },
+    {
+      "name": "story-05-coworker_no_music.mp4",
+      "bytes": 8731780,
+      "sha256": "bc7ce8cd1a1631fe1a1ac52fe3ce01b655e5afd714d5704a1e7c7fe98d188830",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-05-coworker_no_music.mp4"
+    },
+    {
+      "name": "story-05-coworker.srt",
+      "bytes": 609,
+      "sha256": "b8d1c5ca8724f7675cca0a320bbe7ee1a8cccedd9e45e63986c28a68ea66ad20",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-05-coworker.srt"
+    },
+    {
+      "name": "story-05-coworker_cover.jpg",
+      "bytes": 217894,
+      "sha256": "39127e993e020864a82df66ab19c2bfa76ef1abec251ad07715e79fb96dadca3",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-05-coworker_cover.jpg"
+    },
+    {
+      "name": "story-06-halving.mp4",
+      "bytes": 12808635,
+      "sha256": "081dfc52e3e5df2856092a659deaf7001893f8f798decaeed20e2222745b6ac0",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-06-halving.mp4"
+    },
+    {
+      "name": "story-06-halving_no_music.mp4",
+      "bytes": 12804557,
+      "sha256": "6e26a6d427a1263e5ea3c4a4948b48a48c432bc973ac34ae3a71a21563ed860b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-06-halving_no_music.mp4"
+    },
+    {
+      "name": "story-06-halving.srt",
+      "bytes": 674,
+      "sha256": "8ff61eefecfbc538fcc394a8d58519abd022a9d8707445ca180185a3ae7bb693",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-06-halving.srt"
+    },
+    {
+      "name": "story-06-halving_cover.jpg",
+      "bytes": 174833,
+      "sha256": "021ff410cd7c10072a657c12fd7db447fce62a54c6c9a35c7682c50ba00a5042",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-06-halving_cover.jpg"
+    },
+    {
+      "name": "story-07-history.mp4",
+      "bytes": 13637435,
+      "sha256": "8094e10a59fff8520bf5f8f7f43f783c4eacc9a10e27adfb0ea012917415e03a",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-07-history.mp4"
+    },
+    {
+      "name": "story-07-history_no_music.mp4",
+      "bytes": 13614895,
+      "sha256": "12d294b2f42f3054f049a51c68b11869928828e52a9afa64ff229164b81d7eac",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-07-history_no_music.mp4"
+    },
+    {
+      "name": "story-07-history.srt",
+      "bytes": 734,
+      "sha256": "42427cdb4603f219f103adf0c2e85d737e64249885645db327196323d5afe98c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-07-history.srt"
+    },
+    {
+      "name": "story-07-history_cover.jpg",
+      "bytes": 290498,
+      "sha256": "39e03af85588a601f1d38e5a2acbd80f00ed495c5d012c836a292554835470ff",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-07-history_cover.jpg"
+    },
+    {
+      "name": "story-08-shovels.mp4",
+      "bytes": 19738983,
+      "sha256": "b677ef319b580d7bb37560813ab3dfb2b069c6644fca8e113ed28cebb49df556",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-08-shovels.mp4"
+    },
+    {
+      "name": "story-08-shovels_no_music.mp4",
+      "bytes": 19737933,
+      "sha256": "e86c0b015f06848ad5b2136016943867d8b9b9b9f47b89b5cd46f1ef6123a45f",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-08-shovels_no_music.mp4"
+    },
+    {
+      "name": "story-08-shovels.srt",
+      "bytes": 680,
+      "sha256": "0407d31c0a2926e6ca2d754fd434f717bffe7590fd24a7a0e360555a26b90f6f",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-08-shovels.srt"
+    },
+    {
+      "name": "story-08-shovels_cover.jpg",
+      "bytes": 456762,
+      "sha256": "39a6354cdee7f6f3c178bbf11391c19e0e150b57591257b999ea5b17d5ad27d2",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-08-shovels_cover.jpg"
+    },
+    {
+      "name": "story-09-supplier.mp4",
+      "bytes": 17135685,
+      "sha256": "6566cfbc502aeff7f6ef433b38fa0bbbc7f03f9c82d71597397ea1ff9ac2f859",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-09-supplier.mp4"
+    },
+    {
+      "name": "story-09-supplier_no_music.mp4",
+      "bytes": 17119017,
+      "sha256": "2e47be5151708620d29e4bd838f9ec5411e3b787e0eb54233704d090d563d0f6",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-09-supplier_no_music.mp4"
+    },
+    {
+      "name": "story-09-supplier.srt",
+      "bytes": 725,
+      "sha256": "deb3909560b35d1a0edbc0a9631216683dbc1518ab8733286eda6d26b050a121",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-09-supplier.srt"
+    },
+    {
+      "name": "story-09-supplier_cover.jpg",
+      "bytes": 197421,
+      "sha256": "b56a06547dfaaca6ca11b221e6cf567a739a06d34904b38244f58fdd64dcf325",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-09-supplier_cover.jpg"
+    },
+    {
+      "name": "story-10-headlines.mp4",
+      "bytes": 14198218,
+      "sha256": "9967fa4b1182bf8b06c63d46c5fae44a4ba4075d97fb959b53b03f0fd08bbd29",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-10-headlines.mp4"
+    },
+    {
+      "name": "story-10-headlines_no_music.mp4",
+      "bytes": 14187149,
+      "sha256": "8416e108c6ea3e2034cff9f80a823c8f18a696bd9c6cffb6e878f9b3078ebc0a",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-10-headlines_no_music.mp4"
+    },
+    {
+      "name": "story-10-headlines.srt",
+      "bytes": 654,
+      "sha256": "f80ff76cebe9a6f418d6e2eaa66f83c58146731dc60130093fd1af9ab3466c93",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-10-headlines.srt"
+    },
+    {
+      "name": "story-10-headlines_cover.jpg",
+      "bytes": 358546,
+      "sha256": "608ae40830b08819269ed040c0a100c7f8633f616e8f85b34a9696cd496c0529",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-10-headlines_cover.jpg"
+    },
+    {
+      "name": "story-11-gift.mp4",
+      "bytes": 7842530,
+      "sha256": "e64063bbcd05710381d68593aecc02640a08618d774c69660f8d1c0d2852a53d",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-11-gift.mp4"
+    },
+    {
+      "name": "story-11-gift_no_music.mp4",
+      "bytes": 7815131,
+      "sha256": "9d7ba169af7336085f0ce8280ba0e9e0ffa83b071ff298d4e84251b595af9d60",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-11-gift_no_music.mp4"
+    },
+    {
+      "name": "story-11-gift.srt",
+      "bytes": 522,
+      "sha256": "c3ca947683cec12b621dd2dd0b0e80e6b682b11b8460e2e1331a261897f11ecf",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-11-gift.srt"
+    },
+    {
+      "name": "story-11-gift_cover.jpg",
+      "bytes": 261149,
+      "sha256": "5332f87030813c30cf75a10d442796012319bd64636ec438937b9aae8ae4e827",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-11-gift_cover.jpg"
+    },
+    {
+      "name": "story-12-gift-story.mp4",
+      "bytes": 12195699,
+      "sha256": "81e65a13cb468b25da9d81455437c0078bdb4b01dec04a1f6eccb316c8442856",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-12-gift-story.mp4"
+    },
+    {
+      "name": "story-12-gift-story_no_music.mp4",
+      "bytes": 12176291,
+      "sha256": "6cc360895f877fb11c4e10d09f865de25ede18bb4ac86f54880f27018969a59e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-12-gift-story_no_music.mp4"
+    },
+    {
+      "name": "story-12-gift-story.srt",
+      "bytes": 827,
+      "sha256": "62519243dfdfc58aab5934110be6a29f5377e427c40819f3d7a8a44d11384021",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-12-gift-story.srt"
+    },
+    {
+      "name": "story-12-gift-story_cover.jpg",
+      "bytes": 253691,
+      "sha256": "2893f279ebe8a4395009915677f88fec43b0f956cd51b4e55554e12a59bbefb8",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-12-gift-story_cover.jpg"
+    },
+    {
+      "name": "story-c01-honest-review.mp4",
+      "bytes": 11568196,
+      "sha256": "b9de8aa940069616de2067e6301f51dcdcee6880d0cc9fac69cae3975b130b3e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-c01-honest-review.mp4"
+    },
+    {
+      "name": "story-c01-honest-review_no_music.mp4",
+      "bytes": 11526994,
+      "sha256": "2c47e4b13a7fe5710fe8d3b2f6983cea8f317a81252cefcae3c8aaf27284be5d",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-c01-honest-review_no_music.mp4"
+    },
+    {
+      "name": "story-c01-honest-review.srt",
+      "bytes": 678,
+      "sha256": "b0afd4baa862f0e2aad1bc9d57a4e1f64da9fb4c2310fbdd51c196dec8339547",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-c01-honest-review.srt"
+    },
+    {
+      "name": "story-c01-honest-review_cover.jpg",
+      "bytes": 394913,
+      "sha256": "1c7fd28a7a853c4baf972cf8fec64e1214d4dbf682b3172200290b5c5ed0d0e2",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/story-c01-honest-review_cover.jpg"
+    },
+    {
+      "name": "r01-paper-block.mp4",
+      "bytes": 7742959,
+      "sha256": "1ea301eb85098a66652e6ac33478f44274b37e55efaf74e07891a3c0525acfb5",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r01-paper-block.mp4"
+    },
+    {
+      "name": "r01-paper-block_no_music.mp4",
+      "bytes": 7700704,
+      "sha256": "cb6068fada9720cb9d2bb781a55980e35a851203ef57702873d6d81b582d7c96",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r01-paper-block_no_music.mp4"
+    },
+    {
+      "name": "r01-paper-block.srt",
+      "bytes": 607,
+      "sha256": "88286887edea08df9bd7715aa23846e95af370363f0ac4967842496b6627e82f",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r01-paper-block.srt"
+    },
+    {
+      "name": "r01-paper-block_cover.jpg",
+      "bytes": 124606,
+      "sha256": "9cbd01a5d5dc84ed4aabf188fc1366001aa505ef9498f0d29ffff316859caf77",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r01-paper-block_cover.jpg"
+    },
+    {
+      "name": "r02-paper-hash.mp4",
+      "bytes": 7884200,
+      "sha256": "12d56ba61c93879e3ba72f92ba5cd8c4c863ab567778d02950cb836699e3cc79",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r02-paper-hash.mp4"
+    },
+    {
+      "name": "r02-paper-hash_no_music.mp4",
+      "bytes": 7846243,
+      "sha256": "24ac25f32b42682e17c84ccd7430c4bab428aae2a4a9ce7811764814e848a3ef",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r02-paper-hash_no_music.mp4"
+    },
+    {
+      "name": "r02-paper-hash.srt",
+      "bytes": 619,
+      "sha256": "dbf3f46df11ad17f7ba0e1fe2dec738d57a97a0cfa31b86c63d933f98a6b9c0b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r02-paper-hash.srt"
+    },
+    {
+      "name": "r02-paper-hash_cover.jpg",
+      "bytes": 154698,
+      "sha256": "779d99c61ac110f53a308c5c024d54cf4df84299613822af055073f79f245951",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r02-paper-hash_cover.jpg"
+    },
+    {
+      "name": "r03-paper-chain.mp4",
+      "bytes": 7536860,
+      "sha256": "554a245269977c364fa7540c4dcfb411b15fa983db562694e81e5c5f8764091c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r03-paper-chain.mp4"
+    },
+    {
+      "name": "r03-paper-chain_no_music.mp4",
+      "bytes": 7497482,
+      "sha256": "19bec80554695987474b10cfc9cd0c17480f05afd038f99f1bf7d46b53d210ff",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r03-paper-chain_no_music.mp4"
+    },
+    {
+      "name": "r03-paper-chain.srt",
+      "bytes": 650,
+      "sha256": "f5b3ff472ae4ef3532dbdae6e47305488889e0fbc02d226136c7d7b956cea90f",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r03-paper-chain.srt"
+    },
+    {
+      "name": "r03-paper-chain_cover.jpg",
+      "bytes": 107678,
+      "sha256": "10b0c750ba071095b0e99ccffff70c1a052dc794d42d33c37e05d6769dc69050",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r03-paper-chain_cover.jpg"
+    },
+    {
+      "name": "r04-paper-inside.mp4",
+      "bytes": 8074334,
+      "sha256": "6b960bafd9fba09b98ea98729a926d3fc22fe3874db04079362fb50f1e6be2f2",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r04-paper-inside.mp4"
+    },
+    {
+      "name": "r04-paper-inside_no_music.mp4",
+      "bytes": 8031501,
+      "sha256": "992bc0f53d6c350400e6623dcb82cccd8be716b8a1aa229b5713b05ab2dd2d2a",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r04-paper-inside_no_music.mp4"
+    },
+    {
+      "name": "r04-paper-inside.srt",
+      "bytes": 673,
+      "sha256": "3a4f91cccb0f78ff4a27df61fb66d41d753de9e9711f2c7e7475bd9049547997",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r04-paper-inside.srt"
+    },
+    {
+      "name": "r04-paper-inside_cover.jpg",
+      "bytes": 135744,
+      "sha256": "8f61141a5c85d88fdaf87cd0b65f065c0cb99037b4e3bcf712d05920b5511a2f",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r04-paper-inside_cover.jpg"
+    },
+    {
+      "name": "r05-chalk-miners.mp4",
+      "bytes": 5071259,
+      "sha256": "6000999abff6a39ce7d9898e0cb503b35ac117c47d85b950c8eac3642cea54fd",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r05-chalk-miners.mp4"
+    },
+    {
+      "name": "r05-chalk-miners_no_music.mp4",
+      "bytes": 5029724,
+      "sha256": "5983c2ebfd74c935a370327016fbaebf1c5e735f92e9a4282ee0db66c1c3d779",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r05-chalk-miners_no_music.mp4"
+    },
+    {
+      "name": "r05-chalk-miners.srt",
+      "bytes": 643,
+      "sha256": "3b57499052c2cece8c32e5e5b3fc61b43413f74d98bfc3fde67dad834d19243d",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r05-chalk-miners.srt"
+    },
+    {
+      "name": "r05-chalk-miners_cover.jpg",
+      "bytes": 138512,
+      "sha256": "63dd9c78f14a4139b1e5a08d98db8e958405694ec436c8733db7a4a9013fb9c9",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r05-chalk-miners_cover.jpg"
+    },
+    {
+      "name": "r06-chalk-shovel.mp4",
+      "bytes": 3463236,
+      "sha256": "e97637277bd7fab82a4fa16b38eb605ce28139a489c29fe08e2964605000a38c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r06-chalk-shovel.mp4"
+    },
+    {
+      "name": "r06-chalk-shovel_no_music.mp4",
+      "bytes": 3421659,
+      "sha256": "beb256321dc31100e8f7f9588408271850906226abbd05e6aef03aa0484bd319",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r06-chalk-shovel_no_music.mp4"
+    },
+    {
+      "name": "r06-chalk-shovel.srt",
+      "bytes": 658,
+      "sha256": "2e2e03766081905f304e76cd3404fc94a3ab232b4d21212ddc9bb64ba60a81fb",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r06-chalk-shovel.srt"
+    },
+    {
+      "name": "r06-chalk-shovel_cover.jpg",
+      "bytes": 129281,
+      "sha256": "578be9d1530074047f561946370019d7a1ae6e83159d4fdd4c703d37753bf8ca",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r06-chalk-shovel_cover.jpg"
+    },
+    {
+      "name": "r07-chalk-nodes.mp4",
+      "bytes": 3282541,
+      "sha256": "ef04df39839830535efd5c6d03eb8d46481671fc76bcb35da721a76bc2513db2",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r07-chalk-nodes.mp4"
+    },
+    {
+      "name": "r07-chalk-nodes_no_music.mp4",
+      "bytes": 3237781,
+      "sha256": "198dbe2b96f535a0a1d8d6a9cf07e6b187f57c6fbcc865920ede3a954b6fcc24",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r07-chalk-nodes_no_music.mp4"
+    },
+    {
+      "name": "r07-chalk-nodes.srt",
+      "bytes": 735,
+      "sha256": "2b05d56db05d10246b71264e1947c8149cae2df9997efa893d26ec183343f584",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r07-chalk-nodes.srt"
+    },
+    {
+      "name": "r07-chalk-nodes_cover.jpg",
+      "bytes": 109497,
+      "sha256": "848bc3fd802e24955b12e681458fdd5077c5cb4a53823455791d17f5c32d1023",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r07-chalk-nodes_cover.jpg"
+    },
+    {
+      "name": "r08-chalk-proof.mp4",
+      "bytes": 2824206,
+      "sha256": "3e731c9cbfb5f1bf45768f7b4b84db9af863a6c09e5863e7c94d05c04c917be8",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r08-chalk-proof.mp4"
+    },
+    {
+      "name": "r08-chalk-proof_no_music.mp4",
+      "bytes": 2785367,
+      "sha256": "53e3bce389fa6ea9a9495a3b7db44400e484bf883bf20c8ddd543373c5c5e259",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r08-chalk-proof_no_music.mp4"
+    },
+    {
+      "name": "r08-chalk-proof.srt",
+      "bytes": 655,
+      "sha256": "baaa3b6a49926a1c391af5c77c5f35d7b3451ae48931be4d3565cab44e31856b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r08-chalk-proof.srt"
+    },
+    {
+      "name": "r08-chalk-proof_cover.jpg",
+      "bytes": 151571,
+      "sha256": "44007c058680f31b8009b23611785631c18c1f4e2321f6bd2b136f4dd5d614d9",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r08-chalk-proof_cover.jpg"
+    },
+    {
+      "name": "r09-editorial-time.mp4",
+      "bytes": 4172620,
+      "sha256": "4c2f3d547b1328ec4abc829fbff836d543066fee614c7f35f8b0f54034bf0a00",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r09-editorial-time.mp4"
+    },
+    {
+      "name": "r09-editorial-time_no_music.mp4",
+      "bytes": 4128178,
+      "sha256": "58d25826770078bf68cf84e1c76d0df624630df55342a202ab545a5d0ba84272",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r09-editorial-time_no_music.mp4"
+    },
+    {
+      "name": "r09-editorial-time.srt",
+      "bytes": 670,
+      "sha256": "ceab7dfa7e7c5f6049be0f8873f7fc61490ac78ae1647549442443b55bab4494",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r09-editorial-time.srt"
+    },
+    {
+      "name": "r09-editorial-time_cover.jpg",
+      "bytes": 127837,
+      "sha256": "1f2654725b1c19b81f9a8c1c4186d76aa09fc8abd1764baa19b38cde421dbb0f",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r09-editorial-time_cover.jpg"
+    },
+    {
+      "name": "r10-editorial-fees.mp4",
+      "bytes": 3240809,
+      "sha256": "d34b21a710664779702e22d1be29de440683707e60e6f180cb9b9059034dbd06",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r10-editorial-fees.mp4"
+    },
+    {
+      "name": "r10-editorial-fees_no_music.mp4",
+      "bytes": 3197710,
+      "sha256": "6e589da90e6d82530e33923ec98d9f0d8c7cb5cc4191e6277576ff0f80ffc2c8",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r10-editorial-fees_no_music.mp4"
+    },
+    {
+      "name": "r10-editorial-fees.srt",
+      "bytes": 673,
+      "sha256": "826cc9ebafa0a670575ea032fe452d46418c815947bf460da990a151c4fca912",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r10-editorial-fees.srt"
+    },
+    {
+      "name": "r10-editorial-fees_cover.jpg",
+      "bytes": 124323,
+      "sha256": "0e957e3db686281dbbe9472b1558f6832894bafe8145dd9ea7d44b037a24809c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r10-editorial-fees_cover.jpg"
+    },
+    {
+      "name": "r11-editorial-fork.mp4",
+      "bytes": 2878111,
+      "sha256": "c16ad64d7f8474c527b77b625fb2668518bf66556a8e9c2270b8e7b363bc1e49",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r11-editorial-fork.mp4"
+    },
+    {
+      "name": "r11-editorial-fork_no_music.mp4",
+      "bytes": 2832736,
+      "sha256": "d05fa87a54eead6d07955d076eb545086512511170573b60a2ec44f322ce8d8b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r11-editorial-fork_no_music.mp4"
+    },
+    {
+      "name": "r11-editorial-fork.srt",
+      "bytes": 597,
+      "sha256": "dd97544ad7a524d0618897ad03669e2237bcf79658ad0886e1ee196c710e1147",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r11-editorial-fork.srt"
+    },
+    {
+      "name": "r11-editorial-fork_cover.jpg",
+      "bytes": 119770,
+      "sha256": "3aa0a8f114f045a15d9a6f8f219aece6633cfaa1684ab67a87f4a4f4520b5c4b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r11-editorial-fork_cover.jpg"
+    },
+    {
+      "name": "r12-editorial-day.mp4",
+      "bytes": 3358165,
+      "sha256": "c73468bdef85f474ef54cc325286a302028619122efcf5fe82e110443b7bbb2d",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r12-editorial-day.mp4"
+    },
+    {
+      "name": "r12-editorial-day_no_music.mp4",
+      "bytes": 3319684,
+      "sha256": "6064e0075c71e60fd3b53c83594a0286eaa693bbd1ee9326fd3d8de8a3be4e6e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r12-editorial-day_no_music.mp4"
+    },
+    {
+      "name": "r12-editorial-day.srt",
+      "bytes": 598,
+      "sha256": "2fc284f59b3b2ff3d8b26f85dff8fe02ec8b3bdcfed0a13558dc678312be31eb",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r12-editorial-day.srt"
+    },
+    {
+      "name": "r12-editorial-day_cover.jpg",
+      "bytes": 203262,
+      "sha256": "9085d0183dffd74629ee8e44c3ba3f2015fb379ca52796f654644eab02f59b32",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/r12-editorial-day_cover.jpg"
+    },
+    {
+      "name": "buyer-01-first-miner.mp4",
+      "bytes": 9296529,
+      "sha256": "effb363e276e2bb604ba27b54a208b7bd7fa6722d2a9b90322166f19da926da1",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-01-first-miner.mp4"
+    },
+    {
+      "name": "buyer-01-first-miner.srt",
+      "bytes": 667,
+      "sha256": "b5c333d5fe01d960cfb47a7dd84bf85013d628f15fb2a8efe9ab7e72ddcb2b56",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-01-first-miner.srt"
+    },
+    {
+      "name": "buyer-01-first-miner_cover.jpg",
+      "bytes": 384056,
+      "sha256": "ee901355218214cbdac41917b05d1b563c1c1e7ac4a9beb969d9b7b50e0d1af3",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-01-first-miner_cover.jpg"
+    },
+    {
+      "name": "buyer-02-cost-check.mp4",
+      "bytes": 5000852,
+      "sha256": "70c50debb56e081f4a5dc168cd1551d5b76d714bf45389df59b7a721942733d0",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-02-cost-check.mp4"
+    },
+    {
+      "name": "buyer-02-cost-check.srt",
+      "bytes": 652,
+      "sha256": "f2924eb9c3ef5f538861d6797f8c7bad33905ef22de7943c4bba107fd7839a07",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-02-cost-check.srt"
+    },
+    {
+      "name": "buyer-02-cost-check_cover.jpg",
+      "bytes": 325268,
+      "sha256": "31c3bb7c69974dcd013c91c9ce7f3966db80e9260413fdd3a74d9523c7e08efe",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-02-cost-check_cover.jpg"
+    },
+    {
+      "name": "buyer-03-desk-choice.mp4",
+      "bytes": 6167004,
+      "sha256": "5a8028499cf906967c3d196291d80619684e387ba4ed8ecbd7c6bbf3c79fde02",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-03-desk-choice.mp4"
+    },
+    {
+      "name": "buyer-03-desk-choice.srt",
+      "bytes": 631,
+      "sha256": "b06ba0296789be8a9f47c74c25cd6119bc09d66a2c1f94e5ffbe334087bac487",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-03-desk-choice.srt"
+    },
+    {
+      "name": "buyer-03-desk-choice_cover.jpg",
+      "bytes": 388727,
+      "sha256": "d4d6c07db4f9c2fd48a8b2248b885d9e64e2256573c7cc286b9117bb64a45365",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-03-desk-choice_cover.jpg"
+    },
+    {
+      "name": "buyer-04-setup-path.mp4",
+      "bytes": 5358473,
+      "sha256": "f31b8d087070950ac2f005f75db7438bdba52c034f4bd8f19cdec92778572c18",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-04-setup-path.mp4"
+    },
+    {
+      "name": "buyer-04-setup-path.srt",
+      "bytes": 672,
+      "sha256": "eec087b654d35b6a2f91699ca1b8ca26d7fd2c972ea0b80393f2e37f1e8b7f23",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-04-setup-path.srt"
+    },
+    {
+      "name": "buyer-04-setup-path_cover.jpg",
+      "bytes": 292112,
+      "sha256": "7e3be68ef8e7e4466dbb2548fa83ce4724eca4cf9429cf644d697f02c3e7712e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-04-setup-path_cover.jpg"
+    },
+    {
+      "name": "buyer-05-holiday-project.mp4",
+      "bytes": 5526994,
+      "sha256": "26930ccac47d659d992295de43a765ffc3a12bb750f4c82e081bfdb2a9e02922",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-05-holiday-project.mp4"
+    },
+    {
+      "name": "buyer-05-holiday-project.srt",
+      "bytes": 686,
+      "sha256": "60d4f4fab1797095d3dd30de400b5c1772d654609c7d40978435888d57c043d3",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-05-holiday-project.srt"
+    },
+    {
+      "name": "buyer-05-holiday-project_cover.jpg",
+      "bytes": 277793,
+      "sha256": "714faf9ffcb27af5faa5d3864c764dd6d8033ae5262d38815ffd7c20da076e1e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-05-holiday-project_cover.jpg"
+    },
+    {
+      "name": "buyer-06-phone-role.mp4",
+      "bytes": 4769601,
+      "sha256": "d79d7518fdfbcff517b105934ff84280ba260a11e97f41e71d9fb7a574ea343c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-06-phone-role.mp4"
+    },
+    {
+      "name": "buyer-06-phone-role.srt",
+      "bytes": 586,
+      "sha256": "62e75378ba99da8350d956404a69bdf55c7d4d6f00a740e7fdada5ace087b478",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-06-phone-role.srt"
+    },
+    {
+      "name": "buyer-06-phone-role_cover.jpg",
+      "bytes": 295737,
+      "sha256": "336d3fdeb0582f7fcc9274e17299160f0bf445eebaf985155d6b94dccbbf5c1b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-06-phone-role_cover.jpg"
+    },
+    {
+      "name": "buyer-07-real-margin.mp4",
+      "bytes": 8293713,
+      "sha256": "eb10ebd1876ca52c04df020b7dedd62775df9e7d9d04c9bc73ec847ac114e7e0",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-07-real-margin.mp4"
+    },
+    {
+      "name": "buyer-07-real-margin.srt",
+      "bytes": 739,
+      "sha256": "284b387ed989651f7c5d30225bc11cc0e1284bf7d7fb247ae41cdd16c29acbf2",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-07-real-margin.srt"
+    },
+    {
+      "name": "buyer-07-real-margin_cover.jpg",
+      "bytes": 288267,
+      "sha256": "0371716853961ea524ab625b672c66c5d5b05aa30a6d71bb68779f8516e204d8",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-07-real-margin_cover.jpg"
+    },
+    {
+      "name": "buyer-08-demo-first.mp4",
+      "bytes": 7473867,
+      "sha256": "bb9472b1d453d2c2d392264115027f2ef45776e21b76403661c8877932573c69",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-08-demo-first.mp4"
+    },
+    {
+      "name": "buyer-08-demo-first.srt",
+      "bytes": 705,
+      "sha256": "db423a71fb0bf852594bbffe3baf2ed1829015b1997db828757e5ade4f0feb77",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-08-demo-first.srt"
+    },
+    {
+      "name": "buyer-08-demo-first_cover.jpg",
+      "bytes": 274802,
+      "sha256": "f18ff5ecd9a6cc8f3eb4d59369f18969a6a37ebfe53d75039f6361535230d783",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-08-demo-first_cover.jpg"
+    },
+    {
+      "name": "buyer-09-supplier-proof.mp4",
+      "bytes": 5609103,
+      "sha256": "d8a31782fff2412c4075bc737e5ea567be36070496ff0eae260f3662bdf5af49",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-09-supplier-proof.mp4"
+    },
+    {
+      "name": "buyer-09-supplier-proof.srt",
+      "bytes": 712,
+      "sha256": "b1a113e5bf1dd9f2051234ef33e271c9b3cc8885be5f340a2420ad45dc248aee",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-09-supplier-proof.srt"
+    },
+    {
+      "name": "buyer-09-supplier-proof_cover.jpg",
+      "bytes": 465477,
+      "sha256": "a7015d3ba8e7e3b5fef932f2e6b95468722fdf08e18b9543c9771f450d61bce9",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-09-supplier-proof_cover.jpg"
+    },
+    {
+      "name": "buyer-10-q4-planning.mp4",
+      "bytes": 4568384,
+      "sha256": "f53dab6017a58ded541df97afdab09ec686ff73b515f45f96e73a4ac070dd836",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-10-q4-planning.mp4"
+    },
+    {
+      "name": "buyer-10-q4-planning.srt",
+      "bytes": 675,
+      "sha256": "4e98de05e34f06344e52678eef9f04b2ba1ed6a3b55f29aefb3db80e4d61ab03",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-10-q4-planning.srt"
+    },
+    {
+      "name": "buyer-10-q4-planning_cover.jpg",
+      "bytes": 243823,
+      "sha256": "5bfa6c00ca5ac9db671c426ea882460401d64e3a35a49d4eaf2436b9f2472745",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/buyer-10-q4-planning_cover.jpg"
+    },
+    {
+      "name": "original-distributor.mp4",
+      "bytes": 3918802,
+      "sha256": "3167de93bc4b2e1678651ffee45be0f6337b3cc9297cf49a5c0382300a51157c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-distributor.mp4"
+    },
+    {
+      "name": "original-distributor_no_music.mp4",
+      "bytes": 3814489,
+      "sha256": "a574713f416c16d5982c1c77195ee39075970c878bc7f6cc54ce0f554a4143db",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-distributor_no_music.mp4"
+    },
+    {
+      "name": "original-distributor_cover.jpg",
+      "bytes": 211831,
+      "sha256": "dddf9c80b99d0b8fab9d9b38de37488c62852932b9934dd94bc8842c43ddc28d",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-distributor_cover.jpg"
+    },
+    {
+      "name": "original-distributor_music_only.mp4",
+      "bytes": 3949248,
+      "sha256": "14f989f7d40105c368010c8456409f228458468006cfb4fe2dfdf8aca386eba6",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-distributor_music_only.mp4"
+    },
+    {
+      "name": "original-enthusiast.mp4",
+      "bytes": 3192719,
+      "sha256": "e3847fc396bc90878b6a26fa55dd2fe631b63c80fe205d4e4155bf2a7ab9c52c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-enthusiast.mp4"
+    },
+    {
+      "name": "original-enthusiast_no_music.mp4",
+      "bytes": 3114630,
+      "sha256": "4c6414f32aacadf5eba4d88b897026c94dfb1c7d74d9aad9acf9d8397e3c47ba",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-enthusiast_no_music.mp4"
+    },
+    {
+      "name": "original-enthusiast_cover.jpg",
+      "bytes": 230919,
+      "sha256": "70e14be12d70fdb882970b8a23fbe0aa5d6f6a65bc77408b35e97296ffab5508",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-enthusiast_cover.jpg"
+    },
+    {
+      "name": "original-enthusiast_music_only.mp4",
+      "bytes": 3220942,
+      "sha256": "3636ab22ab688825c57a9ad787c43a4e6ec611e10666548eda694601a00a254e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/original-enthusiast_music_only.mp4"
+    },
+    {
+      "name": "design-distributor.mp4",
+      "bytes": 19259125,
+      "sha256": "500c98f059741b3f2e937556f7efd05048b503194c41faff3b7856a6340d837c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-distributor.mp4"
+    },
+    {
+      "name": "design-distributor_no_music.mp4",
+      "bytes": 19141361,
+      "sha256": "a1ea8e9c1f96195a71c9b2d2cb265a281b069c904f9305fd5d56db49479bac79",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-distributor_no_music.mp4"
+    },
+    {
+      "name": "design-distributor.srt",
+      "bytes": 538,
+      "sha256": "26b2ea87a6e6b30c09adbc615bf5d66b26ef7f8f0a4c6a33de15ccdf0d0ad9de",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-distributor.srt"
+    },
+    {
+      "name": "design-distributor_cover.jpg",
+      "bytes": 418624,
+      "sha256": "2b15b98c4f6dd0d202e511c38908c71f67f5a525d505e62e3379dff49a2f3958",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-distributor_cover.jpg"
+    },
+    {
+      "name": "design-enthusiast.mp4",
+      "bytes": 15964673,
+      "sha256": "f590ddc9d5d1247d82552afcbb035e112f572a610bc9631d48fe99701b4994aa",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-enthusiast.mp4"
+    },
+    {
+      "name": "design-enthusiast_no_music.mp4",
+      "bytes": 15876099,
+      "sha256": "bb06f51a44decc93382e1f13ba024557725274cf02cfce5e7294cef0995a7643",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-enthusiast_no_music.mp4"
+    },
+    {
+      "name": "design-enthusiast.srt",
+      "bytes": 427,
+      "sha256": "c6ce2b71855e68d952f49d0df93681bd7fb74d6b29a04a10b59acddb871ebf5c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-enthusiast.srt"
+    },
+    {
+      "name": "design-enthusiast_cover.jpg",
+      "bytes": 395403,
+      "sha256": "9a611d9f4bd23aca9bf1926ac6dd66b2d3201039df72da8037bcd9b036475fca",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/design-enthusiast_cover.jpg"
+    },
+    {
+      "name": "desktop-product-film.mp4",
+      "bytes": 2497046,
+      "sha256": "989b0da751ab789a69dcdf3e176f1daada42e14b5ed6a7bbe2aab673c015b59a",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-film.mp4"
+    },
+    {
+      "name": "desktop-product-film_no_music.mp4",
+      "bytes": 2442057,
+      "sha256": "1a1f2f27789e8415bb83e61f97742cd88e72681c57a5d0340e32d39951155e2b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-film_no_music.mp4"
+    },
+    {
+      "name": "desktop-product-film.srt",
+      "bytes": 352,
+      "sha256": "da9575392b2141f73babc277bb4f319de234c31c608c816cf7a8817bbab46cf8",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-film.srt"
+    },
+    {
+      "name": "desktop-product-film_cover.jpg",
+      "bytes": 267874,
+      "sha256": "5d5d72c05cbc3d9affa6cafcbdb08e27f3e7ce1b3ad7eac7f26b5fc148f6149c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-film_cover.jpg"
+    },
+    {
+      "name": "desktop-product-opening.mp4",
+      "bytes": 2478871,
+      "sha256": "6119924000134199eb5395797a29be196b12c0f7a8086601a46aeb4a4ace2a54",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-opening.mp4"
+    },
+    {
+      "name": "desktop-product-narration.mp4",
+      "bytes": 2499073,
+      "sha256": "c730e4c8235dd6ba77e168b48527ee5ebd7a132e103f6d00ff26eb2d9b84d1fa",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-narration.mp4"
+    },
+    {
+      "name": "desktop-product-narration_no_music.mp4",
+      "bytes": 2454250,
+      "sha256": "a4809a4cbf4272475bb589da00d33beeff4665896909b52eee8c5a30157a3d2e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-product-narration_no_music.mp4"
+    },
+    {
+      "name": "desktop-miner-reveal.mp4",
+      "bytes": 10106769,
+      "sha256": "88e584ab59ca4d86c550a3048948434090c6675a55ed672b4244fc6cce7cf691",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-miner-reveal.mp4"
+    },
+    {
+      "name": "desktop-miner-reveal_no_music.mp4",
+      "bytes": 10089293,
+      "sha256": "47f4d5b0ed74350bfc2b54a533c7c189715ffc3711dbc135c3e3bff107283d3d",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-miner-reveal_no_music.mp4"
+    },
+    {
+      "name": "desktop-miner-reveal.srt",
+      "bytes": 487,
+      "sha256": "360794b9ec01dfa7c479ce7bb0bcb732256f62ed76b071740ebbfc2baf34ef9e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-miner-reveal.srt"
+    },
+    {
+      "name": "desktop-miner-reveal_cover.jpg",
+      "bytes": 313030,
+      "sha256": "533f2a503bbb778a6593386ec32c2d6ca86dc268da47e5347596faed088416e0",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/desktop-miner-reveal_cover.jpg"
+    },
+    {
+      "name": "gamma601-overview.mp4",
+      "bytes": 11572178,
+      "sha256": "2e3e2b8b1a4d5bc797b7afb83fa48824b1ea75292998c0a037bd08db9c268bf2",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/gamma601-overview.mp4"
+    },
+    {
+      "name": "gamma601-overview_cover.jpg",
+      "bytes": 155455,
+      "sha256": "a2c2f1f16bd20dbf7d140c5fee8480d0814cacfca22dcff414ca95e2f1381202",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/gamma601-overview_cover.jpg"
+    },
+    {
+      "name": "early-product-film.mp4",
+      "bytes": 1102092,
+      "sha256": "d59ce7aeabf7215416f4838e99f903b0a0e8538fa64eb38bf1729255089c4643",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/early-product-film.mp4"
+    },
+    {
+      "name": "early-product-film_cover.jpg",
+      "bytes": 217433,
+      "sha256": "c873b959808e3821aaf661aa96481d7b13ecf9b98629669654e18e477c70a641",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/early-product-film_cover.jpg"
+    },
+    {
+      "name": "daily-cut-r5qn.mp4",
+      "bytes": 13852336,
+      "sha256": "1d0eb8025b909e4f12988064fd197752d80f431cb66e30a6c4b7de0732164d45",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.mp4"
+    },
+    {
+      "name": "daily-cut-r5qn_no_music.mp4",
+      "bytes": 13842379,
+      "sha256": "8d70586788d49a49ccae01295e90c8f3d3186da82818f3f9d1d99176d4d81372",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-r5qn.srt",
+      "bytes": 727,
+      "sha256": "7a4253ecbe0785964448fbf34ac4f5b61670448e6b12483424fe477ba8e92725",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn.srt"
+    },
+    {
+      "name": "daily-cut-r5qn_cover.jpg",
+      "bytes": 256628,
+      "sha256": "1c182cbf3c3d6bee92afd3c07a0e882921bf40a46deb705f01c5054d673fe107",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-r5qn_cover.jpg"
+    },
+    {
+      "name": "daily-cut-53a5.mp4",
+      "bytes": 13247470,
+      "sha256": "edcc895ea4ee8fe3df843b34ea031fb7020ac329e31a1c60b5f99da066ef4902",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-53a5.mp4"
+    },
+    {
+      "name": "daily-cut-53a5_no_music.mp4",
+      "bytes": 13240957,
+      "sha256": "7a50437be38bd3b4746f50d43ad75417a0df787428f1a0c8e8ea675877777686",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-53a5_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-53a5_cover.jpg",
+      "bytes": 255561,
+      "sha256": "5c08a3c22904f5473450017d3dff32e17065565465f7567f62cc3ae9f20a39de",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-53a5_cover.jpg"
+    },
+    {
+      "name": "daily-cut-622n.mp4",
+      "bytes": 14413062,
+      "sha256": "7ce5c8dbadb5c4fdfbb8e859458e9bdfc755e7eb0b33d2f4a088a265d9cd962e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-622n.mp4"
+    },
+    {
+      "name": "daily-cut-622n_no_music.mp4",
+      "bytes": 14408199,
+      "sha256": "a15610f8ae0637592e12a0db14a8b3c09700b957d5099996323fbc851b2f81d0",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-622n_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-622n_cover.jpg",
+      "bytes": 274485,
+      "sha256": "5cc47af361b039b52babdfb29fbb629c0901cb076476e80e828dc1f3ab3eaf2f",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-622n_cover.jpg"
+    },
+    {
+      "name": "daily-cut-xxq4.mp4",
+      "bytes": 15378759,
+      "sha256": "0778c540f60043a87ca2f3ff04981685da9b6f88c7f3c85af640b95300c2c240",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-xxq4.mp4"
+    },
+    {
+      "name": "daily-cut-xxq4_no_music.mp4",
+      "bytes": 15374909,
+      "sha256": "10aabf82d16a925022ac1994cffbcbddb910d3388ba31138d7f697a1ea418c6c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-xxq4_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-xxq4_cover.jpg",
+      "bytes": 289324,
+      "sha256": "72c5525b373ab050adac5e48fc81fc113a5d855e55378c68fa2478cb5cf69d94",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-xxq4_cover.jpg"
+    },
+    {
+      "name": "daily-cut-dxda.mp4",
+      "bytes": 15499173,
+      "sha256": "fdd4aca5e9144563c24e34f60a261db4313ff0bfb22d737d74b1cb092706a453",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-dxda.mp4"
+    },
+    {
+      "name": "daily-cut-dxda_no_music.mp4",
+      "bytes": 15455501,
+      "sha256": "ff485442adde1f87f9afb88052da2a37098813446a6f68cc3c2218a2f77db9fd",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-dxda_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-dxda_cover.jpg",
+      "bytes": 331723,
+      "sha256": "cc19846712d17932c38b706d0587d2998b5847a6e61360a55f96a6d91632735d",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-dxda_cover.jpg"
+    },
+    {
+      "name": "daily-cut-avq6.mp4",
+      "bytes": 12297902,
+      "sha256": "30a93e230dd3dcc704556ad44f0c17e8c95517176d4e75bfc262f2d45776af7f",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-avq6.mp4"
+    },
+    {
+      "name": "daily-cut-avq6_no_music.mp4",
+      "bytes": 12297672,
+      "sha256": "000987aff20323fd3d1c4645c75952e8138536300a98d72c8b8fc92376a35f0b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-avq6_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-avq6_cover.jpg",
+      "bytes": 259913,
+      "sha256": "36c215b3bf701e33fddd549c2308cd5db3f8f97476a5c2284ff956e9c3ee93b6",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-avq6_cover.jpg"
+    },
+    {
+      "name": "daily-cut-5hbl.mp4",
+      "bytes": 12688569,
+      "sha256": "fa698b8e95216d96e0a90ccf991df0d958c9eb6d061f100f0a53bb62be858789",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-5hbl.mp4"
+    },
+    {
+      "name": "daily-cut-5hbl_no_music.mp4",
+      "bytes": 12681869,
+      "sha256": "7fe56b691332441b643f2fe967463efd12a70f9fb1cb26b8a44c06b51fb88540",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-5hbl_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-5hbl_cover.jpg",
+      "bytes": 213151,
+      "sha256": "a3472f89717c848853bac7f178111fded233e375248b4eb2c2d1d539b3d81e57",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-5hbl_cover.jpg"
+    },
+    {
+      "name": "daily-cut-uwdf.mp4",
+      "bytes": 14419740,
+      "sha256": "3a520dc08931d11b4710cd5ca14bdc9a04cac00de1f14b189088a60cb54c19c2",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-uwdf.mp4"
+    },
+    {
+      "name": "daily-cut-uwdf_no_music.mp4",
+      "bytes": 14417600,
+      "sha256": "cfe55622997ecf8bfc619ae5f771b93ac74777788279629b65f86bccb04d8d20",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-uwdf_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-uwdf_cover.jpg",
+      "bytes": 197969,
+      "sha256": "19ab7ff7978feb2b5544f7db55f788cb350af5901843f19fd78a882d68ef8aa8",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-uwdf_cover.jpg"
+    },
+    {
+      "name": "daily-cut-hth7.mp4",
+      "bytes": 14387988,
+      "sha256": "0c24edbdf45d00506ba858870a56f2c7972385ddbcdf1a4475636febe817e247",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hth7.mp4"
+    },
+    {
+      "name": "daily-cut-hth7_no_music.mp4",
+      "bytes": 14379387,
+      "sha256": "85e58bf79ac95ac1532577cbb13e004203dd5734a37d6cc0bb75f7aed1e67f46",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hth7_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-hth7_cover.jpg",
+      "bytes": 288588,
+      "sha256": "a42f269e924506514ae985ba6c01870b7cc09eb66ff6a9a77ffd7842fd108df4",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hth7_cover.jpg"
+    },
+    {
+      "name": "daily-cut-bdul.mp4",
+      "bytes": 15386656,
+      "sha256": "5a69aac65b6514bd09d938a76ac8249e05050d7265c95563a8b8753032014d9e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-bdul.mp4"
+    },
+    {
+      "name": "daily-cut-bdul_no_music.mp4",
+      "bytes": 15380866,
+      "sha256": "ac4aa291b2946bf19fc870c9320779f886c4efac5c2837e5c925c0266ebbaa88",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-bdul_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-bdul_cover.jpg",
+      "bytes": 271150,
+      "sha256": "f3d07cf47dd23a95a35d6cbfd10ac7a8d4120ca1c8ad20ceffb3bedb4db863fb",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-bdul_cover.jpg"
+    },
+    {
+      "name": "daily-cut-ka85.mp4",
+      "bytes": 9407818,
+      "sha256": "3b374c4688894ff913229d92ed66c9b77c6e32bca3eb0acf9654e055f5724b6b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ka85.mp4"
+    },
+    {
+      "name": "daily-cut-ka85_no_music.mp4",
+      "bytes": 9380800,
+      "sha256": "d8cca754b1e9d99d16731fe2331ac9a52dad857c5989f0c708b05ccded21489e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ka85_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-ka85_cover.jpg",
+      "bytes": 223736,
+      "sha256": "1d6d38a8da3d039ceefebb0c0f028bc69c60eaa7017596e818a71b61c53e030a",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ka85_cover.jpg"
+    },
+    {
+      "name": "daily-cut-bkpy.mp4",
+      "bytes": 10672013,
+      "sha256": "30f0a88eaa663def615ee9f86fa1d291fe54cf4f7330c289151c7614bf17ad03",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-bkpy.mp4"
+    },
+    {
+      "name": "daily-cut-bkpy_no_music.mp4",
+      "bytes": 10643933,
+      "sha256": "58542717f23735b9cb69442d05852058285ea0f90a64b47f6792228ede113a8e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-bkpy_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-bkpy_cover.jpg",
+      "bytes": 220426,
+      "sha256": "65a6b3a5236e9863c059de6a0fdbcbd8146b0071abfcf1138d5ec27596964e27",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-bkpy_cover.jpg"
+    },
+    {
+      "name": "daily-cut-hfl8.mp4",
+      "bytes": 11840587,
+      "sha256": "17f136bea287dc032c7e1b8d9cf5ecf1a6cfc720c45b0864822233eb13034b34",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hfl8.mp4"
+    },
+    {
+      "name": "daily-cut-hfl8_no_music.mp4",
+      "bytes": 11817680,
+      "sha256": "96cb4674d6e33baf1f77a7c2d787d6fb4b259f1bed18997bfc386aabfa02289f",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hfl8_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-hfl8_cover.jpg",
+      "bytes": 232907,
+      "sha256": "ea0724f57b12695027001c12fe1caa56deb2495e37357f221f8ec5dbf8187205",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hfl8_cover.jpg"
+    },
+    {
+      "name": "daily-cut-pb6a.mp4",
+      "bytes": 8928945,
+      "sha256": "c13a08ba2aea2a250a4151c137dacedd8149d6dc545a8b409e201127e2b20a49",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-pb6a.mp4"
+    },
+    {
+      "name": "daily-cut-pb6a_no_music.mp4",
+      "bytes": 8897149,
+      "sha256": "d0f9a3afa2c1f71383118e52f397e91643ea751251fef17ae759a1f23a6ab268",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-pb6a_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-pb6a_cover.jpg",
+      "bytes": 197275,
+      "sha256": "9047c1b7735e29c56bfbdb23b7fa6d82a78048fca30dec6bddadfee28b1fcb8c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-pb6a_cover.jpg"
+    },
+    {
+      "name": "daily-cut-vc6m.mp4",
+      "bytes": 12837912,
+      "sha256": "382ab095b825fba798285f1755894f7b7826fbd3d0352a3baaea93bd9e52b720",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-vc6m.mp4"
+    },
+    {
+      "name": "daily-cut-vc6m_no_music.mp4",
+      "bytes": 12815446,
+      "sha256": "f018c4322819d4406cc19c2e7e6633e993b2c7b5f9776872335479227fef4fe1",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-vc6m_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-vc6m_cover.jpg",
+      "bytes": 215712,
+      "sha256": "00e62fe4f538bdd0bf793e17e4fe69d136c157ec3650a63b77b1bbf2e7c91ec6",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-vc6m_cover.jpg"
+    },
+    {
+      "name": "daily-cut-ralu.mp4",
+      "bytes": 10338551,
+      "sha256": "679b2d071d1828df9d070007c13a7b519b1ae45bf845a5e37a12485e43cd0bb8",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ralu.mp4"
+    },
+    {
+      "name": "daily-cut-ralu_no_music.mp4",
+      "bytes": 10318271,
+      "sha256": "164b62dbff9a36dc1c7f1e951146a1d5e83d66d085c5b2585c1c39b8570f2992",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ralu_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-ralu_cover.jpg",
+      "bytes": 247492,
+      "sha256": "9ddc2badbbe9678d849737da137c8ddad5f950a9d04f1f34b25e17f2ddd967ac",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ralu_cover.jpg"
+    },
+    {
+      "name": "daily-cut-h3mf.mp4",
+      "bytes": 10417876,
+      "sha256": "278d0d84eff5eb8b23e4e334700e0167d8130c76fb8efb7057b3b96b06469fe7",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-h3mf.mp4"
+    },
+    {
+      "name": "daily-cut-h3mf_no_music.mp4",
+      "bytes": 10390675,
+      "sha256": "3da0150517055b9836a9a9d7d830a4675370857ce47212a6a1a7757df62fb026",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-h3mf_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-h3mf_cover.jpg",
+      "bytes": 223700,
+      "sha256": "3cb37380eba31d643eaebd2d8651929b4ce828054049c15e9d5d59fe8775a88a",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-h3mf_cover.jpg"
+    },
+    {
+      "name": "daily-cut-95vd.mp4",
+      "bytes": 11461898,
+      "sha256": "557580795f7d3c6838f8098198ab6996baf2f075b75a073306e9ba6eafbeb2f6",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-95vd.mp4"
+    },
+    {
+      "name": "daily-cut-95vd_no_music.mp4",
+      "bytes": 11433534,
+      "sha256": "ad2181308d95d13c7d5c5cdf70fc6bedcb2b22361f84c611e105824e9e218627",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-95vd_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-95vd_cover.jpg",
+      "bytes": 196540,
+      "sha256": "4d2c49aff790a2dfd150470524513d6460e3a59ccb6e450e28fe3b089e157bf4",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-95vd_cover.jpg"
+    },
+    {
+      "name": "daily-cut-z4lw.mp4",
+      "bytes": 12370959,
+      "sha256": "94c3e41fda33973a53d0c2c15b6afda281e2f68d9328a09c6593d2537fcd129c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-z4lw.mp4"
+    },
+    {
+      "name": "daily-cut-z4lw_no_music.mp4",
+      "bytes": 12345918,
+      "sha256": "0ef604a8d4113123c81a77a7dfc6fe6d8055620da76bfb71a2fc035b09446eb6",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-z4lw_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-z4lw_cover.jpg",
+      "bytes": 634347,
+      "sha256": "71bd4273264ba2b2a3803a0928de7bf2dcd2df22ce933b9226639b49cbfe0abe",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-z4lw_cover.jpg"
+    },
+    {
+      "name": "daily-cut-4vzc.mp4",
+      "bytes": 8874722,
+      "sha256": "a980a1e0f8ad2a5e4b9234379317aa487e0f9dd9624c6be811e08a08e5eb891f",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-4vzc.mp4"
+    },
+    {
+      "name": "daily-cut-4vzc_no_music.mp4",
+      "bytes": 8851905,
+      "sha256": "119ab1663625c69452f2d4b2eedd57de22495b13a9b8838c531358ea31fe8cd7",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-4vzc_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-4vzc_cover.jpg",
+      "bytes": 238388,
+      "sha256": "b4c4c84e147398fee4630de6b14d928f11c3b11b8c19b54d97e93e5f34c0a704",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-4vzc_cover.jpg"
+    },
+    {
+      "name": "daily-cut-538u.mp4",
+      "bytes": 8400100,
+      "sha256": "2b953dc1287845846889f6736e37b9b1fb40102a5501ab4ebe0ab0d3462ab600",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-538u.mp4"
+    },
+    {
+      "name": "daily-cut-538u_no_music.mp4",
+      "bytes": 8380945,
+      "sha256": "8a8604d67b74d7385304e03c1d8d1c4aeda1ac99cab2def53f615cd53d187fcd",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-538u_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-538u_cover.jpg",
+      "bytes": 227035,
+      "sha256": "e7cec4c3846d0472f388ba2da3286f3e3a84983527cd6e65dac85b0385efbf76",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-538u_cover.jpg"
+    },
+    {
+      "name": "daily-cut-4733.mp4",
+      "bytes": 7867276,
+      "sha256": "1e2509784684f96f1b1245f46c0917f078f2d67fc25ef8a648fc6bad389325c2",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-4733.mp4"
+    },
+    {
+      "name": "daily-cut-4733_no_music.mp4",
+      "bytes": 7830005,
+      "sha256": "921c2936bf81d30f1fa0c203a6a06c87952e3ae8e845a42d36a0e2c08d28ec48",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-4733_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-4733_cover.jpg",
+      "bytes": 212596,
+      "sha256": "9e5de779f85459392c57a4d17b6a050c21e41ce7e2438d5b253709b6c57bb768",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-4733_cover.jpg"
+    },
+    {
+      "name": "daily-cut-w839.mp4",
+      "bytes": 8447324,
+      "sha256": "85a5abab6ad1aa37d6ff92d77fa2b39e274a758eab9881af5650ed48d73600c2",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-w839.mp4"
+    },
+    {
+      "name": "daily-cut-w839_no_music.mp4",
+      "bytes": 8436623,
+      "sha256": "e75d625867185ccb7a88cc425d97242b64e7245ed38e3f4c14ba01e8bd94e2ac",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-w839_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-w839_cover.jpg",
+      "bytes": 212837,
+      "sha256": "7db88be6e931af5e73cfc892d1f93916c0c824b362925a668786d1240894713a",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-w839_cover.jpg"
+    },
+    {
+      "name": "daily-cut-s9yj.mp4",
+      "bytes": 9437035,
+      "sha256": "d6122a35905bd7ad163e798918135f59594cce739bf1d1c71a0d00602e0f2686",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-s9yj.mp4"
+    },
+    {
+      "name": "daily-cut-s9yj_no_music.mp4",
+      "bytes": 9411299,
+      "sha256": "a631a046c6e9a7207d35138f76215daee33a0ffda4dc9fbebef41f061fe94131",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-s9yj_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-s9yj_cover.jpg",
+      "bytes": 238478,
+      "sha256": "b76b7341f2d80a42de78588a10d31180de127cf8c2f357f440722c9f17ca2ccf",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-s9yj_cover.jpg"
+    },
+    {
+      "name": "daily-cut-9cls.mp4",
+      "bytes": 10648346,
+      "sha256": "fe598b2826ff4392404fda1f6018378858c6fcf93f1a56da0c6650027c604fc7",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-9cls.mp4"
+    },
+    {
+      "name": "daily-cut-9cls_no_music.mp4",
+      "bytes": 10625331,
+      "sha256": "ffee328eaf8f6c05f83fa5ac8eff5108bbe7fc98b3b04453474e52d848e96e8b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-9cls_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-9cls_cover.jpg",
+      "bytes": 251927,
+      "sha256": "5b086bfcbbdfe66006a817a05ee0ed4e5405ad00828fb0b94d35711a1bb3d8a7",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-9cls_cover.jpg"
+    },
+    {
+      "name": "daily-cut-kewq.mp4",
+      "bytes": 10140424,
+      "sha256": "ecf2fe1b877701d2c040217fcfb2f811439db601832b8fd84b1c849950347ec8",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kewq.mp4"
+    },
+    {
+      "name": "daily-cut-kewq_no_music.mp4",
+      "bytes": 10114857,
+      "sha256": "aa56b32ff536f7ef70184c137cd4c556f1d0bfcb6fc971aee7bad3544e85c8e0",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kewq_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-kewq_cover.jpg",
+      "bytes": 223751,
+      "sha256": "fe8a540faa0287e5373c2989d91d6c7348d7abd86a85b5528fb0662c59b39f1b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kewq_cover.jpg"
+    },
+    {
+      "name": "daily-cut-z7vr.mp4",
+      "bytes": 7946971,
+      "sha256": "69737522446bcae31e4eac350ceaab6d5554196ff952d3fd852e1205c6fac2dd",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-z7vr.mp4"
+    },
+    {
+      "name": "daily-cut-z7vr_no_music.mp4",
+      "bytes": 7922340,
+      "sha256": "681acce9cea030e086dbe04b015e5c720c84e3273d0474d7ad705d42c7ee1091",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-z7vr_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-z7vr_cover.jpg",
+      "bytes": 197351,
+      "sha256": "d0c5b6ceba7ff907375a56dc5acf75380920388cd0a66c4c529fd4a7df1ffbca",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-z7vr_cover.jpg"
+    },
+    {
+      "name": "daily-cut-gzcf.mp4",
+      "bytes": 8998708,
+      "sha256": "5cf33dd85bc79c0ef8474a14f982aa09ccddf7842e9a0135b12fb644fb128e15",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-gzcf.mp4"
+    },
+    {
+      "name": "daily-cut-gzcf_no_music.mp4",
+      "bytes": 8981035,
+      "sha256": "ac5181adaf45efb997da07e6fb18b446a3c6ea084da2267c7389e9729239d0d1",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-gzcf_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-gzcf_cover.jpg",
+      "bytes": 241945,
+      "sha256": "b44a2cfd3555e62872febd1bb38b44b3c54a039fe1c678692b4ea6793e7bdcfd",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-gzcf_cover.jpg"
+    },
+    {
+      "name": "daily-cut-fega.mp4",
+      "bytes": 9553573,
+      "sha256": "599a2d0b0303d993f4178d3b8efecbc597404829df20a43e929fe86fd3ed1d7e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-fega.mp4"
+    },
+    {
+      "name": "daily-cut-fega_no_music.mp4",
+      "bytes": 9537106,
+      "sha256": "f4cfa0659f858d4a72fbc14ef151db53749b8715430a564111d31d600ac266fa",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-fega_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-fega_cover.jpg",
+      "bytes": 245936,
+      "sha256": "f1e5abdb47b1dd11ebc629bd99fa280f4782268c34ddfa983f7910c0c5a73b4b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-fega_cover.jpg"
+    },
+    {
+      "name": "daily-cut-gsyf.mp4",
+      "bytes": 9639407,
+      "sha256": "e8f227cd4008e847c0435b29abaa6af7d4e35ff371056b32e440cd51828fefbe",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-gsyf.mp4"
+    },
+    {
+      "name": "daily-cut-gsyf_no_music.mp4",
+      "bytes": 9599318,
+      "sha256": "2273986ca31ec3b4c0cd5b7d13041f529cd4e076e0dc728c38035c8e80532a04",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-gsyf_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-gsyf_cover.jpg",
+      "bytes": 255873,
+      "sha256": "ea9b374c9af62a74fd5523ad035b4e94a8b7bfbc3d99a54e77611c4c036a7259",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-gsyf_cover.jpg"
+    },
+    {
+      "name": "daily-cut-kw4z.mp4",
+      "bytes": 14264570,
+      "sha256": "a5bb3288cb9f5a8936dbb8e5c77b42c5ea65e8c4247010ef159af95ee35f83b1",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kw4z.mp4"
+    },
+    {
+      "name": "daily-cut-kw4z_no_music.mp4",
+      "bytes": 14258102,
+      "sha256": "8d7f2fdf375cc3d322239b258e83b6da000765da628d5d642e939c4b497d1adc",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kw4z_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-kw4z_cover.jpg",
+      "bytes": 251859,
+      "sha256": "422665b3bd1153b9acd6c43dba814bc09190b0381c0ee83ed4222b71ca7109d4",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kw4z_cover.jpg"
+    },
+    {
+      "name": "daily-cut-pmgj.mp4",
+      "bytes": 14804231,
+      "sha256": "6760e99f6f3802495723cdeb0c511579fed8ad55e03bb14f63b86b46374bd437",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-pmgj.mp4"
+    },
+    {
+      "name": "daily-cut-pmgj_no_music.mp4",
+      "bytes": 14804201,
+      "sha256": "d0ace0414b33b362af29c918a9f18be7e524aea8ff660542e09d0086ad78a0ad",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-pmgj_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-pmgj_cover.jpg",
+      "bytes": 245737,
+      "sha256": "b15ca1e61b298264467cf96cfedbeae2b515e6728e3c21afc21a56109d5a852a",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-pmgj_cover.jpg"
+    },
+    {
+      "name": "daily-cut-mctq.mp4",
+      "bytes": 16191316,
+      "sha256": "2856f8e2489b947c9de0f329aa904eabb10b828b1f7a7520ca6c89259753fa4b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-mctq.mp4"
+    },
+    {
+      "name": "daily-cut-mctq_no_music.mp4",
+      "bytes": 16186664,
+      "sha256": "e2dc98a3e82d220ae9773286f71eaa7b4bcd14ca0a54bbc4b32f0ef2bd0fbf23",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-mctq_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-mctq_cover.jpg",
+      "bytes": 264554,
+      "sha256": "82916f90e1f299fb582245a27d045dbc220b930e1356a06cd1f68cf189366264",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-mctq_cover.jpg"
+    },
+    {
+      "name": "daily-cut-ulg2.mp4",
+      "bytes": 15210783,
+      "sha256": "fab8b71630891b6219f24ab4f2801a1f4220c7cb1bf7317c6034366f4b7f1bba",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ulg2.mp4"
+    },
+    {
+      "name": "daily-cut-ulg2_no_music.mp4",
+      "bytes": 15208345,
+      "sha256": "ba19baaa0fd64b34a0280377f28e37347fb0b18407b30c7632dd5199eb317cd0",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ulg2_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-ulg2_cover.jpg",
+      "bytes": 296026,
+      "sha256": "1d04fbd11816e106a949b295443a61b3134dd65938021a4265d177e0ca8d264b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ulg2_cover.jpg"
+    },
+    {
+      "name": "daily-cut-39f5.mp4",
+      "bytes": 13366865,
+      "sha256": "a888efccda47ea7c2f7c0d8512df830a44b16dcd700af7b90745df9be4b0ae45",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-39f5.mp4"
+    },
+    {
+      "name": "daily-cut-39f5_no_music.mp4",
+      "bytes": 13366249,
+      "sha256": "021c4b840219e4c5b3eb5e95cfb1f266bd308de2a1cbebceb679d4f88f23af84",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-39f5_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-39f5_cover.jpg",
+      "bytes": 260023,
+      "sha256": "6381f12607792a522f5f76af9e3e1acf69fd4616ac5cffdd27bec4a0ec981a8a",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-39f5_cover.jpg"
+    },
+    {
+      "name": "daily-cut-hgjh.mp4",
+      "bytes": 13103592,
+      "sha256": "77010d4d58bab24eedd9e8afb376f18ad87f1ffb8f833a54e9bd51b44aad89f2",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hgjh.mp4"
+    },
+    {
+      "name": "daily-cut-hgjh_no_music.mp4",
+      "bytes": 13100109,
+      "sha256": "02a269aec4c290cc0c610b9929321389e8e304414677adfc2a3a4dcb11b0b542",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hgjh_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-hgjh_cover.jpg",
+      "bytes": 270874,
+      "sha256": "ee9244bc7bf32b6c65e245b2e708f15892a9efedf72065d0e9b06ae1b4bd8410",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-hgjh_cover.jpg"
+    },
+    {
+      "name": "daily-cut-8535.mp4",
+      "bytes": 9561326,
+      "sha256": "ddba037cc435f680641b91024a03d530a38eb4851630acbf9960cbfa1b1a4b1b",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-8535.mp4"
+    },
+    {
+      "name": "daily-cut-8535_no_music.mp4",
+      "bytes": 9546251,
+      "sha256": "9bb6d83882c31b45fde93823518abb07f7762c132fc96fbe29ca91650a3f77dd",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-8535_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-8535_cover.jpg",
+      "bytes": 231814,
+      "sha256": "c870e589ad653011ad80116790634c8c17c98c68d1088b14d91071497339ba64",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-8535_cover.jpg"
+    },
+    {
+      "name": "daily-cut-sen9.mp4",
+      "bytes": 9847295,
+      "sha256": "9e4a21c3d70893805f853a057ceb4b06dda462afbbdf179f70a349c452127d12",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-sen9.mp4"
+    },
+    {
+      "name": "daily-cut-sen9_no_music.mp4",
+      "bytes": 9818647,
+      "sha256": "06c7c57e2a35dea1f92fbf27af674f8c8e33b08001da9090972792792a686a2d",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-sen9_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-sen9_cover.jpg",
+      "bytes": 242723,
+      "sha256": "3fb1023807584e4b69a0f5be11d6024881f60b201cff6c4ad9e8f1182654e148",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-sen9_cover.jpg"
+    },
+    {
+      "name": "daily-cut-vfkn.mp4",
+      "bytes": 10501364,
+      "sha256": "701f9af563726012c935310899018c03209bc17e85696664dc96e5584ea9c706",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-vfkn.mp4"
+    },
+    {
+      "name": "daily-cut-vfkn_no_music.mp4",
+      "bytes": 10470956,
+      "sha256": "c601d27efde0caa0489cae141fadf09a3cd46087bb59a8c30c2724ff0f821286",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-vfkn_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-vfkn_cover.jpg",
+      "bytes": 207489,
+      "sha256": "f362ac4f900233f5b668bce7591d2e2504043e9b790d9b46d79db9aa5c9370cb",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-vfkn_cover.jpg"
+    },
+    {
+      "name": "daily-cut-558g.mp4",
+      "bytes": 10854035,
+      "sha256": "413acb4c3d45c6070891fb24697213c0e3846ae904808a8889234783c5863194",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-558g.mp4"
+    },
+    {
+      "name": "daily-cut-558g_no_music.mp4",
+      "bytes": 10832705,
+      "sha256": "b167403f545c3ef3c137ebd71ff8612a215c70a049e5fc1185f66fae51b6fb4f",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-558g_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-558g_cover.jpg",
+      "bytes": 199179,
+      "sha256": "0b1771ffb5711e63dd1d6db953bbaf14eb3ae45ecc3895cb20a0baf696d5b966",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-558g_cover.jpg"
+    },
+    {
+      "name": "daily-cut-88d2.mp4",
+      "bytes": 11398485,
+      "sha256": "6dd41a9901d241cdab4c0ddd2dfecc3ca24590e1bacf8126e07b50f42274e95c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-88d2.mp4"
+    },
+    {
+      "name": "daily-cut-88d2_no_music.mp4",
+      "bytes": 11371307,
+      "sha256": "bdafdfe569f9341217d185d431d6d30eb4597132105bc16dfc98ac3f8ceb24b4",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-88d2_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-88d2_cover.jpg",
+      "bytes": 235859,
+      "sha256": "7d06f22db530d9c598066795bb0b6304331577fab9dbcd4449785a12e683748a",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-88d2_cover.jpg"
+    },
+    {
+      "name": "daily-cut-kh46.mp4",
+      "bytes": 10290452,
+      "sha256": "e109259c1b2393b67dea0dccd0ec226c6b40f588fee409192dc6cc0947429194",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kh46.mp4"
+    },
+    {
+      "name": "daily-cut-kh46_no_music.mp4",
+      "bytes": 10269900,
+      "sha256": "be0bd1c2ffd4092fe8318a57a722623a84acf606bdc1d3080f5a175daa8d3df6",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kh46_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-kh46_cover.jpg",
+      "bytes": 235957,
+      "sha256": "d0b6f6716387c4a4151aeee41c8f1871e85a68bd9291dcddb590110969b4dd90",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kh46_cover.jpg"
+    },
+    {
+      "name": "daily-cut-9vmh.mp4",
+      "bytes": 10265763,
+      "sha256": "4dd050e80924ded6337ec4acafdb8b430f6bb03e30daa08db61553f4acec971e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-9vmh.mp4"
+    },
+    {
+      "name": "daily-cut-9vmh_no_music.mp4",
+      "bytes": 10243252,
+      "sha256": "16d48cf10cd6b3c86bba0df00933e7fe6fd1a32c279e13007166b3a5bb16ed84",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-9vmh_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-9vmh_cover.jpg",
+      "bytes": 293882,
+      "sha256": "822a4658b465b3b730798f1a0adc23a3c8c1d494fd752ca8c4106976f1456c03",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-9vmh_cover.jpg"
+    },
+    {
+      "name": "daily-cut-ebqy.mp4",
+      "bytes": 10375430,
+      "sha256": "c09fae17f2ca7f98cc4dc907730cc4f9e7e817ac63bbf28cd3933d72ac0c9e9f",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ebqy.mp4"
+    },
+    {
+      "name": "daily-cut-ebqy_no_music.mp4",
+      "bytes": 10357099,
+      "sha256": "1b47bfc542728af161e0cb18a856ef28afee6f22f70b23bd73ddbc31dc81ca0f",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ebqy_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-ebqy_cover.jpg",
+      "bytes": 219764,
+      "sha256": "1fcf89a62918941024e5504300906e1ec16679efdf0eb672b3da7827a68ba299",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-ebqy_cover.jpg"
+    },
+    {
+      "name": "daily-cut-wm28.mp4",
+      "bytes": 10209472,
+      "sha256": "aa585d0e8d94e05ff2a7a1b2525d951f8828fc92c2f006627bc90e3b5785557c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-wm28.mp4"
+    },
+    {
+      "name": "daily-cut-wm28_no_music.mp4",
+      "bytes": 10184545,
+      "sha256": "77085b3103e03b1817d52978fee711094f5bc129d95224997024d866b7eece67",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-wm28_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-wm28_cover.jpg",
+      "bytes": 248883,
+      "sha256": "68ad8e7a593565d42f5ee8b469d9d14bc02c144ac493463883da99068f9efb7c",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-wm28_cover.jpg"
+    },
+    {
+      "name": "daily-cut-aptt.mp4",
+      "bytes": 16871412,
+      "sha256": "b3bfe2e0eec5647dabc2a76e0f0fe5ec0d3a00dd997866f695849525101dc56e",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-aptt.mp4"
+    },
+    {
+      "name": "daily-cut-aptt_no_music.mp4",
+      "bytes": 16855861,
+      "sha256": "5ed2ff5bb8fa9ec5f6bdf4e734610d04f1635e280b51f328e04fdb2bc5404653",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-aptt_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-aptt_cover.jpg",
+      "bytes": 324943,
+      "sha256": "44e097a22a62d9eb7cb0e63bb74a86393deabd56a05e88a8a8e107a5ad400aec",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-aptt_cover.jpg"
+    },
+    {
+      "name": "daily-cut-kl6q.mp4",
+      "bytes": 15726305,
+      "sha256": "2468eb521464f357062fe167bfc59e47bbb55f0a20f943c975214b311f1521da",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kl6q.mp4"
+    },
+    {
+      "name": "daily-cut-kl6q_no_music.mp4",
+      "bytes": 15719811,
+      "sha256": "e5c6934b7bacebe4f4a96bb6b66ab0aa9c6b1dbe4874cd410665ff7d50761ade",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kl6q_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-kl6q_cover.jpg",
+      "bytes": 299005,
+      "sha256": "4b833bd206a117a3c7942bcc1ceba27747aaaf47106c45cfcda36eb8107c1fef",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-kl6q_cover.jpg"
+    },
+    {
+      "name": "daily-cut-xex4.mp4",
+      "bytes": 16352479,
+      "sha256": "8726c6944acd6894ec4df4efe110eb594a669435cc5a79a75cfa39e4f7c74c35",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-xex4.mp4"
+    },
+    {
+      "name": "daily-cut-xex4_no_music.mp4",
+      "bytes": 16357026,
+      "sha256": "3919c81a2e099d903b7814f7fe0216127be0797e58232e277dbc9c6c904d5469",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-xex4_no_music.mp4"
+    },
+    {
+      "name": "daily-cut-xex4_cover.jpg",
+      "bytes": 284267,
+      "sha256": "8f7147342602457d9ca6a4d4a55d9a777ad25f4148f7b65cce2b5fce3cdf4427",
+      "url": "https://github.com/tanshuai/starminer-public/releases/download/starminer-library-v1/daily-cut-xex4_cover.jpg"
+    }
+  ]
+}

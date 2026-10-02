@@ -1,0 +1,205 @@
+{
+  "case": {
+    "title": "Ontwikkeling van Bitcoin solo-miners",
+    "summary": "Bitcoin-mining op het bureau begrijpelijk gemaakt. Productontwikkeling en communicatie voor solo-mininghardware, met StarMiner als uitgelichte klant.",
+    "role": "Ik ben een van de ontwikkelaars van Bitcoin solo-minerproducten. Dit project brengt het hardwareverhaal en de bijbehorende inhoud samen.",
+    "scope": "Productfilms, heldere uitleg over Bitcoin-mining, installatiegidsen en materiaal voor kopers en dealers. Bitaxe Gamma 601 komt in relevante werken aan bod.",
+    "results": "Een complete videobibliotheek met afzonderlijke kijkpagina's, oorspronkelijke ondertitels en leverbestanden, voor snelle beoordeling en openbare vindbaarheid.",
+    "credit": "Uitgelichte klant · StarMiner",
+    "original": "Oorspronkelijke video in het Engels",
+    "historical": "Eerdere versies blijven bewaard zoals ze zijn gemaakt. Specificaties, prijzen en beloningen kunnen veranderen.",
+    "caveat": "Solo-mining garandeert geen beloning. StarMiner is een uitgelichte klant; product- en samenwerkingsvermeldingen blijven in de oorspronkelijke video's staan."
+  },
+  "collections": {
+    "desk-miner-101": [
+      "Bureau-miner: de basis",
+      "Korte antwoorden op dagelijkse vragen over Bitcoin-mining op het bureau."
+    ],
+    "visual-explainers": [
+      "Visuele uitleg",
+      "Bitcoin-concepten met papier, krijt en eenvoudige schema's."
+    ],
+    "product-stories": [
+      "Productverhalen",
+      "Eerdere verhalen over het product, gebruikers en de miningbranche."
+    ],
+    "product-films": [
+      "Productfilms",
+      "Productintroducties, ontwerppresentaties en onthullingsfilms."
+    ],
+    "buyer-dealer-guides": [
+      "Gidsen voor kopers en dealers",
+      "Praktische aandachtspunten voor kiezen, demonstreren en leveren van bureau-miners."
+    ],
+    "daily-use": [
+      "Op het bureau",
+      "Geselecteerde korte films over het gebruik van een Bitcoin-miner."
+    ],
+    "alternate-cuts": [
+      "Andere versies",
+      "Andere afgeronde montages, samen bewaard voor beoordeling."
+    ]
+  },
+  "topics": {
+    "block": [
+      "Wat is een Bitcoin-blok?",
+      "Een gedeeld notitieboek laat zien hoe transacties een blok vormen."
+    ],
+    "miners": [
+      "Wat doen miners?",
+      "Ze proberen steeds getallen om een geldig blok te vinden."
+    ],
+    "mining": [
+      "Waarom heet het mining?",
+      "Het graven is wiskundig: herhaald werk voor een geldig resultaat."
+    ],
+    "pool": [
+      "Pool of solo-mining?",
+      "Twee manieren van mining met verschillende verdeling van beloningen."
+    ],
+    "interval": [
+      "Waarom ongeveer tien minuten?",
+      "De moeilijkheid houdt de gemiddelde bloktijd rond tien minuten."
+    ],
+    "unbox": [
+      "In de doos",
+      "Een snelle blik op de onderdelen van een bureau-miner."
+    ],
+    "setup": [
+      "Een bureau-miner instellen",
+      "Van stroom en wifi tot de mininginstellingen."
+    ],
+    "buy": [
+      "Voor de aankoop",
+      "Leren, kosten en realistische verwachtingen komen vóór beloningen."
+    ],
+    "found": [
+      "Wanneer een blok wordt gevonden",
+      "Een korte uitleg over geldige blokken en beloningen."
+    ],
+    "words": [
+      "Drie miningbegrippen",
+      "Hashrate, moeilijkheid en solo-mining eenvoudig uitgelegd."
+    ],
+    "learn": [
+      "Waarom een kleine miner gebruiken?",
+      "Een kleine miner maakt leren over Bitcoin tastbaar."
+    ],
+    "chance": [
+      "Een blok is nooit verschuldigd",
+      "Eerdere pogingen garanderen geen toekomstige beloning."
+    ],
+    "hash": [
+      "Wat is een hash?",
+      "Een digitale vingerafdruk verbindt gegevens met mining."
+    ],
+    "chain": [
+      "Waarom een blockchain?",
+      "Elk blok verwijst naar de vingerafdruk van het vorige blok."
+    ],
+    "nodes": [
+      "Wie controleert de miners?",
+      "Nodes controleren blokken volgens de Bitcoin-netwerkregels."
+    ],
+    "fees": [
+      "Waar gaan de kosten heen?",
+      "Transactiekosten zijn onderdeel van de beloning voor een geldig blok."
+    ],
+    "solo-pool": [
+      "Solo-mining via een pool",
+      "Poolinfrastructuur kan helpen zonder elke beloning te verdelen."
+    ],
+    "phone": [
+      "Wat doet de telefoon?",
+      "De telefoon beheert instellingen; speciale hardware doet de mining."
+    ],
+    "inside": [
+      "In een Bitcoin-blok",
+      "Transacties, een verwijzing naar het vorige blok en mininggegevens."
+    ],
+    "pow": [
+      "Bewijs van werk",
+      "Een geldig resultaat toont het vereiste werk aan."
+    ],
+    "fork": [
+      "Twee blokken tegelijk",
+      "Concurrerende blokken kunnen kort twee ketenversies vormen."
+    ],
+    "day": [
+      "Hoeveel blokken per dag?",
+      "Gemiddeld ongeveer 144 blokken in het hele netwerk."
+    ],
+    "rewards": [
+      "Beloningen en kans",
+      "Een eerder verhaal over zeldzame resultaten en realistische verwachtingen."
+    ],
+    "myths": [
+      "Mythen over Bitcoin-mining",
+      "Veelvoorkomende ideeën over hardware, schaal en beloningen."
+    ],
+    "desk": [
+      "Een miner op het bureau",
+      "Een productverhaal over Bitcoin-hardware in de dagelijkse ruimte."
+    ],
+    "halving": [
+      "De Bitcoin-halving",
+      "Een eerdere uitleg over de geplande vermindering van de bloksubsidie."
+    ],
+    "history": [
+      "Een korte mininggeschiedenis",
+      "Van gewone computers tot speciale Bitcoin-mininghardware."
+    ],
+    "business": [
+      "De handel in mininghardware",
+      "Een verhaal over het leveren van gereedschap aan miners."
+    ],
+    "supplier": [
+      "Vragen voor een leverancier",
+      "Ontwerp, levering en ondersteuning tellen naast de prijs."
+    ],
+    "headlines": [
+      "Voorbij de miningkoppen",
+      "Zeldzame successen vragen context voordat ze verkoopargumenten worden."
+    ],
+    "gift": [
+      "Een project voor een Bitcoin-fan",
+      "Een bureau-miner als praktisch cadeau en leerproject."
+    ],
+    "cost": [
+      "Gebruikskosten controleren",
+      "Stroom, ondersteuning en verwachtingen horen bij de aankoopbeslissing."
+    ],
+    "design": [
+      "Een keuze voor het bureau",
+      "Het uiterlijk en de plaats van het product in de werkruimte."
+    ],
+    "margin": [
+      "Meer dan het prijsverschil",
+      "Winkelmarges moeten kosten en service na verkoop meenemen."
+    ],
+    "demo": [
+      "Demonstreren vóór voorraadopbouw",
+      "Help kopers het product begrijpen voordat de voorraad groeit."
+    ],
+    "planning": [
+      "Hardwarevoorraad plannen",
+      "Een praktische blik op demonstraties en seizoensvoorraad."
+    ],
+    "reveal": [
+      "De bureau-miner onthuld",
+      "Een korte introductie van een compact Bitcoin-miningapparaat."
+    ],
+    "device": [
+      "Bitaxe Gamma 601 overzicht",
+      "Een blik op het compacte miningbord en zijn functie."
+    ],
+    "daily": [
+      "De miner in het dagelijks leven",
+      "Een productfilm over een Bitcoin-miner op het bureau."
+    ],
+    "product": [
+      "StarMiner-productfilm",
+      "Een presentatie van de bureau-miner en het ontwerp."
+    ]
+  }
+}

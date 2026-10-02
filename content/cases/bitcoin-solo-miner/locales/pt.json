@@ -1,0 +1,205 @@
+{
+  "case": {
+    "title": "Desenvolvimento de mineradores Bitcoin solo",
+    "summary": "Mineração Bitcoin na mesa, mais fácil de entender. Desenvolvimento de produtos e comunicação para equipamentos de mineração solo, com StarMiner como cliente em destaque.",
+    "role": "Sou um dos desenvolvedores de produtos de mineração Bitcoin solo. Este caso reúne a história do hardware e o conteúdo criado em torno dele.",
+    "scope": "Filmes de produto, explicações claras sobre mineração Bitcoin, guias de configuração e material para compradores e revendedores. Bitaxe Gamma 601 aparece nas peças relevantes.",
+    "results": "Uma biblioteca completa com páginas individuais de reprodução, legendas originais e arquivos de entrega, organizada para revisão rápida e descoberta pública.",
+    "credit": "Cliente em destaque · StarMiner",
+    "original": "Vídeo original em inglês",
+    "historical": "As versões anteriores são preservadas como foram produzidas. Especificações, preços e recompensas podem mudar.",
+    "caveat": "A mineração solo não garante recompensas. StarMiner é um cliente em destaque; os créditos do produto e da parceria permanecem nos vídeos originais."
+  },
+  "collections": {
+    "desk-miner-101": [
+      "Introdução ao minerador de mesa",
+      "Respostas curtas às dúvidas cotidianas sobre mineração Bitcoin na mesa."
+    ],
+    "visual-explainers": [
+      "Explicações visuais",
+      "Conceitos de Bitcoin explicados com papel, giz e diagramas simples."
+    ],
+    "product-stories": [
+      "Histórias de produto",
+      "Histórias anteriores sobre o produto, seus usuários e o negócio de mineração."
+    ],
+    "product-films": [
+      "Filmes de produto",
+      "Apresentações do produto, do design e vídeos de revelação."
+    ],
+    "buyer-dealer-guides": [
+      "Guias para compradores e revendedores",
+      "Considerações práticas para escolher, demonstrar e fornecer mineradores de mesa."
+    ],
+    "daily-use": [
+      "Na mesa",
+      "Filmes curtos selecionados sobre usar um minerador Bitcoin de mesa."
+    ],
+    "alternate-cuts": [
+      "Edições alternativas",
+      "Outras edições concluídas, preservadas para revisão."
+    ]
+  },
+  "topics": {
+    "block": [
+      "O que é um bloco de Bitcoin?",
+      "Um caderno compartilhado explica como transações formam um bloco."
+    ],
+    "miners": [
+      "O que os mineradores fazem?",
+      "Eles testam números repetidamente para encontrar um bloco válido."
+    ],
+    "mining": [
+      "Por que se chama mineração?",
+      "A escavação é matemática: trabalho repetido para encontrar um resultado válido."
+    ],
+    "pool": [
+      "Pool ou mineração solo?",
+      "Duas formas de minerar com distribuições de recompensas diferentes."
+    ],
+    "interval": [
+      "Por que cerca de dez minutos?",
+      "A dificuldade mantém o intervalo médio entre blocos próximo de dez minutos."
+    ],
+    "unbox": [
+      "Dentro da caixa",
+      "Uma visão rápida das peças de um minerador de mesa."
+    ],
+    "setup": [
+      "Configurar um minerador de mesa",
+      "Da energia e do Wi-Fi à escolha dos ajustes de mineração."
+    ],
+    "buy": [
+      "Antes de comprar",
+      "Aprendizado, custos e expectativas realistas vêm antes das recompensas."
+    ],
+    "found": [
+      "Quando um bloco é encontrado",
+      "Uma breve explicação sobre blocos válidos e recompensas."
+    ],
+    "words": [
+      "Três termos de mineração",
+      "Taxa de hash, dificuldade e mineração solo, explicadas de forma simples."
+    ],
+    "learn": [
+      "Por que usar um minerador pequeno?",
+      "Um minerador pequeno torna o aprendizado sobre Bitcoin mais concreto."
+    ],
+    "chance": [
+      "Nenhum bloco está atrasado",
+      "Tentativas passadas não garantem uma recompensa futura."
+    ],
+    "hash": [
+      "O que é um hash?",
+      "Uma impressão digital conecta dados ao processo de mineração."
+    ],
+    "chain": [
+      "Por que uma blockchain?",
+      "Cada bloco referencia a impressão digital do bloco anterior."
+    ],
+    "nodes": [
+      "Quem verifica os mineradores?",
+      "Os nós verificam os blocos conforme as regras do Bitcoin."
+    ],
+    "fees": [
+      "Para onde vão as taxas?",
+      "As taxas de transação integram a recompensa de um bloco válido."
+    ],
+    "solo-pool": [
+      "Mineração solo por um pool",
+      "A infraestrutura do pool pode apoiar mineração solo sem repartir toda recompensa."
+    ],
+    "phone": [
+      "Qual é o papel do telefone?",
+      "O telefone gerencia ajustes; o hardware dedicado faz a mineração."
+    ],
+    "inside": [
+      "Dentro de um bloco Bitcoin",
+      "Transações, referência ao bloco anterior e dados de mineração."
+    ],
+    "pow": [
+      "Prova de trabalho",
+      "Um resultado válido demonstra o trabalho exigido pela rede."
+    ],
+    "fork": [
+      "Dois blocos ao mesmo tempo",
+      "Blocos concorrentes podem criar brevemente duas versões da cadeia."
+    ],
+    "day": [
+      "Quantos blocos por dia?",
+      "Uma média de cerca de 144 blocos em toda a rede."
+    ],
+    "rewards": [
+      "Recompensas e probabilidade",
+      "Uma história anterior sobre resultados raros e expectativas realistas."
+    ],
+    "myths": [
+      "Mitos sobre mineração Bitcoin",
+      "Ideias comuns sobre hardware, escala e recompensas."
+    ],
+    "desk": [
+      "Um minerador na mesa",
+      "Uma história sobre levar o hardware Bitcoin ao espaço cotidiano."
+    ],
+    "halving": [
+      "O halving do Bitcoin",
+      "Uma explicação anterior da redução programada do subsídio por bloco."
+    ],
+    "history": [
+      "Breve história da mineração",
+      "De computadores de uso geral ao hardware dedicado a Bitcoin."
+    ],
+    "business": [
+      "O negócio do hardware de mineração",
+      "Uma história sobre fornecer ferramentas aos mineradores."
+    ],
+    "supplier": [
+      "Perguntas para um fornecedor",
+      "Design, entrega e suporte importam além da tabela de preços."
+    ],
+    "headlines": [
+      "Além das manchetes de mineração",
+      "Resultados raros precisam de contexto antes de virar argumento de venda."
+    ],
+    "gift": [
+      "Um projeto para quem gosta de Bitcoin",
+      "Um minerador de mesa como presente prático e projeto de aprendizado."
+    ],
+    "cost": [
+      "Verificar os custos de uso",
+      "Energia, suporte e expectativas fazem parte da decisão de compra."
+    ],
+    "design": [
+      "Uma escolha para a mesa",
+      "A aparência do produto e seu lugar no espaço de trabalho."
+    ],
+    "margin": [
+      "Além da diferença de preço",
+      "As margens devem considerar custos e suporte pós-venda."
+    ],
+    "demo": [
+      "Demonstrar antes de estocar",
+      "Ajudar compradores a entender o produto antes de ampliar o estoque."
+    ],
+    "planning": [
+      "Planejar estoque de hardware",
+      "Uma visão prática de demonstrações e planejamento sazonal de estoque."
+    ],
+    "reveal": [
+      "Revelação do minerador de mesa",
+      "Uma breve apresentação de um dispositivo compacto de mineração Bitcoin."
+    ],
+    "device": [
+      "Visão geral do Bitaxe Gamma 601",
+      "Conheça a placa compacta de mineração e sua finalidade."
+    ],
+    "daily": [
+      "O minerador no dia a dia",
+      "Um filme sobre manter um minerador Bitcoin na mesa."
+    ],
+    "product": [
+      "Filme de produto StarMiner",
+      "Uma apresentação do minerador de mesa e de seu design."
+    ]
+  }
+}

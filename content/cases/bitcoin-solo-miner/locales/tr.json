@@ -1,0 +1,205 @@
+{
+  "case": {
+    "title": "Bitcoin Solo Madenci Geliştirme",
+    "summary": "Masaüstü Bitcoin madenciliğini anlaşılır kılmak. Solo madencilik donanımı için ürün geliştirme ve iletişim; seçilmiş müşteri StarMiner.",
+    "role": "Bitcoin solo madenci ürünlerinin geliştiricilerinden biriyim. Bu proje donanımın hikâyesiyle onun etrafında hazırlanan içerikleri birleştirir.",
+    "scope": "Ürün filmleri, açık Bitcoin madenciliği anlatımları, kurulum rehberleri ve alıcılarla bayiler için materyaller. İlgili çalışmalarda Bitaxe Gamma 601 yer alır.",
+    "results": "Ayrı izleme sayfaları, özgün altyazılar ve teslim dosyaları içeren tam video kitaplığı; hızlı müşteri incelemesi ve aramalarda keşif için düzenlenmiştir.",
+    "credit": "Seçilmiş müşteri · StarMiner",
+    "original": "Özgün video İngilizcedir",
+    "historical": "Önceki sürümler üretildikleri haliyle korunur. Özellikler, fiyatlar ve ödüller değişebilir.",
+    "caveat": "Solo madencilik ödülü garanti etmez. StarMiner seçilmiş bir müşteridir; ürün ve iş birliği bilgileri özgün videolarda korunur."
+  },
+  "collections": {
+    "desk-miner-101": [
+      "Masaüstü madencilik temelleri",
+      "Masaüstü Bitcoin madenciliğiyle ilgili günlük sorulara kısa yanıtlar."
+    ],
+    "visual-explainers": [
+      "Görsel anlatımlar",
+      "Bitcoin kavramları kâğıt, tebeşir ve basit şemalarla açıklanır."
+    ],
+    "product-stories": [
+      "Ürün hikâyeleri",
+      "Ürün, kullanıcıları ve madencilik işi hakkında önceki hikâyeler."
+    ],
+    "product-films": [
+      "Ürün filmleri",
+      "Ürün tanıtımları, tasarım sunumları ve ilk gösterim filmleri."
+    ],
+    "buyer-dealer-guides": [
+      "Alıcı ve bayi rehberleri",
+      "Masaüstü madenci seçimi, gösterimi ve tedariki için pratik noktalar."
+    ],
+    "daily-use": [
+      "Masada",
+      "Masaüstü Bitcoin madenci kullanımına dair seçilmiş kısa filmler."
+    ],
+    "alternate-cuts": [
+      "Alternatif sürümler",
+      "İnceleme için birlikte saklanan diğer tamamlanmış kurgular."
+    ]
+  },
+  "topics": {
+    "block": [
+      "Bitcoin bloku nedir?",
+      "Ortak bir defter, işlemlerin nasıl blok oluşturduğunu açıklar."
+    ],
+    "miners": [
+      "Madenciler ne yapar?",
+      "Geçerli blok bulmak için sayıları tekrar tekrar denerler."
+    ],
+    "mining": [
+      "Neden madencilik denir?",
+      "Kazı matematikseldir: geçerli sonuç için tekrarlanan çalışma."
+    ],
+    "pool": [
+      "Havuz mu solo mu?",
+      "Ödüllerin farklı dağıtıldığı iki madencilik yaklaşımı."
+    ],
+    "interval": [
+      "Neden yaklaşık on dakika?",
+      "Zorluk, ortalama blok aralığını yaklaşık on dakikada tutar."
+    ],
+    "unbox": [
+      "Kutunun içinde",
+      "Masaüstü madencinin parçalarına kısa bir bakış."
+    ],
+    "setup": [
+      "Masaüstü madenci kurulumu",
+      "Elektrik ve Wi-Fi bağlantısından madencilik ayarlarına."
+    ],
+    "buy": [
+      "Satın almadan önce",
+      "Öğrenme, masraflar ve gerçekçi beklentiler ödülden önce gelir."
+    ],
+    "found": [
+      "Bir blok bulunduğunda",
+      "Geçerli bloklar ve madencilik ödülleri hakkında kısa açıklama."
+    ],
+    "words": [
+      "Üç madencilik terimi",
+      "Hash oranı, zorluk ve solo madencilik sade anlatımla."
+    ],
+    "learn": [
+      "Neden küçük bir madenci çalıştırılır?",
+      "Küçük cihaz Bitcoin öğrenimini somutlaştırabilir."
+    ],
+    "chance": [
+      "Bir blok sıranın gelmesini beklemez",
+      "Geçmiş denemeler gelecekteki ödülü garanti etmez."
+    ],
+    "hash": [
+      "Hash nedir?",
+      "Dijital parmak izi, veriyi madencilik sürecine bağlar."
+    ],
+    "chain": [
+      "Neden blokzincir?",
+      "Her blok önceki blokun parmak izine atıfta bulunur."
+    ],
+    "nodes": [
+      "Madencileri kim denetler?",
+      "Düğümler blokları Bitcoin ağ kurallarına göre doğrular."
+    ],
+    "fees": [
+      "İşlem ücretleri nereye gider?",
+      "İşlem ücretleri geçerli blok ödülünün bir parçasıdır."
+    ],
+    "solo-pool": [
+      "Havuz üzerinden solo madencilik",
+      "Her ödülü paylaşmadan havuz altyapısı kullanılabilir."
+    ],
+    "phone": [
+      "Telefon ne yapar?",
+      "Telefon ayarları yönetir; özel donanım madencilik yapar."
+    ],
+    "inside": [
+      "Bitcoin blokunun içinde",
+      "İşlemler, önceki blok referansı ve madencilik verileri."
+    ],
+    "pow": [
+      "İş ispatı",
+      "Geçerli sonuç, ağın istediği çalışmayı gösterir."
+    ],
+    "fork": [
+      "Aynı anda iki blok",
+      "Rakip bloklar kısa süreli iki zincir sürümü oluşturabilir."
+    ],
+    "day": [
+      "Günde kaç blok?",
+      "Tüm ağda ortalama yaklaşık 144 blok."
+    ],
+    "rewards": [
+      "Ödüller ve olasılık",
+      "Nadir sonuçlar ve gerçekçi beklentiler üzerine önceki bir hikâye."
+    ],
+    "myths": [
+      "Bitcoin madenciliği efsaneleri",
+      "Donanım, ölçek ve ödüllerle ilgili yaygın varsayımlar."
+    ],
+    "desk": [
+      "Masadaki madenci",
+      "Bitcoin donanımını günlük alana taşıyan ürün hikâyesi."
+    ],
+    "halving": [
+      "Bitcoin yarılanması",
+      "Blok sübvansiyonunun planlı azalmasına dair önceki açıklama."
+    ],
+    "history": [
+      "Kısa madencilik tarihi",
+      "Genel bilgisayarlardan özel Bitcoin madencilik donanımına."
+    ],
+    "business": [
+      "Madencilik donanımı işi",
+      "Madencilere araç tedarik etme üzerine bir hikâye."
+    ],
+    "supplier": [
+      "Tedarikçiye sorulacak sorular",
+      "Tasarım, teslimat ve destek fiyatın ötesinde önem taşır."
+    ],
+    "headlines": [
+      "Madencilik başlıklarının ötesi",
+      "Nadir başarıları satışa taşımadan önce bağlam gerekir."
+    ],
+    "gift": [
+      "Bitcoin meraklısı için proje",
+      "Masaüstü madenci, uygulamalı hediye ve öğrenme projesi olarak."
+    ],
+    "cost": [
+      "Çalıştırma maliyetlerini kontrol edin",
+      "Elektrik, destek ve beklentiler satın alma kararına dahildir."
+    ],
+    "design": [
+      "Masa için bir seçim",
+      "Ürün görünümü ve günlük çalışma alanına uyumu."
+    ],
+    "margin": [
+      "Fiyat farkından fazlası",
+      "Perakende marjı masraf ve satış sonrası desteği içermeli."
+    ],
+    "demo": [
+      "Stoktan önce gösterim",
+      "Stoku artırmadan önce alıcının ürünü anlamasına yardım edin."
+    ],
+    "planning": [
+      "Donanım stoku planlama",
+      "Ürün gösterimleri ve mevsimlik stok planına pratik bakış."
+    ],
+    "reveal": [
+      "Masaüstü madencinin tanıtımı",
+      "Kompakt Bitcoin madencilik cihazına kısa giriş."
+    ],
+    "device": [
+      "Bitaxe Gamma 601 genel bakış",
+      "Kompakt madencilik kartı ve amacı hakkında bilgi."
+    ],
+    "daily": [
+      "Günlük masaüstü madenci filmi",
+      "Masada Bitcoin madenci bulundurmaya dair ürün filmi."
+    ],
+    "product": [
+      "StarMiner ürün filmi",
+      "Masaüstü madenci ve ürün tasarımının sunumu."
+    ]
+  }
+}

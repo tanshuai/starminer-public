@@ -1,0 +1,205 @@
+{
+  "case": {
+    "title": "Rozwój koparek Bitcoin do kopania solo",
+    "summary": "Kopanie Bitcoin na biurku, łatwiejsze do zrozumienia. Rozwój produktów i komunikacja dla sprzętu do kopania solo, ze StarMiner jako wybranym klientem.",
+    "role": "Jestem jednym z twórców produktów do kopania Bitcoin solo. Projekt łączy historię sprzętu z treściami przygotowanymi wokół niego.",
+    "scope": "Filmy produktowe, jasne wyjaśnienia kopania Bitcoin, instrukcje konfiguracji i materiały dla kupujących oraz dealerów. W odpowiednich pracach pokazano Bitaxe Gamma 601.",
+    "results": "Pełna biblioteka z osobnymi stronami odtwarzania, oryginalnymi napisami i plikami końcowymi, do szybkiego przeglądu i wyszukiwania publicznego.",
+    "credit": "Wybrany klient · StarMiner",
+    "original": "Oryginalny film jest po angielsku",
+    "historical": "Wcześniejsze wersje zachowano w oryginalnej postaci. Specyfikacje, ceny i nagrody mogą się zmieniać.",
+    "caveat": "Kopanie solo nie gwarantuje nagród. StarMiner jest wybranym klientem; informacje o produkcie i współpracy pozostają w oryginalnych filmach."
+  },
+  "collections": {
+    "desk-miner-101": [
+      "Podstawy koparki biurkowej",
+      "Krótkie odpowiedzi na codzienne pytania o kopanie Bitcoin na biurku."
+    ],
+    "visual-explainers": [
+      "Wyjaśnienia wizualne",
+      "Bitcoin przedstawiony za pomocą papieru, kredy i prostych schematów."
+    ],
+    "product-stories": [
+      "Historie produktu",
+      "Wcześniejsze historie o produkcie, użytkownikach i branży kopania."
+    ],
+    "product-films": [
+      "Filmy produktowe",
+      "Prezentacje produktu, projektu i filmy premierowe."
+    ],
+    "buyer-dealer-guides": [
+      "Poradniki dla kupujących i dealerów",
+      "Praktyczne kwestie wyboru, demonstracji i dostaw koparek biurkowych."
+    ],
+    "daily-use": [
+      "Na biurku",
+      "Wybrane krótkie filmy o korzystaniu z koparki Bitcoin."
+    ],
+    "alternate-cuts": [
+      "Inne wersje",
+      "Dodatkowe gotowe montaże zachowane do przeglądu."
+    ]
+  },
+  "topics": {
+    "block": [
+      "Czym jest blok Bitcoin?",
+      "Wspólny notes pokazuje, jak transakcje tworzą blok."
+    ],
+    "miners": [
+      "Co robią koparki?",
+      "Wielokrotnie próbują liczb, by znaleźć prawidłowy blok."
+    ],
+    "mining": [
+      "Dlaczego nazywamy to kopaniem?",
+      "To matematyczne poszukiwanie: powtarzana praca dla prawidłowego wyniku."
+    ],
+    "pool": [
+      "Pula czy kopanie solo?",
+      "Dwa podejścia z różnym podziałem nagród."
+    ],
+    "interval": [
+      "Dlaczego około dziesięciu minut?",
+      "Trudność utrzymuje średni odstęp między blokami blisko dziesięciu minut."
+    ],
+    "unbox": [
+      "Co jest w pudełku?",
+      "Krótki przegląd części koparki biurkowej."
+    ],
+    "setup": [
+      "Konfiguracja koparki biurkowej",
+      "Od zasilania i Wi-Fi do ustawień kopania."
+    ],
+    "buy": [
+      "Przed zakupem",
+      "Nauka, koszty i realistyczne oczekiwania przed nagrodami."
+    ],
+    "found": [
+      "Gdy zostanie znaleziony blok",
+      "Krótkie wyjaśnienie prawidłowych bloków i nagród."
+    ],
+    "words": [
+      "Trzy pojęcia z kopania",
+      "Hashrate, trudność i kopanie solo wyjaśnione prosto."
+    ],
+    "learn": [
+      "Po co uruchamiać małą koparkę?",
+      "Mała koparka pozwala konkretnie poznać Bitcoin."
+    ],
+    "chance": [
+      "Blok nie jest należny",
+      "Poprzednie próby nie gwarantują przyszłej nagrody."
+    ],
+    "hash": [
+      "Czym jest hash?",
+      "Cyfrowy odcisk łączy dane z procesem kopania."
+    ],
+    "chain": [
+      "Dlaczego blockchain?",
+      "Każdy blok odwołuje się do odcisku poprzedniego bloku."
+    ],
+    "nodes": [
+      "Kto sprawdza koparki?",
+      "Węzły sprawdzają bloki według zasad Bitcoin."
+    ],
+    "fees": [
+      "Dokąd trafiają opłaty?",
+      "Opłaty transakcyjne są częścią nagrody za prawidłowy blok."
+    ],
+    "solo-pool": [
+      "Kopanie solo przez pulę",
+      "Można używać infrastruktury puli bez dzielenia każdej nagrody."
+    ],
+    "phone": [
+      "Co robi telefon?",
+      "Telefon zarządza ustawieniami; dedykowany sprzęt kopie."
+    ],
+    "inside": [
+      "Wewnątrz bloku Bitcoin",
+      "Transakcje, odniesienie do poprzedniego bloku i dane kopania."
+    ],
+    "pow": [
+      "Dowód pracy",
+      "Prawidłowy wynik wykazuje pracę wymaganą przez sieć."
+    ],
+    "fork": [
+      "Dwa bloki jednocześnie",
+      "Konkurujące bloki mogą na krótko utworzyć dwie wersje łańcucha."
+    ],
+    "day": [
+      "Ile bloków dziennie?",
+      "Średnio około 144 bloków w całej sieci."
+    ],
+    "rewards": [
+      "Nagrody i prawdopodobieństwo",
+      "Wcześniejsza historia o rzadkich wynikach i realistycznych oczekiwaniach."
+    ],
+    "myths": [
+      "Mity o kopaniu Bitcoin",
+      "Powszechne przekonania o sprzęcie, skali i nagrodach."
+    ],
+    "desk": [
+      "Koparka na biurku",
+      "Historia produktu wprowadzającego Bitcoin do codziennej przestrzeni."
+    ],
+    "halving": [
+      "Halving Bitcoin",
+      "Wcześniejsze wyjaśnienie planowanej redukcji subsydium za blok."
+    ],
+    "history": [
+      "Krótka historia kopania",
+      "Od zwykłych komputerów do sprzętu dedykowanego Bitcoin."
+    ],
+    "business": [
+      "Biznes sprzętu do kopania",
+      "Historia dostarczania narzędzi dla kopiących."
+    ],
+    "supplier": [
+      "Pytania do dostawcy",
+      "Projekt, dostawa i wsparcie liczą się poza ceną."
+    ],
+    "headlines": [
+      "Poza nagłówkami o kopaniu",
+      "Rzadkie sukcesy potrzebują kontekstu przed użyciem w sprzedaży."
+    ],
+    "gift": [
+      "Projekt dla fana Bitcoin",
+      "Koparka biurkowa jako praktyczny prezent i projekt edukacyjny."
+    ],
+    "cost": [
+      "Sprawdź koszty działania",
+      "Prąd, wsparcie i oczekiwania należą do decyzji zakupowej."
+    ],
+    "design": [
+      "Wybór na biurko",
+      "Wygląd produktu i jego miejsce w przestrzeni pracy."
+    ],
+    "margin": [
+      "Więcej niż różnica cen",
+      "Marże muszą uwzględniać koszty i wsparcie posprzedażowe."
+    ],
+    "demo": [
+      "Demonstracja przed zatowarowaniem",
+      "Pomóż kupującym poznać produkt przed zwiększeniem zapasów."
+    ],
+    "planning": [
+      "Planowanie zapasów sprzętu",
+      "Praktyczne spojrzenie na demonstracje i sezonowe zapasy."
+    ],
+    "reveal": [
+      "Prezentacja koparki biurkowej",
+      "Krótkie przedstawienie kompaktowego urządzenia do Bitcoin."
+    ],
+    "device": [
+      "Przegląd Bitaxe Gamma 601",
+      "Poznaj kompaktową płytkę do kopania i jej zastosowanie."
+    ],
+    "daily": [
+      "Koparka na co dzień",
+      "Film produktowy o koparce Bitcoin na biurku."
+    ],
+    "product": [
+      "Film produktowy StarMiner",
+      "Prezentacja koparki biurkowej i jej projektu."
+    ]
+  }
+}

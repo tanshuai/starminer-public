@@ -1,0 +1,205 @@
+{
+  "case": {
+    "title": "Desarrollo de mineros Bitcoin para minería en solitario",
+    "summary": "Minería Bitcoin de escritorio, más fácil de entender. Desarrollo de productos y comunicación para equipos de minería en solitario, con StarMiner como cliente destacado.",
+    "role": "Soy uno de los desarrolladores de productos de minería Bitcoin en solitario. Este proyecto reúne la historia del hardware y el contenido creado a su alrededor.",
+    "scope": "Vídeos de producto, explicaciones claras de minería Bitcoin, guías de configuración y material para compradores y distribuidores. Bitaxe Gamma 601 aparece en las piezas correspondientes.",
+    "results": "Una biblioteca completa con páginas de reproducción individuales, subtítulos originales y archivos de entrega, organizada para la revisión rápida y el descubrimiento público.",
+    "credit": "Cliente destacado · StarMiner",
+    "original": "Vídeo original en inglés",
+    "historical": "Las versiones anteriores se conservan tal como se produjeron. Las especificaciones, los precios y las recompensas pueden cambiar.",
+    "caveat": "La minería en solitario no garantiza recompensas. StarMiner es un cliente destacado; los créditos del producto y de la colaboración se conservan en los vídeos originales."
+  },
+  "collections": {
+    "desk-miner-101": [
+      "Introducción a los mineros de escritorio",
+      "Respuestas breves a preguntas cotidianas sobre minería Bitcoin de escritorio."
+    ],
+    "visual-explainers": [
+      "Explicaciones visuales",
+      "Conceptos de Bitcoin explicados con papel, tiza y diagramas sencillos."
+    ],
+    "product-stories": [
+      "Historias de producto",
+      "Historias anteriores sobre el producto, sus usuarios y el negocio minero."
+    ],
+    "product-films": [
+      "Vídeos de producto",
+      "Presentaciones de producto, diseño y vídeos de lanzamiento."
+    ],
+    "buyer-dealer-guides": [
+      "Guías para compradores y distribuidores",
+      "Consideraciones prácticas para elegir, demostrar y suministrar mineros de escritorio."
+    ],
+    "daily-use": [
+      "En el escritorio",
+      "Vídeos cortos seleccionados sobre el uso de un minero Bitcoin de escritorio."
+    ],
+    "alternate-cuts": [
+      "Versiones alternativas",
+      "Otros montajes terminados, conservados juntos para su revisión."
+    ]
+  },
+  "topics": {
+    "block": [
+      "¿Qué es un bloque de Bitcoin?",
+      "Un cuaderno compartido explica cómo las transacciones forman un bloque."
+    ],
+    "miners": [
+      "¿Qué hacen los mineros?",
+      "Los mineros prueban números repetidamente para encontrar un bloque válido."
+    ],
+    "mining": [
+      "¿Por qué se llama minería?",
+      "La excavación es matemática: trabajo repetido para encontrar un resultado válido."
+    ],
+    "pool": [
+      "¿Pool o minería en solitario?",
+      "Dos formas de minar con distintos métodos de reparto de recompensas."
+    ],
+    "interval": [
+      "¿Por qué unos diez minutos?",
+      "La dificultad mantiene el intervalo medio entre bloques cerca de diez minutos."
+    ],
+    "unbox": [
+      "Dentro de la caja",
+      "Un vistazo rápido a las piezas de un minero de escritorio."
+    ],
+    "setup": [
+      "Configurar un minero de escritorio",
+      "Desde la alimentación y el Wi-Fi hasta los ajustes de minería."
+    ],
+    "buy": [
+      "Antes de comprar",
+      "Aprendizaje, costes de funcionamiento y expectativas realistas antes que recompensas."
+    ],
+    "found": [
+      "Cuando se encuentra un bloque",
+      "Una breve explicación de los bloques válidos y las recompensas mineras."
+    ],
+    "words": [
+      "Tres términos de minería",
+      "Tasa de hash, dificultad y minería en solitario, explicadas de forma sencilla."
+    ],
+    "learn": [
+      "¿Por qué usar un minero pequeño?",
+      "Un minero pequeño puede hacer tangible el aprendizaje sobre Bitcoin."
+    ],
+    "chance": [
+      "Ningún bloque está pendiente por llegar",
+      "Los intentos anteriores no garantizan una recompensa futura."
+    ],
+    "hash": [
+      "¿Qué es un hash?",
+      "Una huella digital conecta los datos con el proceso de minería."
+    ],
+    "chain": [
+      "¿Por qué una cadena de bloques?",
+      "Cada bloque hace referencia a la huella del bloque anterior."
+    ],
+    "nodes": [
+      "¿Quién comprueba a los mineros?",
+      "Los nodos verifican los bloques según las reglas de Bitcoin."
+    ],
+    "fees": [
+      "¿Adónde van las comisiones?",
+      "Las comisiones forman parte de la recompensa de un bloque válido."
+    ],
+    "solo-pool": [
+      "Minería en solitario mediante un pool",
+      "La infraestructura de un pool puede apoyar la minería individual sin repartir cada recompensa."
+    ],
+    "phone": [
+      "¿Qué hace el teléfono?",
+      "El teléfono gestiona los ajustes; el hardware dedicado realiza la minería."
+    ],
+    "inside": [
+      "Dentro de un bloque de Bitcoin",
+      "Transacciones, una referencia al bloque anterior y datos de minería."
+    ],
+    "pow": [
+      "Prueba de trabajo",
+      "Un resultado válido demuestra el trabajo exigido por la red."
+    ],
+    "fork": [
+      "Dos bloques a la vez",
+      "Bloques competidores pueden crear brevemente dos versiones de la cadena."
+    ],
+    "day": [
+      "¿Cuántos bloques al día?",
+      "Una media de unos 144 bloques en toda la red."
+    ],
+    "rewards": [
+      "Recompensas mineras y probabilidad",
+      "Una historia anterior sobre resultados poco frecuentes y expectativas realistas."
+    ],
+    "myths": [
+      "Mitos sobre minería Bitcoin",
+      "Ideas habituales sobre hardware, escala y recompensas."
+    ],
+    "desk": [
+      "Un minero en el escritorio",
+      "Una historia de producto que lleva el hardware Bitcoin al espacio cotidiano."
+    ],
+    "halving": [
+      "El halving de Bitcoin",
+      "Una explicación anterior sobre la reducción programada del subsidio por bloque."
+    ],
+    "history": [
+      "Breve historia de la minería",
+      "De ordenadores de uso general a equipos dedicados a minar Bitcoin."
+    ],
+    "business": [
+      "El negocio del hardware minero",
+      "Una historia sobre suministrar las herramientas de los mineros."
+    ],
+    "supplier": [
+      "Preguntas para un proveedor",
+      "El diseño, la entrega y el soporte importan más allá del precio."
+    ],
+    "headlines": [
+      "Más allá de los titulares mineros",
+      "Las historias excepcionales necesitan contexto antes de convertirse en argumentos de venta."
+    ],
+    "gift": [
+      "Un proyecto para un aficionado a Bitcoin",
+      "Un minero de escritorio como regalo práctico y proyecto de aprendizaje."
+    ],
+    "cost": [
+      "Revisar los costes de funcionamiento",
+      "Electricidad, soporte y expectativas forman parte de la decisión de compra."
+    ],
+    "design": [
+      "Una elección para el escritorio",
+      "El aspecto del producto y su lugar en el espacio de trabajo."
+    ],
+    "margin": [
+      "Más allá de la diferencia de precio",
+      "El margen comercial debe incluir costes y soporte posventa."
+    ],
+    "demo": [
+      "Demostrar antes de almacenar",
+      "Ayudar al comprador a entender el producto antes de aumentar el inventario."
+    ],
+    "planning": [
+      "Planificar el stock de hardware",
+      "Una mirada práctica a las demostraciones y la planificación estacional del inventario."
+    ],
+    "reveal": [
+      "Presentación del minero de escritorio",
+      "Una breve introducción a un dispositivo compacto de minería Bitcoin."
+    ],
+    "device": [
+      "Vista general del Bitaxe Gamma 601",
+      "Una mirada a la placa minera compacta y su función."
+    ],
+    "daily": [
+      "Vídeo del minero en el día a día",
+      "Un vídeo de producto sobre tener un minero Bitcoin en el escritorio."
+    ],
+    "product": [
+      "Vídeo de producto StarMiner",
+      "Una presentación del minero de escritorio y su diseño."
+    ]
+  }
+}

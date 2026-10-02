@@ -1,0 +1,205 @@
+{
+  "case": {
+    "title": "Pembangunan pelombong Bitcoin solo",
+    "summary": "Perlombongan Bitcoin di meja yang lebih mudah difahami. Pembangunan produk dan komunikasi bagi perkakasan perlombongan solo, dengan StarMiner sebagai pelanggan terpilih.",
+    "role": "Saya salah seorang pembangun produk pelombong Bitcoin solo. Projek ini menyatukan kisah perkakasan dan kandungan yang disediakan mengenainya.",
+    "scope": "Filem produk, penjelasan Bitcoin yang jelas, panduan persediaan dan bahan untuk pembeli serta pengedar. Bitaxe Gamma 601 dipaparkan dalam karya berkaitan.",
+    "results": "Perpustakaan video lengkap dengan halaman tontonan berasingan, sari kata asal dan fail serahan untuk semakan pantas dan penemuan melalui carian.",
+    "credit": "Pelanggan terpilih · StarMiner",
+    "original": "Video asal dalam bahasa Inggeris",
+    "historical": "Versi lama dikekalkan seperti ketika dihasilkan. Spesifikasi, harga dan ganjaran boleh berubah.",
+    "caveat": "Perlombongan solo tidak menjamin ganjaran. StarMiner ialah pelanggan terpilih; maklumat produk dan kerjasama kekal dalam video asal."
+  },
+  "collections": {
+    "desk-miner-101": [
+      "Asas pelombong meja",
+      "Jawapan ringkas kepada soalan harian tentang perlombongan Bitcoin di meja."
+    ],
+    "visual-explainers": [
+      "Penjelasan visual",
+      "Konsep Bitcoin melalui kertas, kapur dan rajah mudah."
+    ],
+    "product-stories": [
+      "Kisah produk",
+      "Kisah terdahulu tentang produk, pengguna dan perniagaan perlombongan."
+    ],
+    "product-films": [
+      "Filem produk",
+      "Pengenalan produk, persembahan reka bentuk dan filem pelancaran."
+    ],
+    "buyer-dealer-guides": [
+      "Panduan pembeli dan pengedar",
+      "Pertimbangan praktikal memilih, menunjukkan dan membekalkan pelombong meja."
+    ],
+    "daily-use": [
+      "Di atas meja",
+      "Filem pendek terpilih tentang penggunaan pelombong Bitcoin di meja."
+    ],
+    "alternate-cuts": [
+      "Versi lain",
+      "Suntingan lengkap lain disimpan untuk semakan."
+    ]
+  },
+  "topics": {
+    "block": [
+      "Apakah blok Bitcoin?",
+      "Buku nota bersama menerangkan bagaimana transaksi membentuk blok."
+    ],
+    "miners": [
+      "Apakah yang dilakukan pelombong?",
+      "Mereka mencuba nombor berulang kali untuk mencari blok sah."
+    ],
+    "mining": [
+      "Mengapa dipanggil perlombongan?",
+      "Penggalian berbentuk matematik: kerja berulang untuk hasil sah."
+    ],
+    "pool": [
+      "Pool atau perlombongan solo?",
+      "Dua pendekatan dengan pembahagian ganjaran berbeza."
+    ],
+    "interval": [
+      "Mengapa kira-kira sepuluh minit?",
+      "Kesukaran mengekalkan purata sela blok hampir sepuluh minit."
+    ],
+    "unbox": [
+      "Di dalam kotak",
+      "Pandangan ringkas komponen pelombong meja."
+    ],
+    "setup": [
+      "Menyediakan pelombong meja",
+      "Daripada kuasa dan Wi-Fi kepada tetapan perlombongan."
+    ],
+    "buy": [
+      "Sebelum membeli",
+      "Pembelajaran, kos dan jangkaan realistik mendahului ganjaran."
+    ],
+    "found": [
+      "Apabila blok ditemui",
+      "Penjelasan ringkas blok sah dan ganjaran perlombongan."
+    ],
+    "words": [
+      "Tiga istilah perlombongan",
+      "Hashrate, kesukaran dan perlombongan solo diterangkan mudah."
+    ],
+    "learn": [
+      "Mengapa menjalankan pelombong kecil?",
+      "Peranti kecil menjadikan pembelajaran Bitcoin lebih nyata."
+    ],
+    "chance": [
+      "Blok tidak mempunyai giliran tetap",
+      "Percubaan lalu tidak menjamin ganjaran masa depan."
+    ],
+    "hash": [
+      "Apakah hash?",
+      "Cap jari digital menghubungkan data dengan perlombongan."
+    ],
+    "chain": [
+      "Mengapa blockchain?",
+      "Setiap blok merujuk cap jari blok sebelumnya."
+    ],
+    "nodes": [
+      "Siapa memeriksa pelombong?",
+      "Nod memeriksa blok menurut peraturan Bitcoin."
+    ],
+    "fees": [
+      "Ke mana fi pergi?",
+      "Fi transaksi sebahagian daripada ganjaran blok sah."
+    ],
+    "solo-pool": [
+      "Perlombongan solo melalui pool",
+      "Infrastruktur pool boleh digunakan tanpa membahagi setiap ganjaran."
+    ],
+    "phone": [
+      "Apakah peranan telefon?",
+      "Telefon mengurus tetapan; perkakasan khusus melakukan perlombongan."
+    ],
+    "inside": [
+      "Di dalam blok Bitcoin",
+      "Transaksi, rujukan blok sebelumnya dan data perlombongan."
+    ],
+    "pow": [
+      "Bukti kerja",
+      "Hasil sah menunjukkan kerja yang dikehendaki rangkaian."
+    ],
+    "fork": [
+      "Dua blok serentak",
+      "Blok bersaing boleh membentuk dua rantaian sementara."
+    ],
+    "day": [
+      "Berapa blok sehari?",
+      "Purata kira-kira 144 blok di seluruh rangkaian."
+    ],
+    "rewards": [
+      "Ganjaran dan kebarangkalian",
+      "Kisah lama tentang hasil jarang berlaku dan jangkaan realistik."
+    ],
+    "myths": [
+      "Mitos perlombongan Bitcoin",
+      "Andaian biasa tentang perkakasan, skala dan ganjaran."
+    ],
+    "desk": [
+      "Pelombong di meja",
+      "Kisah membawa perkakasan Bitcoin ke ruang harian."
+    ],
+    "halving": [
+      "Halving Bitcoin",
+      "Penjelasan lama tentang pengurangan subsidi blok mengikut jadual."
+    ],
+    "history": [
+      "Sejarah ringkas perlombongan",
+      "Daripada komputer umum kepada perkakasan Bitcoin khusus."
+    ],
+    "business": [
+      "Perniagaan perkakasan perlombongan",
+      "Kisah membekalkan alat kepada pelombong."
+    ],
+    "supplier": [
+      "Soalan kepada pembekal",
+      "Reka bentuk, penghantaran dan sokongan penting selain harga."
+    ],
+    "headlines": [
+      "Di sebalik tajuk berita perlombongan",
+      "Kejayaan luar biasa memerlukan konteks sebelum digunakan untuk jualan."
+    ],
+    "gift": [
+      "Projek untuk peminat Bitcoin",
+      "Pelombong meja sebagai hadiah praktikal dan projek pembelajaran."
+    ],
+    "cost": [
+      "Semak kos operasi",
+      "Kuasa, sokongan dan jangkaan dalam keputusan pembelian."
+    ],
+    "design": [
+      "Pilihan untuk meja",
+      "Rupa produk dan kesesuaian dengan ruang kerja."
+    ],
+    "margin": [
+      "Lebih daripada beza harga",
+      "Margin runcit perlu mengambil kira kos dan sokongan selepas jualan."
+    ],
+    "demo": [
+      "Tunjukkan sebelum menyimpan stok",
+      "Bantu pembeli memahami produk sebelum menambah inventori."
+    ],
+    "planning": [
+      "Merancang stok perkakasan",
+      "Pandangan praktikal tentang demonstrasi dan stok bermusim."
+    ],
+    "reveal": [
+      "Pengenalan pelombong meja",
+      "Pengenalan ringkas peranti Bitcoin yang kompak."
+    ],
+    "device": [
+      "Gambaran Bitaxe Gamma 601",
+      "Lihat papan perlombongan kompak dan kegunaannya."
+    ],
+    "daily": [
+      "Filem pelombong harian",
+      "Filem produk tentang pelombong Bitcoin di meja."
+    ],
+    "product": [
+      "Filem produk StarMiner",
+      "Persembahan pelombong meja dan reka bentuk produk."
+    ]
+  }
+}

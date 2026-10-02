@@ -1,0 +1,205 @@
+{
+  "case": {
+    "title": "Pengembangan penambang Bitcoin solo",
+    "summary": "Penambangan Bitcoin di meja yang lebih mudah dipahami. Pengembangan produk dan komunikasi untuk perangkat penambangan solo, dengan StarMiner sebagai klien pilihan.",
+    "role": "Saya salah satu pengembang produk penambang Bitcoin solo. Proyek ini menyatukan cerita perangkat keras dan konten yang dibuat di sekitarnya.",
+    "scope": "Film produk, penjelasan Bitcoin yang jelas, panduan pengaturan, serta materi untuk pembeli dan dealer. Bitaxe Gamma 601 ditampilkan pada karya terkait.",
+    "results": "Perpustakaan video lengkap dengan halaman tontonan tersendiri, takarir asli, dan berkas penyerahan untuk tinjauan cepat serta penemuan lewat pencarian.",
+    "credit": "Klien pilihan · StarMiner",
+    "original": "Video asli berbahasa Inggris",
+    "historical": "Versi lama dipertahankan seperti saat dibuat. Spesifikasi, harga, dan imbalan dapat berubah.",
+    "caveat": "Penambangan solo tidak menjamin imbalan. StarMiner adalah klien pilihan; keterangan produk dan kerja sama tetap ada dalam video asli."
+  },
+  "collections": {
+    "desk-miner-101": [
+      "Dasar penambang meja",
+      "Jawaban singkat atas pertanyaan sehari-hari tentang penambangan Bitcoin di meja."
+    ],
+    "visual-explainers": [
+      "Penjelasan visual",
+      "Konsep Bitcoin dijelaskan lewat kertas, kapur, dan diagram sederhana."
+    ],
+    "product-stories": [
+      "Cerita produk",
+      "Cerita lama tentang produk, pengguna, dan bisnis penambangan."
+    ],
+    "product-films": [
+      "Film produk",
+      "Perkenalan produk, presentasi desain, dan video pengungkapan."
+    ],
+    "buyer-dealer-guides": [
+      "Panduan pembeli dan dealer",
+      "Pertimbangan praktis untuk memilih, mendemonstrasikan, dan memasok penambang meja."
+    ],
+    "daily-use": [
+      "Di atas meja",
+      "Film pendek pilihan tentang penggunaan penambang Bitcoin di meja."
+    ],
+    "alternate-cuts": [
+      "Versi alternatif",
+      "Potongan lain yang sudah selesai, disimpan untuk ditinjau."
+    ]
+  },
+  "topics": {
+    "block": [
+      "Apa itu blok Bitcoin?",
+      "Buku catatan bersama menjelaskan bagaimana transaksi membentuk blok."
+    ],
+    "miners": [
+      "Apa yang dilakukan penambang?",
+      "Penambang terus mencoba angka untuk menemukan blok yang valid."
+    ],
+    "mining": [
+      "Mengapa disebut penambangan?",
+      "Penggaliannya matematis: pekerjaan berulang untuk menemukan hasil yang valid."
+    ],
+    "pool": [
+      "Pool atau penambangan solo?",
+      "Dua pendekatan dengan cara pembagian imbalan yang berbeda."
+    ],
+    "interval": [
+      "Mengapa sekitar sepuluh menit?",
+      "Kesulitan menjaga rata-rata jarak antarblok dekat sepuluh menit."
+    ],
+    "unbox": [
+      "Isi kotak",
+      "Sekilas melihat komponen penambang meja."
+    ],
+    "setup": [
+      "Mengatur penambang meja",
+      "Dari daya dan Wi-Fi hingga pengaturan penambangan."
+    ],
+    "buy": [
+      "Sebelum membeli",
+      "Pembelajaran, biaya, dan harapan realistis lebih dahulu daripada imbalan."
+    ],
+    "found": [
+      "Ketika blok ditemukan",
+      "Penjelasan singkat tentang blok valid dan imbalan penambangan."
+    ],
+    "words": [
+      "Tiga istilah penambangan",
+      "Hashrate, kesulitan, dan penambangan solo dijelaskan sederhana."
+    ],
+    "learn": [
+      "Mengapa menjalankan penambang kecil?",
+      "Perangkat kecil membuat belajar tentang Bitcoin terasa nyata."
+    ],
+    "chance": [
+      "Blok tidak punya jadwal untuk Anda",
+      "Percobaan sebelumnya tidak menjamin imbalan di masa depan."
+    ],
+    "hash": [
+      "Apa itu hash?",
+      "Sidik jari digital menghubungkan data dengan proses penambangan."
+    ],
+    "chain": [
+      "Mengapa blockchain?",
+      "Setiap blok merujuk sidik jari blok sebelumnya."
+    ],
+    "nodes": [
+      "Siapa memeriksa penambang?",
+      "Node memeriksa blok berdasarkan aturan jaringan Bitcoin."
+    ],
+    "fees": [
+      "Ke mana biaya transaksi pergi?",
+      "Biaya transaksi menjadi bagian imbalan blok yang valid."
+    ],
+    "solo-pool": [
+      "Penambangan solo melalui pool",
+      "Infrastruktur pool mendukung penambangan solo tanpa membagi setiap imbalan."
+    ],
+    "phone": [
+      "Apa peran ponsel?",
+      "Ponsel mengelola pengaturan; perangkat khusus melakukan penambangan."
+    ],
+    "inside": [
+      "Di dalam blok Bitcoin",
+      "Transaksi, rujukan ke blok sebelumnya, dan data penambangan."
+    ],
+    "pow": [
+      "Bukti kerja",
+      "Hasil valid menunjukkan kerja yang disyaratkan jaringan."
+    ],
+    "fork": [
+      "Dua blok sekaligus",
+      "Blok yang bersaing dapat sementara membentuk dua versi rantai."
+    ],
+    "day": [
+      "Berapa blok setiap hari?",
+      "Rata-rata sekitar 144 blok di seluruh jaringan."
+    ],
+    "rewards": [
+      "Imbalan dan probabilitas",
+      "Cerita lama tentang hasil langka dan harapan realistis."
+    ],
+    "myths": [
+      "Mitos penambangan Bitcoin",
+      "Anggapan umum tentang perangkat, skala, dan imbalan."
+    ],
+    "desk": [
+      "Penambang di meja",
+      "Cerita produk tentang perangkat Bitcoin dalam ruang sehari-hari."
+    ],
+    "halving": [
+      "Halving Bitcoin",
+      "Penjelasan lama tentang pengurangan subsidi blok yang terjadwal."
+    ],
+    "history": [
+      "Sejarah singkat penambangan",
+      "Dari komputer umum ke perangkat khusus penambangan Bitcoin."
+    ],
+    "business": [
+      "Bisnis perangkat penambangan",
+      "Cerita tentang memasok alat bagi penambang."
+    ],
+    "supplier": [
+      "Pertanyaan untuk pemasok",
+      "Desain, pengiriman, dan dukungan penting selain harga."
+    ],
+    "headlines": [
+      "Di balik berita penambangan",
+      "Kisah langka perlu konteks sebelum menjadi alasan penjualan."
+    ],
+    "gift": [
+      "Proyek untuk penggemar Bitcoin",
+      "Penambang meja sebagai hadiah praktis dan proyek belajar."
+    ],
+    "cost": [
+      "Periksa biaya operasional",
+      "Daya, dukungan, dan harapan masuk dalam keputusan pembelian."
+    ],
+    "design": [
+      "Pilihan untuk meja",
+      "Penampilan produk dan kesesuaiannya dengan ruang kerja."
+    ],
+    "margin": [
+      "Lebih dari selisih harga",
+      "Margin ritel perlu memperhitungkan biaya dan dukungan purnajual."
+    ],
+    "demo": [
+      "Demonstrasi sebelum stok",
+      "Bantu pembeli memahami produk sebelum menambah inventaris."
+    ],
+    "planning": [
+      "Merencanakan stok perangkat",
+      "Pandangan praktis tentang demonstrasi dan stok musiman."
+    ],
+    "reveal": [
+      "Perkenalan penambang meja",
+      "Pengantar singkat perangkat penambangan Bitcoin yang ringkas."
+    ],
+    "device": [
+      "Gambaran Bitaxe Gamma 601",
+      "Melihat papan penambangan ringkas dan kegunaannya."
+    ],
+    "daily": [
+      "Film keseharian penambang meja",
+      "Film produk tentang menaruh penambang Bitcoin di meja."
+    ],
+    "product": [
+      "Film produk StarMiner",
+      "Presentasi penambang meja dan desain produknya."
+    ]
+  }
+}

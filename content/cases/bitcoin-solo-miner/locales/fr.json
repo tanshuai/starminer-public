@@ -1,0 +1,205 @@
+{
+  "case": {
+    "title": "Développement de mineurs Bitcoin pour le minage solo",
+    "summary": "Le minage Bitcoin sur un bureau, plus facile à comprendre. Développement de produits et communication pour le matériel de minage solo, avec StarMiner comme client à l'honneur.",
+    "role": "Je suis l'un des développeurs de produits de minage Bitcoin solo. Ce projet réunit l'histoire du matériel et les contenus créés autour de lui.",
+    "scope": "Films de produit, explications claires du minage Bitcoin, guides de configuration et supports pour acheteurs et revendeurs. Le Bitaxe Gamma 601 figure dans les contenus concernés.",
+    "results": "Une bibliothèque complète avec pages de lecture individuelles, sous-titres originaux et fichiers livrés, organisée pour un examen rapide et une découverte publique.",
+    "credit": "Client à l'honneur · StarMiner",
+    "original": "Vidéo originale en anglais",
+    "historical": "Les anciennes versions sont conservées telles qu'elles ont été produites. Caractéristiques, prix et récompenses peuvent évoluer.",
+    "caveat": "Le minage solo ne garantit aucune récompense. StarMiner est un client à l'honneur ; les crédits du produit et du partenariat restent dans les vidéos originales."
+  },
+  "collections": {
+    "desk-miner-101": [
+      "Les bases du mineur de bureau",
+      "Des réponses courtes aux questions quotidiennes sur le minage Bitcoin de bureau."
+    ],
+    "visual-explainers": [
+      "Explications visuelles",
+      "Les concepts de Bitcoin expliqués avec du papier, de la craie et des schémas simples."
+    ],
+    "product-stories": [
+      "Histoires de produit",
+      "D'anciens récits sur le produit, ses utilisateurs et l'activité minière."
+    ],
+    "product-films": [
+      "Films de produit",
+      "Présentations du produit, du design et films de dévoilement."
+    ],
+    "buyer-dealer-guides": [
+      "Guides pour acheteurs et revendeurs",
+      "Conseils pratiques pour choisir, présenter et fournir des mineurs de bureau."
+    ],
+    "daily-use": [
+      "Sur le bureau",
+      "Des films courts sélectionnés sur l'utilisation d'un mineur Bitcoin de bureau."
+    ],
+    "alternate-cuts": [
+      "Versions alternatives",
+      "D'autres montages terminés, conservés pour examen."
+    ]
+  },
+  "topics": {
+    "block": [
+      "Qu'est-ce qu'un bloc Bitcoin ?",
+      "Un carnet partagé explique comment les transactions forment un bloc."
+    ],
+    "miners": [
+      "Que font les mineurs ?",
+      "Ils essaient des nombres sans cesse pour trouver un bloc valide."
+    ],
+    "mining": [
+      "Pourquoi parler de minage ?",
+      "L'extraction est mathématique : un travail répété pour trouver un résultat valide."
+    ],
+    "pool": [
+      "Pool ou minage solo ?",
+      "Deux méthodes de minage avec des répartitions de récompenses différentes."
+    ],
+    "interval": [
+      "Pourquoi environ dix minutes ?",
+      "La difficulté maintient l'intervalle moyen entre blocs près de dix minutes."
+    ],
+    "unbox": [
+      "Dans la boîte",
+      "Un aperçu des composants d'un mineur de bureau."
+    ],
+    "setup": [
+      "Configurer un mineur de bureau",
+      "De l'alimentation et du Wi-Fi aux réglages de minage."
+    ],
+    "buy": [
+      "Avant d'acheter",
+      "Apprentissage, coûts et attentes réalistes passent avant les récompenses."
+    ],
+    "found": [
+      "Quand un bloc est trouvé",
+      "Une courte explication des blocs valides et des récompenses de minage."
+    ],
+    "words": [
+      "Trois termes du minage",
+      "Taux de hachage, difficulté et minage solo, expliqués simplement."
+    ],
+    "learn": [
+      "Pourquoi utiliser un petit mineur ?",
+      "Un petit mineur rend l'apprentissage de Bitcoin concret."
+    ],
+    "chance": [
+      "Un bloc n'est jamais dû",
+      "Les tentatives passées ne garantissent pas de récompense future."
+    ],
+    "hash": [
+      "Qu'est-ce qu'un hash ?",
+      "Une empreinte numérique relie les données au processus de minage."
+    ],
+    "chain": [
+      "Pourquoi une blockchain ?",
+      "Chaque bloc référence l'empreinte du bloc précédent."
+    ],
+    "nodes": [
+      "Qui contrôle les mineurs ?",
+      "Les nœuds vérifient les blocs selon les règles de Bitcoin."
+    ],
+    "fees": [
+      "Où vont les frais ?",
+      "Les frais de transaction font partie de la récompense d'un bloc valide."
+    ],
+    "solo-pool": [
+      "Miner en solo via un pool",
+      "L'infrastructure d'un pool peut soutenir le minage solo sans partager chaque récompense."
+    ],
+    "phone": [
+      "Quel est le rôle du téléphone ?",
+      "Il gère les réglages ; le matériel dédié effectue le minage."
+    ],
+    "inside": [
+      "À l'intérieur d'un bloc Bitcoin",
+      "Transactions, référence au bloc précédent et données de minage."
+    ],
+    "pow": [
+      "La preuve de travail",
+      "Un résultat valide démontre le travail exigé par le réseau."
+    ],
+    "fork": [
+      "Deux blocs en même temps",
+      "Des blocs concurrents peuvent créer brièvement deux versions de la chaîne."
+    ],
+    "day": [
+      "Combien de blocs par jour ?",
+      "En moyenne, environ 144 blocs dans l'ensemble du réseau."
+    ],
+    "rewards": [
+      "Récompenses et probabilités",
+      "Un ancien récit sur les résultats rares et les attentes réalistes."
+    ],
+    "myths": [
+      "Les mythes du minage Bitcoin",
+      "Des idées courantes sur le matériel, l'échelle et les récompenses."
+    ],
+    "desk": [
+      "Un mineur sur le bureau",
+      "Une histoire de produit qui introduit le matériel Bitcoin dans le quotidien."
+    ],
+    "halving": [
+      "Le halving de Bitcoin",
+      "Une ancienne explication de la réduction programmée de la subvention par bloc."
+    ],
+    "history": [
+      "Une brève histoire du minage",
+      "Des ordinateurs généralistes au matériel dédié à Bitcoin."
+    ],
+    "business": [
+      "Le commerce du matériel de minage",
+      "Une histoire sur les outils fournis aux mineurs."
+    ],
+    "supplier": [
+      "Questions à poser au fournisseur",
+      "Conception, livraison et assistance comptent au-delà du prix."
+    ],
+    "headlines": [
+      "Au-delà des titres sur le minage",
+      "Les résultats rares demandent du contexte avant de devenir un argument de vente."
+    ],
+    "gift": [
+      "Un projet pour un passionné de Bitcoin",
+      "Un mineur de bureau comme cadeau pratique et projet d'apprentissage."
+    ],
+    "cost": [
+      "Vérifier les coûts d'utilisation",
+      "Électricité, assistance et attentes font partie de la décision d'achat."
+    ],
+    "design": [
+      "Un choix pour le bureau",
+      "L'apparence du produit et sa place dans l'espace de travail."
+    ],
+    "margin": [
+      "Au-delà de l'écart de prix",
+      "Les marges doivent intégrer les coûts et l'assistance après-vente."
+    ],
+    "demo": [
+      "Présenter avant de stocker",
+      "Aider les acheteurs à comprendre le produit avant d'augmenter les stocks."
+    ],
+    "planning": [
+      "Planifier les stocks de matériel",
+      "Un regard pratique sur les démonstrations et la planification saisonnière."
+    ],
+    "reveal": [
+      "Dévoilement du mineur de bureau",
+      "Une brève présentation d'un appareil compact de minage Bitcoin."
+    ],
+    "device": [
+      "Présentation du Bitaxe Gamma 601",
+      "Découvrir la carte de minage compacte et sa fonction."
+    ],
+    "daily": [
+      "Le mineur au quotidien",
+      "Un film sur un mineur Bitcoin installé sur le bureau."
+    ],
+    "product": [
+      "Film de produit StarMiner",
+      "Une présentation du mineur de bureau et de son design."
+    ]
+  }
+}

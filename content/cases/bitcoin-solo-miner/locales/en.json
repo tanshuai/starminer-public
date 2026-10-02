@@ -1,0 +1,205 @@
+{
+  "case": {
+    "title": "Bitcoin Solo Miner Development",
+    "summary": "Desktop Bitcoin mining, made easier to understand. Product development and communication for solo-mining hardware, with StarMiner as a selected client.",
+    "role": "I am one of the developers of Bitcoin solo-miner products. This case brings together the hardware story and the content created around it.",
+    "scope": "Product films, clear explanations of Bitcoin mining, setup guides and material for buyers and dealers. Bitaxe Gamma 601 is featured where relevant.",
+    "results": "A complete video library with individual watch pages, original subtitles and delivery files, organized for quick client review and public discovery.",
+    "credit": "Selected client · StarMiner",
+    "original": "Original video in English",
+    "historical": "Earlier editions are preserved as produced. Specifications, prices and rewards may change.",
+    "caveat": "Solo mining does not guarantee rewards. StarMiner is a selected client; product and partnership credits remain in the original videos."
+  },
+  "collections": {
+    "desk-miner-101": [
+      "Desk Miner 101",
+      "Short answers to the everyday questions about desktop Bitcoin mining."
+    ],
+    "visual-explainers": [
+      "Visual explainers",
+      "Bitcoin concepts explained with paper, chalk and simple diagrams."
+    ],
+    "product-stories": [
+      "Product stories",
+      "Earlier stories about the product, its users and the mining business."
+    ],
+    "product-films": [
+      "Product films",
+      "Product introductions, design presentations and reveal films."
+    ],
+    "buyer-dealer-guides": [
+      "Buyer & dealer guides",
+      "Practical considerations for choosing, demonstrating and supplying desktop miners."
+    ],
+    "daily-use": [
+      "On the desk",
+      "Selected short films about using a desktop Bitcoin miner."
+    ],
+    "alternate-cuts": [
+      "Alternate editions",
+      "Additional finished cuts, preserved together in a review archive."
+    ]
+  },
+  "topics": {
+    "block": [
+      "What is a Bitcoin block?",
+      "A shared notebook helps explain how transactions form a block."
+    ],
+    "miners": [
+      "What do miners do?",
+      "Miners repeatedly try numbers to find a valid block."
+    ],
+    "mining": [
+      "Why is it called mining?",
+      "The digging is mathematical: repeated work to find a valid result."
+    ],
+    "pool": [
+      "Pool or solo mining?",
+      "Two approaches to mining, with different ways to distribute rewards."
+    ],
+    "interval": [
+      "Why about ten minutes?",
+      "Network difficulty helps keep the average block interval near ten minutes."
+    ],
+    "unbox": [
+      "Inside the box",
+      "A quick look at the parts of a desktop miner."
+    ],
+    "setup": [
+      "Setting up a desk miner",
+      "From power and Wi-Fi to choosing the mining settings."
+    ],
+    "buy": [
+      "Before you buy",
+      "Learning, operating costs and realistic expectations come before rewards."
+    ],
+    "found": [
+      "When a block is found",
+      "A short explanation of valid blocks and mining rewards."
+    ],
+    "words": [
+      "Three mining terms",
+      "Hashrate, difficulty and solo mining, explained simply."
+    ],
+    "learn": [
+      "Why run a small miner?",
+      "A small miner can make learning about Bitcoin tangible."
+    ],
+    "chance": [
+      "A block is never due",
+      "Past attempts do not guarantee a future mining reward."
+    ],
+    "hash": [
+      "What is a hash?",
+      "A digital fingerprint connects data to the mining process."
+    ],
+    "chain": [
+      "Why a blockchain?",
+      "Each block refers to the fingerprint of the previous block."
+    ],
+    "nodes": [
+      "Who checks the miners?",
+      "Nodes check blocks against the Bitcoin network rules."
+    ],
+    "fees": [
+      "Where do fees go?",
+      "Transaction fees form part of a valid block's mining reward."
+    ],
+    "solo-pool": [
+      "Solo mining through a pool",
+      "Pool infrastructure can support solo mining without sharing every reward."
+    ],
+    "phone": [
+      "What does the phone do?",
+      "A phone manages settings; the dedicated hardware does the mining."
+    ],
+    "inside": [
+      "Inside a Bitcoin block",
+      "Transactions, a reference to the previous block and mining data."
+    ],
+    "pow": [
+      "Proof of work",
+      "A valid result demonstrates the work required by the network."
+    ],
+    "fork": [
+      "Two blocks at once",
+      "Competing blocks can briefly create two versions of the chain."
+    ],
+    "day": [
+      "How many blocks each day?",
+      "An average of about 144 blocks across the whole network."
+    ],
+    "rewards": [
+      "Mining rewards and probability",
+      "An earlier story about rare outcomes and realistic expectations."
+    ],
+    "myths": [
+      "Bitcoin mining myths",
+      "Common assumptions about hardware, scale and rewards."
+    ],
+    "desk": [
+      "A miner on the desk",
+      "A product story about bringing Bitcoin hardware into everyday space."
+    ],
+    "halving": [
+      "The Bitcoin halving",
+      "An earlier explanation of the scheduled reduction in block subsidy."
+    ],
+    "history": [
+      "A short mining history",
+      "From general-purpose computers to dedicated Bitcoin mining hardware."
+    ],
+    "business": [
+      "The mining hardware business",
+      "A story about supplying the tools used by miners."
+    ],
+    "supplier": [
+      "Questions for a supplier",
+      "Design, delivery and support matter beyond a price list."
+    ],
+    "headlines": [
+      "Beyond mining headlines",
+      "Rare mining stories need context before becoming a sales pitch."
+    ],
+    "gift": [
+      "A project for a Bitcoin fan",
+      "A desktop miner as a hands-on gift and learning project."
+    ],
+    "cost": [
+      "Check the running costs",
+      "Power, support and expectations belong in the purchase decision."
+    ],
+    "design": [
+      "A choice for the desk",
+      "Product appearance and how it fits into an everyday workspace."
+    ],
+    "margin": [
+      "Beyond the price difference",
+      "Retail margins must account for costs and after-sales support."
+    ],
+    "demo": [
+      "Demonstrate before stocking",
+      "Help buyers understand the product before building inventory."
+    ],
+    "planning": [
+      "Planning hardware stock",
+      "A practical look at product demonstrations and seasonal stock planning."
+    ],
+    "reveal": [
+      "Desktop miner reveal",
+      "A short introduction to a compact Bitcoin mining device."
+    ],
+    "device": [
+      "Bitaxe Gamma 601 overview",
+      "A closer look at the compact mining board and its purpose."
+    ],
+    "daily": [
+      "Daily desk-miner film",
+      "A short product film about keeping a Bitcoin miner on the desk."
+    ],
+    "product": [
+      "StarMiner product film",
+      "A presentation of the desktop miner and its product design."
+    ]
+  }
+}
