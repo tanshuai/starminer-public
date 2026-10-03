@@ -98,7 +98,11 @@ def build(out, language_codes=None):
     
     for case in cases:
         for slug in case.get('legacy_slugs',[]):
-            redirects.extend(['/'+slug+'/ /'+case['slug']+'/ 301','/'+slug+'/* /'+case['slug']+'/:splat 301'])
+            for lang in languages:
+                old=local(lang['code'],'/'+slug+'/');new=local(lang['code'],'/'+case['slug']+'/')
+                redirects.extend([old+' '+new+' 301',old+'* '+new+':splat 301'])
+    # A legacy hostname must finish on the public origin, rather than its own host.
+    redirects=[' '.join([source,origin+target if target.startswith('/') else target,status]) for source,target,status in (line.split() for line in redirects)]
     write('_redirects','\n'.join(redirects)+'\n')
     write('_headers','/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n  X-Frame-Options: SAMEORIGIN\n')
     ns='http://www.sitemaps.org/schemas/sitemap/0.9';vn='http://www.google.com/schemas/sitemap-video/1.1';ET.register_namespace('',ns);ET.register_namespace('video',vn)

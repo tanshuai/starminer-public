@@ -36,3 +36,13 @@ Every page loads one shared module using the personal site's existing GA4 proper
 Publish static build output to the existing Cloudflare Worker `starminer-public`, with its current custom domain. Preserve old StarMiner links with redirects. Keep credentials out of this repository. The original production repository remains private; only curated public content belongs here.
 
 Google crawl eligibility and submitted sitemaps do not establish actual indexing or rankings. Mainland HTTP-node results do not establish mainland video playback. Existing production and publisher records retain source provenance and platform requirements separately from portfolio copy.
+
+## URL changes and Search Console
+
+Keep published case, collection and media URLs stable. When a case slug changes, add the previous slug to that case's `legacy_slugs`. All language prefixes and known legacy file links must redirect permanently to the corresponding URL on the public origin. If a media or collection path changes, add an explicit old-to-new mapping before publishing; do not silently drop a published path.
+
+Before deployment, rebuild and run `verify.py`. The check covers canonical and reciprocal language URLs, sitemap membership, video URLs, resolved redirect targets, primary-route loops, multilingual legacy paths and provider/sitemap limits. A passing check is required before publishing.
+
+After deployment, verify the actual formal-domain page and representative old sharing links. Confirm that `sitemap.xml`, `video-sitemap.xml` and robots.txt reference the current public origin. Inspect the corresponding Search Console Domain property. The existing tanshuai.com property covers work.tanshuai.com; a path rename does not require replacing that property. Submit a changed sitemap URL once if needed, and use representative URL inspection after a meaningful move. Do not repeatedly resubmit a healthy map just because its last-read or indexing state has not caught up.
+
+Record submission acceptance, Google's last-read status, discovered URLs, live crawl eligibility and actual indexing as separate results. Static route counts and accepted submissions do not establish indexing or rankings.

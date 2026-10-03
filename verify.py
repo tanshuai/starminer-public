@@ -64,7 +64,42 @@ for lang in languages:
  if lang['code']!='en':assert c['case']['summary']!=base_case['case']['summary'] and c['case']['role']!=base_case['case']['role']
  for m in media:assert c['topics'][m['topic']]
 assert 'Disallow: /\n' not in (root/'robots.txt').read_text()
-for line in (root/'_redirects').read_text().splitlines():assert line.startswith('/') and ' 301' in line
-receipt={'pass':True,'languages':len(languages),'unique_videos':len(media),'html_pages':len(pages),'indexable_pages':len(urls),'indexable_watch_pages':len(videos),'internal_links_checked':link_count,'reciprocal_hreflang':True,'self_canonicals':True,'original_video_language':True,'unique_indexable_titles':True,'all_locale_keys_present':True,'shared_analytics_and_personal_home':True,'public_boundary':True}
+cases=[json.loads((here/'content/cases'/f'{id}.json').read_text()) for id in site['cases']]
+redirect_rules=[];static_count=0;dynamic_count=0
+for line in (root/'_redirects').read_text().splitlines():
+ source,target,status=line.split();assert source.startswith('/') and status=='301'
+ assert target.startswith(origin+'/'),(source,target)
+ assert target!=origin+source,(source,'redirect loop')
+ if '*' in source:
+  dynamic_count+=1;assert source.count('*')==1 and ':splat' in target
+  pattern=re.compile('^'+re.escape(source).replace(r'\*','(.*)')+'$')
+ else:
+  static_count+=1;pattern=re.compile('^'+re.escape(source)+'$')
+  path=urllib.parse.urlsplit(target).path;f=root/path.lstrip('/');f=f/'index.html' if path.endswith('/') else f
+  assert f.is_file(),(source,'missing destination',target)
+ redirect_rules.append((pattern,target))
+assert static_count<=2000 and dynamic_count<=100,('Cloudflare redirect limits',static_count,dynamic_count)
+def resolve_redirect(path):
+ for pattern,target in redirect_rules:
+  match=pattern.fullmatch(path)
+  if match:return target.replace(':splat',match.group(1)) if match.groups() else target
+ return None
+legacy_paths=0
+for url,check in pages.items():
+ path=urllib.parse.urlsplit(url).path
+ assert resolve_redirect(path) is None,(path,'published URL must not redirect')
+ for case in cases:
+  prefix=('/' if check.lang=='en' else '/'+check.lang+'/')+case['slug']+'/'
+  if path.startswith(prefix):
+   for slug in case.get('legacy_slugs',[]):
+    old=prefix.removesuffix(case['slug']+'/')+slug+'/'+path[len(prefix):]
+    assert resolve_redirect(old)==url,(old,'wrong migration destination',resolve_redirect(old),url)
+    legacy_paths+=1
+for filename in ('sitemap.xml','video-sitemap.xml'):
+ assert (root/filename).stat().st_size<=50*1024*1024
+assert len(urls)<=50000 and len(vurls)<=50000
+assert all(url.startswith(origin+'/') for url in urls+vurls)
+
+receipt={'pass':True,'languages':len(languages),'unique_videos':len(media),'html_pages':len(pages),'indexable_pages':len(urls),'indexable_watch_pages':len(videos),'internal_links_checked':link_count,'reciprocal_hreflang':True,'self_canonicals':True,'original_video_language':True,'unique_indexable_titles':True,'all_locale_keys_present':True,'shared_analytics_and_personal_home':True,'public_boundary':True,'redirects_to_public_origin':True,'legacy_language_routes_checked':legacy_paths,'redirect_targets_exist':True,'primary_routes_do_not_redirect':True,'sitemap_limits':True}
 if a.receipt:a.receipt.parent.mkdir(parents=True,exist_ok=True);a.receipt.write_text(json.dumps(receipt,indent=2)+'\n')
 print(json.dumps(receipt))
