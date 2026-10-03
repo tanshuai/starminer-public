@@ -1,0 +1,870 @@
+{
+  "schema_version": 1,
+  "case_id": "bitcoin-solo-miner",
+  "files": [
+    {
+      "source": "content/cases/bitcoin-solo-miner.json",
+      "path": "cases/bitcoin-solo-miner.json",
+      "bytes": 3162,
+      "sha256": "90a7f94b09b0db3500a6c9add9495aac32b7ff7fe80aa72c40044829f71a5e74"
+    },
+    {
+      "source": "content/media.json",
+      "path": "media.json",
+      "bytes": 158224,
+      "sha256": "3bce366c973cb020da0d5820011abb29ac755e2c60df8f44c7260c57d29525ab"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/am.json",
+      "path": "cases/bitcoin-solo-miner/locales/am.json",
+      "bytes": 9734,
+      "sha256": "9396a792d696bfd4879408faf09c62fbbff551c6ae7ba003aaecb1340673fe76"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/ar.json",
+      "path": "cases/bitcoin-solo-miner/locales/ar.json",
+      "bytes": 8885,
+      "sha256": "74c7b0cc60cb390cae4f1e3bb3f77fa42bec4db1068e1fd472967b3b57411168"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/bn.json",
+      "path": "cases/bitcoin-solo-miner/locales/bn.json",
+      "bytes": 12418,
+      "sha256": "b2481a372f022776a84a4953129387c06e63c7020087a0c1354b3067cdef9614"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/de.json",
+      "path": "cases/bitcoin-solo-miner/locales/de.json",
+      "bytes": 7570,
+      "sha256": "7dd67b23b4997185ef3b93ae32e34f6195007d56694eb268783b5d78fb4f5a9a"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/en.json",
+      "path": "cases/bitcoin-solo-miner/locales/en.json",
+      "bytes": 6991,
+      "sha256": "101de9090b10538132e211ea0bb6269fa7826d1d85020c4bf39553a0a4575f85"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/es.json",
+      "path": "cases/bitcoin-solo-miner/locales/es.json",
+      "bytes": 8024,
+      "sha256": "7487cf33488ab2fc6821e48ea9b527f1d239931753d917cc47c9ff906f85752d"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/fa.json",
+      "path": "cases/bitcoin-solo-miner/locales/fa.json",
+      "bytes": 9526,
+      "sha256": "da15fbae407aee7e13dbf9853a9ae7e90171c46706bf92d466595f49f110b7d1"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/fr.json",
+      "path": "cases/bitcoin-solo-miner/locales/fr.json",
+      "bytes": 7761,
+      "sha256": "890471e7d912e3bc7a51fc9eac47ebc585082ec9cc79c6f14f8d67ca1c28c309"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/hi.json",
+      "path": "cases/bitcoin-solo-miner/locales/hi.json",
+      "bytes": 13069,
+      "sha256": "3d057d4c7637a3bfbe48bae800e4f0d8d3bb51aa8414121e3aeb028c9b4b8652"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/id.json",
+      "path": "cases/bitcoin-solo-miner/locales/id.json",
+      "bytes": 7030,
+      "sha256": "9a0f5aabc67879c13c6a05386659b7e4103c8a3e5bef7464bd92a71b2b33fb5b"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/it.json",
+      "path": "cases/bitcoin-solo-miner/locales/it.json",
+      "bytes": 7249,
+      "sha256": "180535ffbb09fc099b0346b5019ba5c7da9aeafbb076168629ec3c8f24ab3734"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/ja.json",
+      "path": "cases/bitcoin-solo-miner/locales/ja.json",
+      "bytes": 7949,
+      "sha256": "abfa9873a429318c2a7498eca63ab772fe74ee2dc8784f2e3ab72dc97a426bda"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/kk.json",
+      "path": "cases/bitcoin-solo-miner/locales/kk.json",
+      "bytes": 10311,
+      "sha256": "4702d711ff2a6deb1bc3da8b71882d1a5d62eb8084b779c9fb0ac899a039f58f"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/ko.json",
+      "path": "cases/bitcoin-solo-miner/locales/ko.json",
+      "bytes": 7714,
+      "sha256": "05088b402afc983be979e9d8bead01cc5f16ad4669e06733559ce9933647d878"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/ms.json",
+      "path": "cases/bitcoin-solo-miner/locales/ms.json",
+      "bytes": 6897,
+      "sha256": "5ae71ad0cc98f24dd566d6938fced4d33f63f64484680c1e97e568fa38d96380"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/nl.json",
+      "path": "cases/bitcoin-solo-miner/locales/nl.json",
+      "bytes": 7120,
+      "sha256": "80970d9863efb180d2560327f615a6ea4633c8847b367f10b1d057e2b436f9ff"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/pl.json",
+      "path": "cases/bitcoin-solo-miner/locales/pl.json",
+      "bytes": 6971,
+      "sha256": "c10f6b5157c6a3085a5c9e78fea771554bd0f7cdb70bb54169b3540485989071"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/pt.json",
+      "path": "cases/bitcoin-solo-miner/locales/pt.json",
+      "bytes": 7589,
+      "sha256": "c0168b31011a2c0702e61ec6ed12c1f977c23f7d91c2734a416777847dee4d70"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/ru.json",
+      "path": "cases/bitcoin-solo-miner/locales/ru.json",
+      "bytes": 11022,
+      "sha256": "9d8b82a5407ccb41713f686475fa42be682c0744758e3c1704c843b3977ff180"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/th.json",
+      "path": "cases/bitcoin-solo-miner/locales/th.json",
+      "bytes": 12985,
+      "sha256": "b1cd3f24dc2a7f7780200f83b44bd72adb43df9a2a012cdf6b1f523c6caf36b8"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/tl.json",
+      "path": "cases/bitcoin-solo-miner/locales/tl.json",
+      "bytes": 7325,
+      "sha256": "9cb4208c106b4f229812eea797f14075d4858817f56df497d2f9bc799ffc016e"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/tr.json",
+      "path": "cases/bitcoin-solo-miner/locales/tr.json",
+      "bytes": 7256,
+      "sha256": "38eac7f525693d435f3c01c9cf9536d89622e097ceb9d85f41cb718ad907570d"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/uk.json",
+      "path": "cases/bitcoin-solo-miner/locales/uk.json",
+      "bytes": 10580,
+      "sha256": "db75366a2d46d4279116e5355b5fc9457a8775c7868a43e17f25ad717310b1ae"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/ur.json",
+      "path": "cases/bitcoin-solo-miner/locales/ur.json",
+      "bytes": 9147,
+      "sha256": "967084420dc643abbcac11b54adb1a28ab9d5ee3cbe5810f94ac0c3d85350ffa"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/vi.json",
+      "path": "cases/bitcoin-solo-miner/locales/vi.json",
+      "bytes": 7871,
+      "sha256": "bb255640db197f6695e27d7a281f03be72986bc95c6a7f0beefdc29b02cbffba"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/zh-hans.json",
+      "path": "cases/bitcoin-solo-miner/locales/zh-hans.json",
+      "bytes": 6466,
+      "sha256": "9a37f45e6ce9132982aa521d040fe2e62d32562daccdb39cc4f004bf5f197bac"
+    },
+    {
+      "source": "content/cases/bitcoin-solo-miner/locales/zh-hant.json",
+      "path": "cases/bitcoin-solo-miner/locales/zh-hant.json",
+      "bytes": 6457,
+      "sha256": "5b8d68b8734a282b950ac7aa425d0b6978458cfe4639744cb34d14f943c04d7f"
+    },
+    {
+      "source": "assets/media/buyer-01-first-miner.jpg",
+      "path": "assets/media/buyer-01-first-miner.jpg",
+      "bytes": 384056,
+      "sha256": "ee901355218214cbdac41917b05d1b563c1c1e7ac4a9beb969d9b7b50e0d1af3"
+    },
+    {
+      "source": "assets/media/buyer-02-cost-check.jpg",
+      "path": "assets/media/buyer-02-cost-check.jpg",
+      "bytes": 325268,
+      "sha256": "31c3bb7c69974dcd013c91c9ce7f3966db80e9260413fdd3a74d9523c7e08efe"
+    },
+    {
+      "source": "assets/media/buyer-03-desk-choice.jpg",
+      "path": "assets/media/buyer-03-desk-choice.jpg",
+      "bytes": 388727,
+      "sha256": "d4d6c07db4f9c2fd48a8b2248b885d9e64e2256573c7cc286b9117bb64a45365"
+    },
+    {
+      "source": "assets/media/buyer-04-setup-path.jpg",
+      "path": "assets/media/buyer-04-setup-path.jpg",
+      "bytes": 292112,
+      "sha256": "7e3be68ef8e7e4466dbb2548fa83ce4724eca4cf9429cf644d697f02c3e7712e"
+    },
+    {
+      "source": "assets/media/buyer-05-holiday-project.jpg",
+      "path": "assets/media/buyer-05-holiday-project.jpg",
+      "bytes": 277793,
+      "sha256": "714faf9ffcb27af5faa5d3864c764dd6d8033ae5262d38815ffd7c20da076e1e"
+    },
+    {
+      "source": "assets/media/buyer-06-phone-role.jpg",
+      "path": "assets/media/buyer-06-phone-role.jpg",
+      "bytes": 295737,
+      "sha256": "336d3fdeb0582f7fcc9274e17299160f0bf445eebaf985155d6b94dccbbf5c1b"
+    },
+    {
+      "source": "assets/media/buyer-07-real-margin.jpg",
+      "path": "assets/media/buyer-07-real-margin.jpg",
+      "bytes": 288267,
+      "sha256": "0371716853961ea524ab625b672c66c5d5b05aa30a6d71bb68779f8516e204d8"
+    },
+    {
+      "source": "assets/media/buyer-08-demo-first.jpg",
+      "path": "assets/media/buyer-08-demo-first.jpg",
+      "bytes": 274802,
+      "sha256": "f18ff5ecd9a6cc8f3eb4d59369f18969a6a37ebfe53d75039f6361535230d783"
+    },
+    {
+      "source": "assets/media/buyer-09-supplier-proof.jpg",
+      "path": "assets/media/buyer-09-supplier-proof.jpg",
+      "bytes": 465477,
+      "sha256": "a7015d3ba8e7e3b5fef932f2e6b95468722fdf08e18b9543c9771f450d61bce9"
+    },
+    {
+      "source": "assets/media/buyer-10-q4-planning.jpg",
+      "path": "assets/media/buyer-10-q4-planning.jpg",
+      "bytes": 243823,
+      "sha256": "5bfa6c00ca5ac9db671c426ea882460401d64e3a35a49d4eaf2436b9f2472745"
+    },
+    {
+      "source": "assets/media/daily-cut-39f5.jpg",
+      "path": "assets/media/daily-cut-39f5.jpg",
+      "bytes": 260023,
+      "sha256": "6381f12607792a522f5f76af9e3e1acf69fd4616ac5cffdd27bec4a0ec981a8a"
+    },
+    {
+      "source": "assets/media/daily-cut-4733.jpg",
+      "path": "assets/media/daily-cut-4733.jpg",
+      "bytes": 212596,
+      "sha256": "9e5de779f85459392c57a4d17b6a050c21e41ce7e2438d5b253709b6c57bb768"
+    },
+    {
+      "source": "assets/media/daily-cut-4vzc.jpg",
+      "path": "assets/media/daily-cut-4vzc.jpg",
+      "bytes": 238388,
+      "sha256": "b4c4c84e147398fee4630de6b14d928f11c3b11b8c19b54d97e93e5f34c0a704"
+    },
+    {
+      "source": "assets/media/daily-cut-538u.jpg",
+      "path": "assets/media/daily-cut-538u.jpg",
+      "bytes": 227035,
+      "sha256": "e7cec4c3846d0472f388ba2da3286f3e3a84983527cd6e65dac85b0385efbf76"
+    },
+    {
+      "source": "assets/media/daily-cut-53a5.jpg",
+      "path": "assets/media/daily-cut-53a5.jpg",
+      "bytes": 255561,
+      "sha256": "5c08a3c22904f5473450017d3dff32e17065565465f7567f62cc3ae9f20a39de"
+    },
+    {
+      "source": "assets/media/daily-cut-558g.jpg",
+      "path": "assets/media/daily-cut-558g.jpg",
+      "bytes": 199179,
+      "sha256": "0b1771ffb5711e63dd1d6db953bbaf14eb3ae45ecc3895cb20a0baf696d5b966"
+    },
+    {
+      "source": "assets/media/daily-cut-5hbl.jpg",
+      "path": "assets/media/daily-cut-5hbl.jpg",
+      "bytes": 213151,
+      "sha256": "a3472f89717c848853bac7f178111fded233e375248b4eb2c2d1d539b3d81e57"
+    },
+    {
+      "source": "assets/media/daily-cut-622n.jpg",
+      "path": "assets/media/daily-cut-622n.jpg",
+      "bytes": 274485,
+      "sha256": "5cc47af361b039b52babdfb29fbb629c0901cb076476e80e828dc1f3ab3eaf2f"
+    },
+    {
+      "source": "assets/media/daily-cut-8535.jpg",
+      "path": "assets/media/daily-cut-8535.jpg",
+      "bytes": 231814,
+      "sha256": "c870e589ad653011ad80116790634c8c17c98c68d1088b14d91071497339ba64"
+    },
+    {
+      "source": "assets/media/daily-cut-88d2.jpg",
+      "path": "assets/media/daily-cut-88d2.jpg",
+      "bytes": 235859,
+      "sha256": "7d06f22db530d9c598066795bb0b6304331577fab9dbcd4449785a12e683748a"
+    },
+    {
+      "source": "assets/media/daily-cut-95vd.jpg",
+      "path": "assets/media/daily-cut-95vd.jpg",
+      "bytes": 196540,
+      "sha256": "4d2c49aff790a2dfd150470524513d6460e3a59ccb6e450e28fe3b089e157bf4"
+    },
+    {
+      "source": "assets/media/daily-cut-9cls.jpg",
+      "path": "assets/media/daily-cut-9cls.jpg",
+      "bytes": 251927,
+      "sha256": "5b086bfcbbdfe66006a817a05ee0ed4e5405ad00828fb0b94d35711a1bb3d8a7"
+    },
+    {
+      "source": "assets/media/daily-cut-9vmh.jpg",
+      "path": "assets/media/daily-cut-9vmh.jpg",
+      "bytes": 293882,
+      "sha256": "822a4658b465b3b730798f1a0adc23a3c8c1d494fd752ca8c4106976f1456c03"
+    },
+    {
+      "source": "assets/media/daily-cut-aptt.jpg",
+      "path": "assets/media/daily-cut-aptt.jpg",
+      "bytes": 324943,
+      "sha256": "44e097a22a62d9eb7cb0e63bb74a86393deabd56a05e88a8a8e107a5ad400aec"
+    },
+    {
+      "source": "assets/media/daily-cut-avq6.jpg",
+      "path": "assets/media/daily-cut-avq6.jpg",
+      "bytes": 259913,
+      "sha256": "36c215b3bf701e33fddd549c2308cd5db3f8f97476a5c2284ff956e9c3ee93b6"
+    },
+    {
+      "source": "assets/media/daily-cut-bdul.jpg",
+      "path": "assets/media/daily-cut-bdul.jpg",
+      "bytes": 271150,
+      "sha256": "f3d07cf47dd23a95a35d6cbfd10ac7a8d4120ca1c8ad20ceffb3bedb4db863fb"
+    },
+    {
+      "source": "assets/media/daily-cut-bkpy.jpg",
+      "path": "assets/media/daily-cut-bkpy.jpg",
+      "bytes": 220426,
+      "sha256": "65a6b3a5236e9863c059de6a0fdbcbd8146b0071abfcf1138d5ec27596964e27"
+    },
+    {
+      "source": "assets/media/daily-cut-dxda.jpg",
+      "path": "assets/media/daily-cut-dxda.jpg",
+      "bytes": 331723,
+      "sha256": "cc19846712d17932c38b706d0587d2998b5847a6e61360a55f96a6d91632735d"
+    },
+    {
+      "source": "assets/media/daily-cut-ebqy.jpg",
+      "path": "assets/media/daily-cut-ebqy.jpg",
+      "bytes": 219764,
+      "sha256": "1fcf89a62918941024e5504300906e1ec16679efdf0eb672b3da7827a68ba299"
+    },
+    {
+      "source": "assets/media/daily-cut-fega.jpg",
+      "path": "assets/media/daily-cut-fega.jpg",
+      "bytes": 245936,
+      "sha256": "f1e5abdb47b1dd11ebc629bd99fa280f4782268c34ddfa983f7910c0c5a73b4b"
+    },
+    {
+      "source": "assets/media/daily-cut-gsyf.jpg",
+      "path": "assets/media/daily-cut-gsyf.jpg",
+      "bytes": 255873,
+      "sha256": "ea9b374c9af62a74fd5523ad035b4e94a8b7bfbc3d99a54e77611c4c036a7259"
+    },
+    {
+      "source": "assets/media/daily-cut-gzcf.jpg",
+      "path": "assets/media/daily-cut-gzcf.jpg",
+      "bytes": 241945,
+      "sha256": "b44a2cfd3555e62872febd1bb38b44b3c54a039fe1c678692b4ea6793e7bdcfd"
+    },
+    {
+      "source": "assets/media/daily-cut-h3mf.jpg",
+      "path": "assets/media/daily-cut-h3mf.jpg",
+      "bytes": 223700,
+      "sha256": "3cb37380eba31d643eaebd2d8651929b4ce828054049c15e9d5d59fe8775a88a"
+    },
+    {
+      "source": "assets/media/daily-cut-hfl8.jpg",
+      "path": "assets/media/daily-cut-hfl8.jpg",
+      "bytes": 232907,
+      "sha256": "ea0724f57b12695027001c12fe1caa56deb2495e37357f221f8ec5dbf8187205"
+    },
+    {
+      "source": "assets/media/daily-cut-hgjh.jpg",
+      "path": "assets/media/daily-cut-hgjh.jpg",
+      "bytes": 270874,
+      "sha256": "ee9244bc7bf32b6c65e245b2e708f15892a9efedf72065d0e9b06ae1b4bd8410"
+    },
+    {
+      "source": "assets/media/daily-cut-hth7.jpg",
+      "path": "assets/media/daily-cut-hth7.jpg",
+      "bytes": 288588,
+      "sha256": "a42f269e924506514ae985ba6c01870b7cc09eb66ff6a9a77ffd7842fd108df4"
+    },
+    {
+      "source": "assets/media/daily-cut-ka85.jpg",
+      "path": "assets/media/daily-cut-ka85.jpg",
+      "bytes": 223736,
+      "sha256": "1d6d38a8da3d039ceefebb0c0f028bc69c60eaa7017596e818a71b61c53e030a"
+    },
+    {
+      "source": "assets/media/daily-cut-kewq.jpg",
+      "path": "assets/media/daily-cut-kewq.jpg",
+      "bytes": 223751,
+      "sha256": "fe8a540faa0287e5373c2989d91d6c7348d7abd86a85b5528fb0662c59b39f1b"
+    },
+    {
+      "source": "assets/media/daily-cut-kh46.jpg",
+      "path": "assets/media/daily-cut-kh46.jpg",
+      "bytes": 235957,
+      "sha256": "d0b6f6716387c4a4151aeee41c8f1871e85a68bd9291dcddb590110969b4dd90"
+    },
+    {
+      "source": "assets/media/daily-cut-kl6q.jpg",
+      "path": "assets/media/daily-cut-kl6q.jpg",
+      "bytes": 299005,
+      "sha256": "4b833bd206a117a3c7942bcc1ceba27747aaaf47106c45cfcda36eb8107c1fef"
+    },
+    {
+      "source": "assets/media/daily-cut-kw4z.jpg",
+      "path": "assets/media/daily-cut-kw4z.jpg",
+      "bytes": 251859,
+      "sha256": "422665b3bd1153b9acd6c43dba814bc09190b0381c0ee83ed4222b71ca7109d4"
+    },
+    {
+      "source": "assets/media/daily-cut-mctq.jpg",
+      "path": "assets/media/daily-cut-mctq.jpg",
+      "bytes": 264554,
+      "sha256": "82916f90e1f299fb582245a27d045dbc220b930e1356a06cd1f68cf189366264"
+    },
+    {
+      "source": "assets/media/daily-cut-pb6a.jpg",
+      "path": "assets/media/daily-cut-pb6a.jpg",
+      "bytes": 197275,
+      "sha256": "9047c1b7735e29c56bfbdb23b7fa6d82a78048fca30dec6bddadfee28b1fcb8c"
+    },
+    {
+      "source": "assets/media/daily-cut-pmgj.jpg",
+      "path": "assets/media/daily-cut-pmgj.jpg",
+      "bytes": 245737,
+      "sha256": "b15ca1e61b298264467cf96cfedbeae2b515e6728e3c21afc21a56109d5a852a"
+    },
+    {
+      "source": "assets/media/daily-cut-r5qn.jpg",
+      "path": "assets/media/daily-cut-r5qn.jpg",
+      "bytes": 256628,
+      "sha256": "1c182cbf3c3d6bee92afd3c07a0e882921bf40a46deb705f01c5054d673fe107"
+    },
+    {
+      "source": "assets/media/daily-cut-ralu.jpg",
+      "path": "assets/media/daily-cut-ralu.jpg",
+      "bytes": 247492,
+      "sha256": "9ddc2badbbe9678d849737da137c8ddad5f950a9d04f1f34b25e17f2ddd967ac"
+    },
+    {
+      "source": "assets/media/daily-cut-s9yj.jpg",
+      "path": "assets/media/daily-cut-s9yj.jpg",
+      "bytes": 238478,
+      "sha256": "b76b7341f2d80a42de78588a10d31180de127cf8c2f357f440722c9f17ca2ccf"
+    },
+    {
+      "source": "assets/media/daily-cut-sen9.jpg",
+      "path": "assets/media/daily-cut-sen9.jpg",
+      "bytes": 242723,
+      "sha256": "3fb1023807584e4b69a0f5be11d6024881f60b201cff6c4ad9e8f1182654e148"
+    },
+    {
+      "source": "assets/media/daily-cut-ulg2.jpg",
+      "path": "assets/media/daily-cut-ulg2.jpg",
+      "bytes": 296026,
+      "sha256": "1d04fbd11816e106a949b295443a61b3134dd65938021a4265d177e0ca8d264b"
+    },
+    {
+      "source": "assets/media/daily-cut-uwdf.jpg",
+      "path": "assets/media/daily-cut-uwdf.jpg",
+      "bytes": 197969,
+      "sha256": "19ab7ff7978feb2b5544f7db55f788cb350af5901843f19fd78a882d68ef8aa8"
+    },
+    {
+      "source": "assets/media/daily-cut-vc6m.jpg",
+      "path": "assets/media/daily-cut-vc6m.jpg",
+      "bytes": 215712,
+      "sha256": "00e62fe4f538bdd0bf793e17e4fe69d136c157ec3650a63b77b1bbf2e7c91ec6"
+    },
+    {
+      "source": "assets/media/daily-cut-vfkn.jpg",
+      "path": "assets/media/daily-cut-vfkn.jpg",
+      "bytes": 207489,
+      "sha256": "f362ac4f900233f5b668bce7591d2e2504043e9b790d9b46d79db9aa5c9370cb"
+    },
+    {
+      "source": "assets/media/daily-cut-w839.jpg",
+      "path": "assets/media/daily-cut-w839.jpg",
+      "bytes": 212837,
+      "sha256": "7db88be6e931af5e73cfc892d1f93916c0c824b362925a668786d1240894713a"
+    },
+    {
+      "source": "assets/media/daily-cut-wm28.jpg",
+      "path": "assets/media/daily-cut-wm28.jpg",
+      "bytes": 248883,
+      "sha256": "68ad8e7a593565d42f5ee8b469d9d14bc02c144ac493463883da99068f9efb7c"
+    },
+    {
+      "source": "assets/media/daily-cut-xex4.jpg",
+      "path": "assets/media/daily-cut-xex4.jpg",
+      "bytes": 284267,
+      "sha256": "8f7147342602457d9ca6a4d4a55d9a777ad25f4148f7b65cce2b5fce3cdf4427"
+    },
+    {
+      "source": "assets/media/daily-cut-xxq4.jpg",
+      "path": "assets/media/daily-cut-xxq4.jpg",
+      "bytes": 289324,
+      "sha256": "72c5525b373ab050adac5e48fc81fc113a5d855e55378c68fa2478cb5cf69d94"
+    },
+    {
+      "source": "assets/media/daily-cut-z4lw.jpg",
+      "path": "assets/media/daily-cut-z4lw.jpg",
+      "bytes": 634347,
+      "sha256": "71bd4273264ba2b2a3803a0928de7bf2dcd2df22ce933b9226639b49cbfe0abe"
+    },
+    {
+      "source": "assets/media/daily-cut-z7vr.jpg",
+      "path": "assets/media/daily-cut-z7vr.jpg",
+      "bytes": 197351,
+      "sha256": "d0c5b6ceba7ff907375a56dc5acf75380920388cd0a66c4c529fd4a7df1ffbca"
+    },
+    {
+      "source": "assets/media/design-distributor.jpg",
+      "path": "assets/media/design-distributor.jpg",
+      "bytes": 418624,
+      "sha256": "2b15b98c4f6dd0d202e511c38908c71f67f5a525d505e62e3379dff49a2f3958"
+    },
+    {
+      "source": "assets/media/design-enthusiast.jpg",
+      "path": "assets/media/design-enthusiast.jpg",
+      "bytes": 395403,
+      "sha256": "9a611d9f4bd23aca9bf1926ac6dd66b2d3201039df72da8037bcd9b036475fca"
+    },
+    {
+      "source": "assets/media/desktop-miner-reveal.jpg",
+      "path": "assets/media/desktop-miner-reveal.jpg",
+      "bytes": 313030,
+      "sha256": "533f2a503bbb778a6593386ec32c2d6ca86dc268da47e5347596faed088416e0"
+    },
+    {
+      "source": "assets/media/desktop-product-film.jpg",
+      "path": "assets/media/desktop-product-film.jpg",
+      "bytes": 267874,
+      "sha256": "5d5d72c05cbc3d9affa6cafcbdb08e27f3e7ce1b3ad7eac7f26b5fc148f6149c"
+    },
+    {
+      "source": "assets/media/desktop-product-narration.jpg",
+      "path": "assets/media/desktop-product-narration.jpg",
+      "bytes": 267874,
+      "sha256": "5d5d72c05cbc3d9affa6cafcbdb08e27f3e7ce1b3ad7eac7f26b5fc148f6149c"
+    },
+    {
+      "source": "assets/media/desktop-product-opening.jpg",
+      "path": "assets/media/desktop-product-opening.jpg",
+      "bytes": 267874,
+      "sha256": "5d5d72c05cbc3d9affa6cafcbdb08e27f3e7ce1b3ad7eac7f26b5fc148f6149c"
+    },
+    {
+      "source": "assets/media/early-product-film.jpg",
+      "path": "assets/media/early-product-film.jpg",
+      "bytes": 217433,
+      "sha256": "c873b959808e3821aaf661aa96481d7b13ecf9b98629669654e18e477c70a641"
+    },
+    {
+      "source": "assets/media/gamma601-overview.jpg",
+      "path": "assets/media/gamma601-overview.jpg",
+      "bytes": 155455,
+      "sha256": "a2c2f1f16bd20dbf7d140c5fee8480d0814cacfca22dcff414ca95e2f1381202"
+    },
+    {
+      "source": "assets/media/m01-what-is-a-block.jpg",
+      "path": "assets/media/m01-what-is-a-block.jpg",
+      "bytes": 190395,
+      "sha256": "1156d06119567f537e2c770451b4ceba9c5582639e030f559789e873c8da963a"
+    },
+    {
+      "source": "assets/media/m02-what-miners-do.jpg",
+      "path": "assets/media/m02-what-miners-do.jpg",
+      "bytes": 181905,
+      "sha256": "9215429f19c3a17d1a91392c6497d38c612c8e1873a879f3b3b089212e4bc67d"
+    },
+    {
+      "source": "assets/media/m03-why-mining.jpg",
+      "path": "assets/media/m03-why-mining.jpg",
+      "bytes": 163605,
+      "sha256": "a5b1f5e395b6c736e72c5fe4c71a0e279e1004b605bfe6df0dc079424784d172"
+    },
+    {
+      "source": "assets/media/m04-pool-or-solo.jpg",
+      "path": "assets/media/m04-pool-or-solo.jpg",
+      "bytes": 173860,
+      "sha256": "a49fdafd5766155299593e9420ae7fda5a5eea260fab84d8664a7015405129d4"
+    },
+    {
+      "source": "assets/media/m05-ten-minutes.jpg",
+      "path": "assets/media/m05-ten-minutes.jpg",
+      "bytes": 186360,
+      "sha256": "ede0c3cb6a31ae1d147a501487779f6aca00a08492fed6d4263c702a1a434924"
+    },
+    {
+      "source": "assets/media/m06-whats-in-the-box.jpg",
+      "path": "assets/media/m06-whats-in-the-box.jpg",
+      "bytes": 207797,
+      "sha256": "142afb3b291fab0b892e4572ec319a84bc78e8dca336e90afcd6f6599ddbd76d"
+    },
+    {
+      "source": "assets/media/m07-setup-3-steps.jpg",
+      "path": "assets/media/m07-setup-3-steps.jpg",
+      "bytes": 205039,
+      "sha256": "a9c853dbc3f7855e5adc0ffb982a8a14816e5a167335a29f1004ddc53108291f"
+    },
+    {
+      "source": "assets/media/m08-before-you-buy.jpg",
+      "path": "assets/media/m08-before-you-buy.jpg",
+      "bytes": 230671,
+      "sha256": "c14a4c4094207e51e94b203eb530785826e6d8e00bd67e0d5f37c2fe0c024c13"
+    },
+    {
+      "source": "assets/media/m09-block-found.jpg",
+      "path": "assets/media/m09-block-found.jpg",
+      "bytes": 182315,
+      "sha256": "8b1f8b488e496286b2c0f57bf36a52bc4a53b8efa2e51695743deb92bf8e89a8"
+    },
+    {
+      "source": "assets/media/m10-three-words.jpg",
+      "path": "assets/media/m10-three-words.jpg",
+      "bytes": 166309,
+      "sha256": "52e256f9a21f2e607af326fe2fabdf4bf13e5d8d081d1f4fce05100dcc1edc38"
+    },
+    {
+      "source": "assets/media/m11-why-run-one.jpg",
+      "path": "assets/media/m11-why-run-one.jpg",
+      "bytes": 151634,
+      "sha256": "8945d4080570734dfbab9025acd4e9dade828366fc47743a31142cd863e7f8a8"
+    },
+    {
+      "source": "assets/media/m12-never-due.jpg",
+      "path": "assets/media/m12-never-due.jpg",
+      "bytes": 165092,
+      "sha256": "f5b771038d281d732750736a1d27426a0c358294f9048305a7d30e0c3845340b"
+    },
+    {
+      "source": "assets/media/m13-what-is-a-hash.jpg",
+      "path": "assets/media/m13-what-is-a-hash.jpg",
+      "bytes": 173103,
+      "sha256": "be72431f1336a2d37fc4f81e54e29b0690ad04f1738cbec46e217983537eeb29"
+    },
+    {
+      "source": "assets/media/m14-why-blockchain.jpg",
+      "path": "assets/media/m14-why-blockchain.jpg",
+      "bytes": 163081,
+      "sha256": "5cf753d3e614410c78cf5f1a0f043f3160c3478df8a92d240a818889ac5226df"
+    },
+    {
+      "source": "assets/media/m15-who-checks-miners.jpg",
+      "path": "assets/media/m15-who-checks-miners.jpg",
+      "bytes": 165856,
+      "sha256": "1da84ab66e2968c83080e18539a94f159d2c08e71239481221488b6df0d44c3f"
+    },
+    {
+      "source": "assets/media/m16-where-fees-go.jpg",
+      "path": "assets/media/m16-where-fees-go.jpg",
+      "bytes": 153873,
+      "sha256": "2e9d8205817dca5fb05cc0ad49111f33cb5d315cb820d7af7ee3f892b47cd5b3"
+    },
+    {
+      "source": "assets/media/m17-solo-pool.jpg",
+      "path": "assets/media/m17-solo-pool.jpg",
+      "bytes": 168289,
+      "sha256": "09f39d597740401f9e6f2d7e77665568e6427ce3147afc8a8bb2da333e4ceec8"
+    },
+    {
+      "source": "assets/media/m18-phone-mining.jpg",
+      "path": "assets/media/m18-phone-mining.jpg",
+      "bytes": 148352,
+      "sha256": "23382a6bda999d3e8ab3a33cd96b1dc244220a77f06d27d2156575b8ff8248aa"
+    },
+    {
+      "source": "assets/media/m19-inside-a-block.jpg",
+      "path": "assets/media/m19-inside-a-block.jpg",
+      "bytes": 151763,
+      "sha256": "eb8fbcce229a6097a4aa7078f043387448878329cd78bd4bd743e2d7a46c0bb8"
+    },
+    {
+      "source": "assets/media/m20-proof-of-work.jpg",
+      "path": "assets/media/m20-proof-of-work.jpg",
+      "bytes": 151845,
+      "sha256": "47c6a2b0c1a64bb274b851bcea0288de434b80fa792f9b9580f036619b67f64f"
+    },
+    {
+      "source": "assets/media/m21-same-time.jpg",
+      "path": "assets/media/m21-same-time.jpg",
+      "bytes": 158527,
+      "sha256": "824cbf20063dacb36fb46b5202f9a7a624e5a3ca5dd790957d18ac92e6952696"
+    },
+    {
+      "source": "assets/media/m22-blocks-per-day.jpg",
+      "path": "assets/media/m22-blocks-per-day.jpg",
+      "bytes": 208898,
+      "sha256": "0376bf855d5045bc0a321264bb08fba55af629001689f0090a24e8016e1062d3"
+    },
+    {
+      "source": "assets/media/original-distributor.jpg",
+      "path": "assets/media/original-distributor.jpg",
+      "bytes": 211831,
+      "sha256": "dddf9c80b99d0b8fab9d9b38de37488c62852932b9934dd94bc8842c43ddc28d"
+    },
+    {
+      "source": "assets/media/original-enthusiast.jpg",
+      "path": "assets/media/original-enthusiast.jpg",
+      "bytes": 230919,
+      "sha256": "70e14be12d70fdb882970b8a23fbe0aa5d6f6a65bc77408b35e97296ffab5508"
+    },
+    {
+      "source": "assets/media/r01-paper-block.jpg",
+      "path": "assets/media/r01-paper-block.jpg",
+      "bytes": 124606,
+      "sha256": "9cbd01a5d5dc84ed4aabf188fc1366001aa505ef9498f0d29ffff316859caf77"
+    },
+    {
+      "source": "assets/media/r02-paper-hash.jpg",
+      "path": "assets/media/r02-paper-hash.jpg",
+      "bytes": 154698,
+      "sha256": "779d99c61ac110f53a308c5c024d54cf4df84299613822af055073f79f245951"
+    },
+    {
+      "source": "assets/media/r03-paper-chain.jpg",
+      "path": "assets/media/r03-paper-chain.jpg",
+      "bytes": 107678,
+      "sha256": "10b0c750ba071095b0e99ccffff70c1a052dc794d42d33c37e05d6769dc69050"
+    },
+    {
+      "source": "assets/media/r04-paper-inside.jpg",
+      "path": "assets/media/r04-paper-inside.jpg",
+      "bytes": 135744,
+      "sha256": "8f61141a5c85d88fdaf87cd0b65f065c0cb99037b4e3bcf712d05920b5511a2f"
+    },
+    {
+      "source": "assets/media/r05-chalk-miners.jpg",
+      "path": "assets/media/r05-chalk-miners.jpg",
+      "bytes": 138512,
+      "sha256": "63dd9c78f14a4139b1e5a08d98db8e958405694ec436c8733db7a4a9013fb9c9"
+    },
+    {
+      "source": "assets/media/r06-chalk-shovel.jpg",
+      "path": "assets/media/r06-chalk-shovel.jpg",
+      "bytes": 129281,
+      "sha256": "578be9d1530074047f561946370019d7a1ae6e83159d4fdd4c703d37753bf8ca"
+    },
+    {
+      "source": "assets/media/r07-chalk-nodes.jpg",
+      "path": "assets/media/r07-chalk-nodes.jpg",
+      "bytes": 109497,
+      "sha256": "848bc3fd802e24955b12e681458fdd5077c5cb4a53823455791d17f5c32d1023"
+    },
+    {
+      "source": "assets/media/r08-chalk-proof.jpg",
+      "path": "assets/media/r08-chalk-proof.jpg",
+      "bytes": 151571,
+      "sha256": "44007c058680f31b8009b23611785631c18c1f4e2321f6bd2b136f4dd5d614d9"
+    },
+    {
+      "source": "assets/media/r09-editorial-time.jpg",
+      "path": "assets/media/r09-editorial-time.jpg",
+      "bytes": 127837,
+      "sha256": "1f2654725b1c19b81f9a8c1c4186d76aa09fc8abd1764baa19b38cde421dbb0f"
+    },
+    {
+      "source": "assets/media/r10-editorial-fees.jpg",
+      "path": "assets/media/r10-editorial-fees.jpg",
+      "bytes": 124323,
+      "sha256": "0e957e3db686281dbbe9472b1558f6832894bafe8145dd9ea7d44b037a24809c"
+    },
+    {
+      "source": "assets/media/r11-editorial-fork.jpg",
+      "path": "assets/media/r11-editorial-fork.jpg",
+      "bytes": 119770,
+      "sha256": "3aa0a8f114f045a15d9a6f8f219aece6633cfaa1684ab67a87f4a4f4520b5c4b"
+    },
+    {
+      "source": "assets/media/r12-editorial-day.jpg",
+      "path": "assets/media/r12-editorial-day.jpg",
+      "bytes": 203262,
+      "sha256": "9085d0183dffd74629ee8e44c3ba3f2015fb379ca52796f654644eab02f59b32"
+    },
+    {
+      "source": "assets/media/story-01-rewards.jpg",
+      "path": "assets/media/story-01-rewards.jpg",
+      "bytes": 163707,
+      "sha256": "dae8083e00f452af8860a59592eb09d0eb6ecd0aac31239568ba38c852ee4d32"
+    },
+    {
+      "source": "assets/media/story-02-block-rewards.jpg",
+      "path": "assets/media/story-02-block-rewards.jpg",
+      "bytes": 291487,
+      "sha256": "4f33f60d8d501ec3a373c28812d5d12d3195232f000eb61a9f6fdaa25d0111e2"
+    },
+    {
+      "source": "assets/media/story-03-myths.jpg",
+      "path": "assets/media/story-03-myths.jpg",
+      "bytes": 214215,
+      "sha256": "ecaf658d2e0528814d6f07df171710c27a1b7a1c55ba8dc40b9adcde778d4932"
+    },
+    {
+      "source": "assets/media/story-04-setup.jpg",
+      "path": "assets/media/story-04-setup.jpg",
+      "bytes": 214964,
+      "sha256": "5d60c191b68c5a071abeeec63c11bf294143ccf4cbbe32465e2572105fcb4908"
+    },
+    {
+      "source": "assets/media/story-05-coworker.jpg",
+      "path": "assets/media/story-05-coworker.jpg",
+      "bytes": 217894,
+      "sha256": "39127e993e020864a82df66ab19c2bfa76ef1abec251ad07715e79fb96dadca3"
+    },
+    {
+      "source": "assets/media/story-06-halving.jpg",
+      "path": "assets/media/story-06-halving.jpg",
+      "bytes": 174833,
+      "sha256": "021ff410cd7c10072a657c12fd7db447fce62a54c6c9a35c7682c50ba00a5042"
+    },
+    {
+      "source": "assets/media/story-07-history.jpg",
+      "path": "assets/media/story-07-history.jpg",
+      "bytes": 290498,
+      "sha256": "39e03af85588a601f1d38e5a2acbd80f00ed495c5d012c836a292554835470ff"
+    },
+    {
+      "source": "assets/media/story-08-shovels.jpg",
+      "path": "assets/media/story-08-shovels.jpg",
+      "bytes": 456762,
+      "sha256": "39a6354cdee7f6f3c178bbf11391c19e0e150b57591257b999ea5b17d5ad27d2"
+    },
+    {
+      "source": "assets/media/story-09-supplier.jpg",
+      "path": "assets/media/story-09-supplier.jpg",
+      "bytes": 197421,
+      "sha256": "b56a06547dfaaca6ca11b221e6cf567a739a06d34904b38244f58fdd64dcf325"
+    },
+    {
+      "source": "assets/media/story-10-headlines.jpg",
+      "path": "assets/media/story-10-headlines.jpg",
+      "bytes": 358546,
+      "sha256": "608ae40830b08819269ed040c0a100c7f8633f616e8f85b34a9696cd496c0529"
+    },
+    {
+      "source": "assets/media/story-11-gift.jpg",
+      "path": "assets/media/story-11-gift.jpg",
+      "bytes": 261149,
+      "sha256": "5332f87030813c30cf75a10d442796012319bd64636ec438937b9aae8ae4e827"
+    },
+    {
+      "source": "assets/media/story-12-gift-story.jpg",
+      "path": "assets/media/story-12-gift-story.jpg",
+      "bytes": 253691,
+      "sha256": "2893f279ebe8a4395009915677f88fec43b0f956cd51b4e55554e12a59bbefb8"
+    },
+    {
+      "source": "assets/media/story-c01-honest-review.jpg",
+      "path": "assets/media/story-c01-honest-review.jpg",
+      "bytes": 394913,
+      "sha256": "1c7fd28a7a853c4baf972cf8fec64e1214d4dbf682b3172200290b5c5ed0d0e2"
+    }
+  ]
+}
