@@ -1,11 +1,11 @@
 {
   "case": {
-    "title": "StarMiner 桌面比特币矿机",
-    "summary": "这里整理 StarMiner 项目相关的产品介绍、比特币 Solo 挖矿讲解与使用场景视频。可按主题浏览，查看原片及相应的字幕和配套文件。",
+    "title": "比特币矿机与 Solo 挖矿指南",
+    "summary": "涵盖桌面比特币矿机（Solo Miner）的产品介绍、挖矿原理、设置方法与日常使用，相关演示以 Bitaxe Gamma 601 为主。按主题浏览视频，查看原片及相应的字幕与配套资料。",
     "role": "",
     "scope": "",
     "results": "",
-    "credit": "项目资料",
+    "credit": "StarMiner 项目资料",
     "original": "视频原声为英语",
     "historical": "早期作品保留制作时的版本。规格、价格与奖励可能发生变化。",
     "caveat": "Solo 挖矿不保证获得奖励。原视频保留产品信息与 StarMiner 相关署名。"
