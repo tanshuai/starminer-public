@@ -32,6 +32,9 @@ for f in root.rglob('index.html'):
   assert set(check.alternates)==langcodes|{'x-default'},f
   title=re.search(r'<title>(.*?)</title>',text).group(1);titles[(check.lang,title)].append(url)
  pages[url]=check
+ playlist=re.search(r'<script type="application/json" id="playlist">(.*?)</script>',text)
+ if playlist:
+  entries=json.loads(playlist.group(1));assert all(x['id'] in {m['id'] for m in media} for x in entries)
  for s in re.findall(r'<script type="application/ld\+json">(.*?)</script>',text):
   schema=json.loads(s)
   if schema.get('@type')=='VideoObject':

@@ -64,7 +64,7 @@ def build(out, language_codes=None):
                 for m in members:
                     wp=gp+m['slug']+'/';fp=wp+'files/';mt=title(m,text);md=text['topics'][m['topic']][1]
                     rows+=f'<article class="video-row" data-search="{E(mt+" "+md,quote=True)}"><span class="number">{m["sequence"]:02}</span><div><a data-pick="{len(playlist)}" href="{local(code,wp)}">{E(mt)}</a><small>{E(md)}</small></div><time>{m["duration_s"]:.0f}s</time>{a(local(code,wp),ui["watch"]+' ↗')}</article>'
-                    playlist.append({'title':mt,'poster':m['poster'],'main':m['links']['main'],'no_music':m['links'].get('no_music'),'url':local(code,wp)})
+                    playlist.append({'id':m['id'],'title':mt,'poster':m['poster'],'main':m['links']['main'],'no_music':m['links'].get('no_music'),'url':local(code,wp)})
                     player=f'<section class="watch-player"><video id="video" controls playsinline preload="none" poster="{m["poster"]}" src="{E(m["links"]["main"],quote=True)}" data-case="{case["id"]}" data-media="{m["id"]}"></video><div class="actions">'+(f'<button data-audio-main="{E(m["links"]["main"],quote=True)}" data-audio-alt="{E(m["links"]["no_music"],quote=True)}" data-label-main="{E(ui["main"])}" data-label-alt="{E(ui["no_music"])}">{E(ui["no_music"])}</button>' if m['links'].get('no_music') else '')+a(m['links']['main'],ui['main']+' ↓','download')+'</div></section>'
                     source='<details class="transcript"><summary>'+E(ui['source'])+'</summary><div lang="en" dir="ltr">'+''.join('<p>'+E(t)+'</p>' for t in m['transcript'])+'</div></details>' if m['transcript'] else ''
                     pos=m['sequence']-1;near=[]
