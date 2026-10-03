@@ -38,6 +38,10 @@
     "alternate-cuts": [
       "Versi lain",
       "Suntingan lengkap lain disimpan untuk semakan."
+    ],
+    "hardware-desk-learning": [
+      "Hardware and Desk Learning",
+      "English educational films about mining concepts, hardware, privacy and observation methods, using manufacturer imagery and labeled illustrations."
     ]
   },
   "topics": {
@@ -200,6 +204,278 @@
     "product": [
       "Filem produk StarMiner",
       "Persembahan pelombong meja dan reka bentuk produk."
+    ],
+    "creator100-c001": [
+      "Why can an accepted share still not be a Bitcoin block?",
+      "A pool can accept work that meets its share target. The network checks a separate, harder target, plus the other block rules. So an accepted share is not proof of a new Bitcoin block. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c002": [
+      "Who actually sends a miner its next job?",
+      "The hashing hardware does not invent the whole job by itself. Mining software constructs work from a block template; a pool can provide that work. The hardware tries candidate headers and sends results back. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c003": [
+      "What happens when a miner runs out of nonce values?",
+      "The header nonce has a finite range of possible values. Mining software can change extra data in the coinbase transaction. That changes the Merkle root and creates a different header to try. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c004": [
+      "Does everyone have exactly the same waiting transactions?",
+      "A mempool is a node's local collection of unconfirmed transactions. Nodes can hear transactions at different times and use different acceptance policies. Two waiting lists can differ without there being two different Bitcoin systems. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c005": [
+      "Does a miner sign your transaction for you?",
+      "A wallet prepares the spending authorization for a transaction. Mining software can include valid transactions in a candidate block. Including your transaction does not mean signing it on your behalf. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c006": [
+      "Where does a wallet balance come from?",
+      "A wallet's balance can come from several unspent transaction outputs. Each output is a separate piece that can later be spent. The displayed total is a summary, not one digital coin sitting in a drawer. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c007": [
+      "Does a coinbase transaction mean the exchange?",
+      "In the protocol, a coinbase transaction is the special first transaction in a block. It can create the permitted block subsidy and collect transaction fees. That protocol term is separate from a company with the same name. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c008": [
+      "Can a newly created block reward be spent immediately?",
+      "A coinbase output has a maturity rule before it can be spent. Seeing an output in a block is different from being allowed to spend it. The protocol checks that condition; a screen cannot override it. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c009": [
+      "Why can a larger transaction need a different fee?",
+      "Transaction fees are often discussed as a rate per virtual byte. Data weight and payment value are different things. A larger payment does not automatically mean a heavier transaction. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c010": [
+      "Why does one payment sometimes create more than one output?",
+      "A transaction can spend an output and create several new outputs. One can go to the recipient, while another returns change to the sender. The remaining difference can be the fee; these are abstract pieces, not real funds. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c011": [
+      "Can you check one transaction without carrying the whole block?",
+      "A Merkle path combines one transaction hash with the necessary sibling hashes. The result can be checked against the root in a block header. That proves inclusion relative to that root, not that every other block rule is valid. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c012": [
+      "Does mining hardware hash every transaction on each attempt?",
+      "Bitcoin proof of work hashes the block header. The full transaction list is tied to that header through its Merkle root. A new attempt does not mean reading every transaction all over again. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c013": [
+      "Who chooses the transactions in a candidate block?",
+      "A block template can suggest transactions to mining software. The software assembles candidate contents under the relevant rules. Trying hashes and choosing those contents are different jobs; arrangements vary. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c014": [
+      "Is a mining job a coin, a file, or a message?",
+      "In classic Stratum, the pool sends structured messages about mining work. Those messages provide fields needed to construct candidate headers. A job message is not a coin arriving in a wallet. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c015": [
+      "Is there only one exact hash a miner must find?",
+      "The proof of work check compares a hash value with a target. A value that does not exceed the target passes that particular check. It does not need to match one unique secret string; other block rules still apply. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c016": [
+      "Can you validate a proof just by counting leading zeros?",
+      "Leading zeros can help draw the idea of a small hash value. But counting those zeros alone does not perform the full target comparison. Values can share a prefix and still fall on different sides of a target. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c017": [
+      "Can we demonstrate a block without pretending it happened on Bitcoin?",
+      "Regtest provides a separate environment for controlled Bitcoin experiments. A block in that sandbox is not a block on the public Bitcoin network. This animation only illustrates the separation; no node or live miner is running here. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c018": [
+      "Does every mining gadget need to store the whole blockchain?",
+      "Storing and validating chain data is one role. Trying candidate headers for proof of work is another. In a common setup, software and hashing hardware divide those tasks. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c019": [
+      "What information can receive bitcoin without spending it?",
+      "A receiving address lets someone direct a payment to a destination. A private key is a secret used to authorize spending. These have different roles; no real address or secret appears in this diagram. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c020": [
+      "Can a share target and a network target mean different things?",
+      "A pool's share target checks submitted work for its own accounting. Bitcoin's network target is a separate proof of work condition. A share can meet one without meeting the other; neither is a payment receipt. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c021": [
+      "What should you document before powering a delivered device?",
+      "Start with the package and visible condition, before changing anything. Keep a continuous arrival record; damage is not a plot twist to invent. Check the current instructions before connecting the unit. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c022": [
+      "Which instruction would you stop and read twice?",
+      "A confusing step is a question to clarify, not a reason to guess. Mark the exact sentence and match the document to the unit. That separates a reading problem from a product fault. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c023": [
+      "Could you identify the screen orientation before powering it?",
+      "Look at the actual display, stand, and external labels. A rotated close-up can change what seems obvious. Check the reference before calling a feature upside down. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c024": [
+      "How do you record the step where a first attempt slows down?",
+      "Keep the pause and the question in the original recording. Separate what happened from your explanation of why it happened. A smooth session does not need a fabricated problem. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c025": [
+      "What can a screen establish before setup is complete?",
+      "First distinguish a visible screen from a completed configuration. A frame alone does not establish which setup steps have happened. Keep the sequence and context with any screenshot. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c026": [
+      "How do you turn a setup question into a useful search?",
+      "Write the specific step and the missing information. Compare the answer with the current official instructions. A popular answer is not proof that it applies to this unit. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c027": [
+      "What does an online status actually prove?",
+      "An online label and a payment record answer different questions. Read what the status refers to before drawing a conclusion. Do not turn a connection indicator into evidence of a reward. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c028": [
+      "How would you check what survives a permitted restart?",
+      "Record the allowed settings before changing the session. Follow the current manual, then compare the same fields afterward. The comparison plan does not predict what this unit will retain. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c029": [
+      "What does a normal seated view reveal about readability?",
+      "A close-up and a seated view are different observations. Keep the viewing position and lighting in the record. Personal readability does not establish everyone's experience. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c030": [
+      "Can the controls be reached without moving the whole desk?",
+      "Trace the intended hand route before an actual demonstration. Keep cables and other objects visible in the wider frame. An illustrated route is not a completed usability test. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c031": [
+      "Can another adult follow an explanation without you taking over?",
+      "Let the person ask their real question and describe the next step. Keep their response instead of writing a flattering reaction. Consent and the original recording belong with the story. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c032": [
+      "How do you film a session so it can be checked later?",
+      "Keep a continuous take alongside the selected close-ups. Record the conditions, source ranges, and permitted edits. A short clip should still lead back to the actual event. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c033": [
+      "Can a connector's appearance tell you what it accepts?",
+      "A familiar shape is not a complete specification. Check the actual label against the current manufacturer instructions. Do not try a different supply just to make a dramatic clip. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c034": [
+      "What can visible cooling hardware tell you?",
+      "A close-up can show a physical fan or external structure. It does not establish temperature, power use, or cooling performance. Keep those questions separate from appearance. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c035": [
+      "Why is a dedicated hashing device different from a general computer?",
+      "A specialized task and a general collection of tasks have different roles. This diagram separates the jobs rather than rating the devices. It does not specify a particular chip's internal design. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c036": [
+      "What does a version label tell a reviewer?",
+      "A version label helps identify which description you are discussing. Keep that label with the corresponding instructions and recording. A larger label is not automatically a better result. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c037": [
+      "How do you distinguish a real terminal result from an animation?",
+      "Label the source: an actual recording or an illustrated example. Keep the code and inputs behind a real computation. A drawn output is useful only when its role is clear. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c038": [
+      "If you hash exactly the same bytes again, does the result change?",
+      "With the same hash algorithm, exactly the same input gives the same result. Changing the input is a different experiment. Our diagram illustrates the comparison without inventing a device reading. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c039": [
+      "Can a device contain different kinds of jobs?",
+      "Controlling a task and performing its calculation are different roles. A general role diagram can help explain that separation. The actual implementation still needs product evidence. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c040": [
+      "What should you record before an allowed setting change?",
+      "Identify the permitted field and its original state in a private record. Keep sensitive information out of the public clip. Record the changed condition separately from any observed result. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c041": [
+      "Why keep the cable route visible in a desk demonstration?",
+      "The route helps show where the cable meets the connector. A cropped shot can hide a sideways load or an obstruction. This is a static layout illustration, not a destructive pull test. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c042": [
+      "Do two matching status views prove a measurement is right?",
+      "First establish what each view reports and when it was captured. Matching labels alone do not establish an independent measurement. Keep an unexplained difference as a question, not a guessed fault. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c043": [
+      "Can two screen recordings look simultaneous when they are not?",
+      "An edit can place frames side by side without matching capture times. Keep the original timestamps and sequence with the comparison. This illustrates observation timing, not a device refresh specification. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c044": [
+      "What cannot be concluded from a pretty hardware close-up?",
+      "A surface view is evidence of what is visible in that view. It does not establish internal design, qualification, or measured performance. List those as separate questions instead of filling the gaps. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c045": [
+      "Can Wi-Fi be connected while a service is unreachable?",
+      "A local wireless connection and access to a remote service are separate checks. Keep the route through the network visible in the explanation. This is a general diagram, not a recorded fault on this unit. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c046": [
+      "How would you document recovery after a permitted router restart?",
+      "Record the original connection state and the session conditions. Then document the actual sequence under the approved instructions. Do not promise a recovery behavior before observing it. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c047": [
+      "What personal detail can hide in a Wi-Fi name?",
+      "A chosen network name can contain a person's name or location clue. Review the text before showing it in a public recording. Our example is illustrated, with no real neighbor's network shown. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c048": [
+      "What could a QR code in a video reveal?",
+      "A code can carry information that is not obvious from its pattern. Establish the purpose before including a readable code in a public clip. This diagram contains no real account or setup code. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c049": [
+      "Which private fields should disappear from a public screenshot?",
+      "Check network identifiers and associations with receiving information separately. An edit that hides one field can leave another exposed. Use illustrated examples while explaining the review method. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c050": [
+      "What would you verify before demonstrating on a guest network?",
+      "Check the current network requirements and the permitted environment. A guest label does not establish the services a connection can reach. Document an actual reachability check before claiming a result. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c051": [
+      "Does a receiving address reveal control of a spending key?",
+      "Receiving information and secret spending authority have different roles. Knowing an address does not by itself establish who holds a private key. No actual key or account appears in this illustration. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c056": [
+      "What would a desk demonstration show inside a video-call frame?",
+      "A wide desk view and a camera crop include different information. Check what remains visible at the frame edges. This is an illustrated crop, with no real meeting recorded. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c065": [
+      "What did unwanted email have to do with proof of work?",
+      "Hashcash was described as proof of work for resisting unwanted email. The Bitcoin paper refers to a Hashcash style system in its proof of work section. An idea can move between problems; that does not make the two systems identical. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c073": [
+      "Can microphone placement change a recorded sound?",
+      "Distance, direction, and recording gain belong with a sound comparison. Keep those conditions fixed or report the change. This illustration does not measure the product's sound level. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c082": [
+      "What happens when someone asks how you know that?",
+      "Point to the original source or the actual observation. Separate what it establishes from what remains unknown. A confident voice is not an extra piece of evidence. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c090": [
+      "Where does a paper model stop matching a computer system?",
+      "A paper block is useful because you can move it and point at its parts. But it cannot execute validation rules, reproduce timing, or protect a private key. That is three boundaries of this teaching model, not three defects in Bitcoin. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c099": [
+      "Does a week on a desk establish a week of operation?",
+      "Calendar time and observed runtime are different records. Keep session evidence rather than filling the gaps with an assumption. A timeline illustration is not a claim of continuous use. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c052": [
+      "Does a familiar-looking service name prove it is genuine?",
+      "A familiar appearance is a reason to check the source, not a verification result. Match any configuration with current official instructions. Do not guess a different destination. Use the approved one. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c053": [
+      "What changes when the internet route disappears but power remains?",
+      "Power and connectivity are different conditions. A connection diagram cannot establish what a particular unit does offline. Document the actual state before making a runtime claim. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c054": [
+      "What evidence makes a support question easier to answer?",
+      "Describe the step, the observed state, and when it happened. Match the version and instructions while keeping private fields redacted. A useful question separates the observation from a guessed cause. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c055": [
+      "Can a desk object be a focal point or part of the background?",
+      "Watch how framing and nearby objects change the visual emphasis. These are edited compositions, not a test of attention or productivity. An attractive picture does not establish a functional improvement. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c057": [
+      "How would you record attention during a desk session?",
+      "Decide what counts as an observation before writing the log. Keep actual moments rather than inventing a count afterward. A proposed log is not evidence of better focus. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c058": [
+      "How would you compare a display in an evening room?",
+      "Keep the viewing position and recording conditions with the image. Camera exposure is part of that context. An edited picture does not establish brightness or a sleep effect. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c059": [
+      "What would you ask before adding equipment to a shared desk?",
+      "Ask about the shared space, recording permission, and private information. Keep the person's actual response rather than inventing agreement. An illustrated conversation is not a real endorsement. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c060": [
+      "What belongs in a safe demonstration space?",
+      "Follow the current instructions for placement and the permitted setup. Keep the working area and cable route visible. A drawn layout does not establish a universal minimum size. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c061": [
+      "Does a nicer desk layout make a stronger product claim?",
+      "Moving background objects can change the picture. It does not by itself establish a change in device performance. Separate the styling decision from anything actually measured. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c062": [
+      "What would you check before leaving a device session?",
+      "Use the current instructions rather than a generic desk checklist. Record the permitted conditions and any unanswered question. An illustration cannot certify unattended operation. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c063": [
+      "Which object should lead the story in a desk shot?",
+      "Choose the object that helps answer this video's question. Foreground placement is a storytelling choice, not a product ranking. Keep the context objects useful rather than building a shopping list. English educational edition with manufacturer imagery and labeled illustrations."
     ]
   }
 }
