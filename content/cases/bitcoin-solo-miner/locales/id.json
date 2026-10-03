@@ -1,14 +1,14 @@
 {
   "case": {
-    "title": "Pengembangan penambang Bitcoin solo",
-    "summary": "Penambangan Bitcoin di meja yang lebih mudah dipahami. Pengembangan produk dan komunikasi untuk perangkat penambangan solo, dengan StarMiner sebagai klien pilihan.",
-    "role": "Saya salah satu pengembang produk penambang Bitcoin solo. Proyek ini menyatukan cerita perangkat keras dan konten yang dibuat di sekitarnya.",
-    "scope": "Film produk, penjelasan Bitcoin yang jelas, panduan pengaturan, serta materi untuk pembeli dan dealer. Bitaxe Gamma 601 ditampilkan pada karya terkait.",
-    "results": "Perpustakaan video lengkap dengan halaman tontonan tersendiri, takarir asli, dan berkas penyerahan untuk tinjauan cepat serta penemuan lewat pencarian.",
-    "credit": "Klien pilihan · StarMiner",
+    "title": "Panduan Miner Bitcoin dan Solo Mining",
+    "summary": "Pengenalan produk, prinsip penambangan, pengaturan, dan penggunaan sehari-hari miner Bitcoin desktop, dengan demonstrasi yang terutama menggunakan Bitaxe Gamma 601. Jelajahi video berdasarkan topik serta akses berkas asli, takarir yang tersedia, dan materi pendukung.",
+    "role": "",
+    "scope": "",
+    "results": "",
+    "credit": "Materi proyek StarMiner",
     "original": "Video asli berbahasa Inggris",
     "historical": "Versi lama dipertahankan seperti saat dibuat. Spesifikasi, harga, dan imbalan dapat berubah.",
-    "caveat": "Penambangan solo tidak menjamin imbalan. StarMiner adalah klien pilihan; keterangan produk dan kerja sama tetap ada dalam video asli."
+    "caveat": "Solo mining tidak menjamin imbalan. Video asli tetap memuat informasi produk dan kredit StarMiner."
   },
   "collections": {
     "desk-miner-101": [

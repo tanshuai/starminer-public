@@ -1,14 +1,14 @@
 {
   "case": {
-    "title": "Rozwój koparek Bitcoin do kopania solo",
-    "summary": "Kopanie Bitcoin na biurku, łatwiejsze do zrozumienia. Rozwój produktów i komunikacja dla sprzętu do kopania solo, ze StarMiner jako wybranym klientem.",
-    "role": "Jestem jednym z twórców produktów do kopania Bitcoin solo. Projekt łączy historię sprzętu z treściami przygotowanymi wokół niego.",
-    "scope": "Filmy produktowe, jasne wyjaśnienia kopania Bitcoin, instrukcje konfiguracji i materiały dla kupujących oraz dealerów. W odpowiednich pracach pokazano Bitaxe Gamma 601.",
-    "results": "Pełna biblioteka z osobnymi stronami odtwarzania, oryginalnymi napisami i plikami końcowymi, do szybkiego przeglądu i wyszukiwania publicznego.",
-    "credit": "Wybrany klient · StarMiner",
+    "title": "Koparki Bitcoin i poradniki solo miningu",
+    "summary": "Prezentacje produktów, zasady kopania, konfiguracja i codzienne używanie biurkowych koparek Bitcoin. Demonstracje dotyczą głównie Bitaxe Gamma 601. Przeglądaj filmy według tematów i korzystaj z oryginalnych plików, dostępnych napisów oraz materiałów uzupełniających.",
+    "role": "",
+    "scope": "",
+    "results": "",
+    "credit": "Materiały projektu StarMiner",
     "original": "Oryginalny film jest po angielsku",
     "historical": "Wcześniejsze wersje zachowano w oryginalnej postaci. Specyfikacje, ceny i nagrody mogą się zmieniać.",
-    "caveat": "Kopanie solo nie gwarantuje nagród. StarMiner jest wybranym klientem; informacje o produkcie i współpracy pozostają w oryginalnych filmach."
+    "caveat": "Solo mining nie gwarantuje nagród. Oryginalne filmy zachowują informacje o produkcie i oznaczenia StarMiner."
   },
   "collections": {
     "desk-miner-101": [

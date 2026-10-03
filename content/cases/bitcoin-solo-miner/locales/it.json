@@ -1,14 +1,14 @@
 {
   "case": {
-    "title": "Sviluppo di miner Bitcoin per mining solo",
-    "summary": "Mining Bitcoin sulla scrivania, più facile da capire. Sviluppo di prodotto e comunicazione per hardware di mining solo, con StarMiner come cliente selezionato.",
-    "role": "Sono uno degli sviluppatori di prodotti per il mining Bitcoin solo. Questo progetto unisce la storia dell'hardware ai contenuti realizzati intorno al prodotto.",
-    "scope": "Film di prodotto, spiegazioni chiare sul mining Bitcoin, guide alla configurazione e materiali per acquirenti e rivenditori. Bitaxe Gamma 601 compare nei lavori pertinenti.",
-    "results": "Una libreria completa con pagine di visione individuali, sottotitoli originali e file consegnati, organizzata per revisioni rapide e ricerca pubblica.",
-    "credit": "Cliente selezionato · StarMiner",
+    "title": "Miner Bitcoin e guide al solo mining",
+    "summary": "Presentazioni dei prodotti, principi di mining, configurazione e uso quotidiano dei miner Bitcoin da scrivania, con dimostrazioni soprattutto su Bitaxe Gamma 601. Esplora i video per argomento e consulta i file originali, i sottotitoli disponibili e i materiali di supporto.",
+    "role": "",
+    "scope": "",
+    "results": "",
+    "credit": "Materiali del progetto StarMiner",
     "original": "Video originale in inglese",
     "historical": "Le edizioni precedenti restano come sono state prodotte. Specifiche, prezzi e ricompense possono cambiare.",
-    "caveat": "Il mining solo non garantisce ricompense. StarMiner è un cliente selezionato; i crediti di prodotto e collaborazione restano nei video originali."
+    "caveat": "Il solo mining non garantisce ricompense. I video originali conservano le informazioni sui prodotti e i riferimenti a StarMiner."
   },
   "collections": {
     "desk-miner-101": [

@@ -1,14 +1,14 @@
 {
   "case": {
-    "title": "Desenvolvimento de mineradores Bitcoin solo",
-    "summary": "Mineração Bitcoin na mesa, mais fácil de entender. Desenvolvimento de produtos e comunicação para equipamentos de mineração solo, com StarMiner como cliente em destaque.",
-    "role": "Sou um dos desenvolvedores de produtos de mineração Bitcoin solo. Este caso reúne a história do hardware e o conteúdo criado em torno dele.",
-    "scope": "Filmes de produto, explicações claras sobre mineração Bitcoin, guias de configuração e material para compradores e revendedores. Bitaxe Gamma 601 aparece nas peças relevantes.",
-    "results": "Uma biblioteca completa com páginas individuais de reprodução, legendas originais e arquivos de entrega, organizada para revisão rápida e descoberta pública.",
-    "credit": "Cliente em destaque · StarMiner",
+    "title": "Mineradores Bitcoin e guias de mineração solo",
+    "summary": "Apresentações de produto, conceitos de mineração, configuração e uso diário de mineradores Bitcoin de mesa, com demonstrações principalmente do Bitaxe Gamma 601. Explore os vídeos por tema e acesse os arquivos originais, as legendas disponíveis e os materiais de apoio.",
+    "role": "",
+    "scope": "",
+    "results": "",
+    "credit": "Materiais do projeto StarMiner",
     "original": "Vídeo original em inglês",
     "historical": "As versões anteriores são preservadas como foram produzidas. Especificações, preços e recompensas podem mudar.",
-    "caveat": "A mineração solo não garante recompensas. StarMiner é um cliente em destaque; os créditos do produto e da parceria permanecem nos vídeos originais."
+    "caveat": "A mineração solo não garante recompensas. Os vídeos originais preservam as informações do produto e os créditos da StarMiner."
   },
   "collections": {
     "desk-miner-101": [

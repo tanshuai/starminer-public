@@ -1,14 +1,14 @@
 {
   "case": {
-    "title": "Bitcoin Solo Madenci Geliştirme",
-    "summary": "Masaüstü Bitcoin madenciliğini anlaşılır kılmak. Solo madencilik donanımı için ürün geliştirme ve iletişim; seçilmiş müşteri StarMiner.",
-    "role": "Bitcoin solo madenci ürünlerinin geliştiricilerinden biriyim. Bu proje donanımın hikâyesiyle onun etrafında hazırlanan içerikleri birleştirir.",
-    "scope": "Ürün filmleri, açık Bitcoin madenciliği anlatımları, kurulum rehberleri ve alıcılarla bayiler için materyaller. İlgili çalışmalarda Bitaxe Gamma 601 yer alır.",
-    "results": "Ayrı izleme sayfaları, özgün altyazılar ve teslim dosyaları içeren tam video kitaplığı; hızlı müşteri incelemesi ve aramalarda keşif için düzenlenmiştir.",
-    "credit": "Seçilmiş müşteri · StarMiner",
+    "title": "Bitcoin Madencileri ve Solo Madencilik Rehberleri",
+    "summary": "Masaüstü Bitcoin madencileri için ürün tanıtımları, madencilik temelleri, kurulum ve günlük kullanım bilgileri. Gösterimlerde ağırlıklı olarak Bitaxe Gamma 601 kullanılır. Videoları konularına göre inceleyin; özgün dosyalara, mevcut altyazılara ve ek materyallere erişin.",
+    "role": "",
+    "scope": "",
+    "results": "",
+    "credit": "StarMiner proje kaynakları",
     "original": "Özgün video İngilizcedir",
     "historical": "Önceki sürümler üretildikleri haliyle korunur. Özellikler, fiyatlar ve ödüller değişebilir.",
-    "caveat": "Solo madencilik ödülü garanti etmez. StarMiner seçilmiş bir müşteridir; ürün ve iş birliği bilgileri özgün videolarda korunur."
+    "caveat": "Solo madencilik ödül kazanmayı garanti etmez. Özgün videolarda ürün bilgileri ve StarMiner atıfları korunur."
   },
   "collections": {
     "desk-miner-101": [

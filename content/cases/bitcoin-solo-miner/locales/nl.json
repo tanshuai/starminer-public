@@ -1,14 +1,14 @@
 {
   "case": {
-    "title": "Ontwikkeling van Bitcoin solo-miners",
-    "summary": "Bitcoin-mining op het bureau begrijpelijk gemaakt. Productontwikkeling en communicatie voor solo-mininghardware, met StarMiner als uitgelichte klant.",
-    "role": "Ik ben een van de ontwikkelaars van Bitcoin solo-minerproducten. Dit project brengt het hardwareverhaal en de bijbehorende inhoud samen.",
-    "scope": "Productfilms, heldere uitleg over Bitcoin-mining, installatiegidsen en materiaal voor kopers en dealers. Bitaxe Gamma 601 komt in relevante werken aan bod.",
-    "results": "Een complete videobibliotheek met afzonderlijke kijkpagina's, oorspronkelijke ondertitels en leverbestanden, voor snelle beoordeling en openbare vindbaarheid.",
-    "credit": "Uitgelichte klant · StarMiner",
+    "title": "Bitcoinminers en gidsen voor solomining",
+    "summary": "Productintroducties, miningprincipes, installatie en dagelijks gebruik van Bitcoinminers voor op het bureau, met demonstraties vooral op de Bitaxe Gamma 601. Bekijk video's per onderwerp en open de originele bestanden, beschikbare ondertitels en aanvullende materialen.",
+    "role": "",
+    "scope": "",
+    "results": "",
+    "credit": "Materiaal van het StarMiner-project",
     "original": "Oorspronkelijke video in het Engels",
     "historical": "Eerdere versies blijven bewaard zoals ze zijn gemaakt. Specificaties, prijzen en beloningen kunnen veranderen.",
-    "caveat": "Solo-mining garandeert geen beloning. StarMiner is een uitgelichte klant; product- en samenwerkingsvermeldingen blijven in de oorspronkelijke video's staan."
+    "caveat": "Solomining garandeert geen beloningen. De originele video's behouden productinformatie en verwijzingen naar StarMiner."
   },
   "collections": {
     "desk-miner-101": [

@@ -1,14 +1,14 @@
 {
   "case": {
-    "title": "Développement de mineurs Bitcoin pour le minage solo",
-    "summary": "Le minage Bitcoin sur un bureau, plus facile à comprendre. Développement de produits et communication pour le matériel de minage solo, avec StarMiner comme client à l'honneur.",
-    "role": "Je suis l'un des développeurs de produits de minage Bitcoin solo. Ce projet réunit l'histoire du matériel et les contenus créés autour de lui.",
-    "scope": "Films de produit, explications claires du minage Bitcoin, guides de configuration et supports pour acheteurs et revendeurs. Le Bitaxe Gamma 601 figure dans les contenus concernés.",
-    "results": "Une bibliothèque complète avec pages de lecture individuelles, sous-titres originaux et fichiers livrés, organisée pour un examen rapide et une découverte publique.",
-    "credit": "Client à l'honneur · StarMiner",
+    "title": "Mineurs Bitcoin et guides du minage en solo",
+    "summary": "Présentations de produits, principes du minage, configuration et utilisation quotidienne des mineurs Bitcoin de bureau, principalement à travers le Bitaxe Gamma 601. Parcourez les vidéos par thème et accédez aux fichiers originaux, aux sous-titres disponibles et aux documents associés.",
+    "role": "",
+    "scope": "",
+    "results": "",
+    "credit": "Ressources du projet StarMiner",
     "original": "Vidéo originale en anglais",
     "historical": "Les anciennes versions sont conservées telles qu'elles ont été produites. Caractéristiques, prix et récompenses peuvent évoluer.",
-    "caveat": "Le minage solo ne garantit aucune récompense. StarMiner est un client à l'honneur ; les crédits du produit et du partenariat restent dans les vidéos originales."
+    "caveat": "Le minage en solo ne garantit aucune récompense. Les vidéos originales conservent les informations produit et les mentions de StarMiner."
   },
   "collections": {
     "desk-miner-101": [

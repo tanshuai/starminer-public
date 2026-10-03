@@ -1,14 +1,14 @@
 {
   "case": {
-    "title": "Phát triển máy đào Bitcoin solo",
-    "summary": "Đào Bitcoin trên bàn làm việc, dễ hiểu hơn. Phát triển sản phẩm và truyền thông cho phần cứng đào solo, với StarMiner là khách hàng tiêu biểu.",
-    "role": "Tôi là một trong những nhà phát triển sản phẩm máy đào Bitcoin solo. Dự án này kết hợp câu chuyện phần cứng với nội dung được tạo quanh sản phẩm.",
-    "scope": "Phim sản phẩm, giải thích rõ về đào Bitcoin, hướng dẫn thiết lập và tài liệu cho người mua, đại lý. Bitaxe Gamma 601 xuất hiện trong các tác phẩm liên quan.",
-    "results": "Thư viện video đầy đủ với trang xem riêng, phụ đề gốc và tệp bàn giao, giúp khách hàng xem nhanh và công chúng tìm thấy qua tìm kiếm.",
-    "credit": "Khách hàng tiêu biểu · StarMiner",
+    "title": "Máy đào Bitcoin và hướng dẫn đào solo",
+    "summary": "Giới thiệu sản phẩm, nguyên lý đào, cách thiết lập và sử dụng hằng ngày của máy đào Bitcoin để bàn, với các phần minh họa chủ yếu dùng Bitaxe Gamma 601. Xem video theo chủ đề và truy cập bản gốc, phụ đề có sẵn cùng tài liệu đi kèm.",
+    "role": "",
+    "scope": "",
+    "results": "",
+    "credit": "Tài liệu dự án StarMiner",
     "original": "Video gốc bằng tiếng Anh",
     "historical": "Các phiên bản cũ được giữ nguyên như lúc sản xuất. Thông số, giá và phần thưởng có thể thay đổi.",
-    "caveat": "Đào solo không đảm bảo phần thưởng. StarMiner là khách hàng tiêu biểu; thông tin sản phẩm và hợp tác vẫn được giữ trong video gốc."
+    "caveat": "Đào solo không đảm bảo nhận được phần thưởng. Video gốc giữ nguyên thông tin sản phẩm và ghi nhận StarMiner."
   },
   "collections": {
     "desk-miner-101": [

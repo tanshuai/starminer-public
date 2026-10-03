@@ -1,14 +1,14 @@
 {
   "case": {
-    "title": "Pagbuo ng Bitcoin solo miner",
-    "summary": "Bitcoin mining sa mesa na mas madaling maunawaan. Pagbuo ng produkto at komunikasyon para sa solo-mining hardware, kasama ang StarMiner bilang piling kliyente.",
-    "role": "Isa ako sa mga developer ng Bitcoin solo-miner na produkto. Pinagsasama ng proyektong ito ang kuwento ng hardware at ang nilalamang ginawa tungkol dito.",
-    "scope": "Mga product film, malinaw na paliwanag ng Bitcoin mining, gabay sa setup, at materyal para sa mamimili at dealer. Tampok ang Bitaxe Gamma 601 sa mga kaugnay na gawa.",
-    "results": "Kumpletong video library na may hiwalay na watch page, orihinal na subtitle, at delivery file, para sa mabilis na pagrepaso at paghahanap ng publiko.",
-    "credit": "Piling kliyente · StarMiner",
+    "title": "Mga Bitcoin Miner at Gabay sa Solo Mining",
+    "summary": "Mga pagpapakilala sa produkto, konsepto ng pagmimina, pag-setup at pang-araw-araw na paggamit ng desktop Bitcoin miner, na pangunahing ipinapakita sa Bitaxe Gamma 601. Mag-browse ng mga video ayon sa paksa at tingnan ang orihinal na mga file, available na subtitle at kaugnay na materyales.",
+    "role": "",
+    "scope": "",
+    "results": "",
+    "credit": "Mga materyal ng proyektong StarMiner",
     "original": "Ang orihinal na video ay nasa Ingles",
     "historical": "Pinananatili ang mga naunang bersiyon ayon sa pagkakagawa. Maaaring magbago ang detalye, presyo, at gantimpala.",
-    "caveat": "Hindi ginagarantiya ng solo mining ang gantimpala. Piling kliyente ang StarMiner; nananatili sa mga orihinal na video ang pagkilala sa produkto at pakikipagtulungan."
+    "caveat": "Hindi ginagarantiya ng solo mining ang gantimpala. Nananatili sa mga orihinal na video ang impormasyon ng produkto at pagkilala sa StarMiner."
   },
   "collections": {
     "desk-miner-101": [

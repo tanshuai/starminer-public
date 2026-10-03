@@ -1,14 +1,14 @@
 {
   "case": {
-    "title": "比特幣 Solo 礦機開發",
-    "summary": "讓桌面比特幣挖礦更容易理解。圍繞 Solo 挖礦硬體的產品開發與內容傳播，StarMiner 是我們的精選客戶。",
-    "role": "我是比特幣 Solo 礦機產品的開發者之一。這個案例展示相關硬體的產品故事，以及圍繞它製作的內容。",
-    "scope": "產品影片、清楚的比特幣挖礦講解、設定指南，以及面向買家和經銷商的素材。相關作品展示 Bitaxe Gamma 601。",
-    "results": "完整的影片庫：獨立播放頁面、原始字幕與交付檔案，方便客戶快速審閱，也方便大眾發現。",
-    "credit": "精選客戶 · StarMiner",
+    "title": "比特幣礦機與 Solo 挖礦指南",
+    "summary": "涵蓋桌面比特幣礦機（Solo Miner）的產品介紹、挖礦原理、設定方法與日常使用，相關示範以 Bitaxe Gamma 601 為主。依主題瀏覽影片，查看原片及相應的字幕與配套資料。",
+    "role": "",
+    "scope": "",
+    "results": "",
+    "credit": "StarMiner 專案資料",
     "original": "影片原聲為英語",
     "historical": "早期作品保留製作時的版本。規格、價格與獎勵可能改變。",
-    "caveat": "Solo 挖礦不保證獲得獎勵。StarMiner 是精選客戶；產品與合作資訊保留在原影片中。"
+    "caveat": "Solo 挖礦不保證獲得獎勵。原影片保留產品資訊與 StarMiner 相關署名。"
   },
   "collections": {
     "desk-miner-101": [

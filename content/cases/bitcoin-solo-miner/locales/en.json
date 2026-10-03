@@ -1,14 +1,14 @@
 {
   "case": {
-    "title": "Bitcoin Solo Miner Development",
-    "summary": "Desktop Bitcoin mining, made easier to understand. Product development and communication for solo-mining hardware, with StarMiner as a selected client.",
-    "role": "I am one of the developers of Bitcoin solo-miner products. This case brings together the hardware story and the content created around it.",
-    "scope": "Product films, clear explanations of Bitcoin mining, setup guides and material for buyers and dealers. Bitaxe Gamma 601 is featured where relevant.",
-    "results": "A complete video library with individual watch pages, original subtitles and delivery files, organized for quick client review and public discovery.",
-    "credit": "Selected client · StarMiner",
+    "title": "Bitcoin Miners & Solo Mining Guides",
+    "summary": "Product introductions, mining concepts, setup and everyday use for desktop Bitcoin miners (solo miners), with demonstrations mainly featuring the Bitaxe Gamma 601. Browse videos by topic and access the original files, available subtitles and supporting materials.",
+    "role": "",
+    "scope": "",
+    "results": "",
+    "credit": "StarMiner project resources",
     "original": "Original video in English",
     "historical": "Earlier editions are preserved as produced. Specifications, prices and rewards may change.",
-    "caveat": "Solo mining does not guarantee rewards. StarMiner is a selected client; product and partnership credits remain in the original videos."
+    "caveat": "Solo mining does not guarantee rewards. Original videos retain product information and StarMiner credits."
   },
   "collections": {
     "desk-miner-101": [

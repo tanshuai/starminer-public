@@ -1,14 +1,14 @@
 {
   "case": {
-    "title": "Desarrollo de mineros Bitcoin para minería en solitario",
-    "summary": "Minería Bitcoin de escritorio, más fácil de entender. Desarrollo de productos y comunicación para equipos de minería en solitario, con StarMiner como cliente destacado.",
-    "role": "Soy uno de los desarrolladores de productos de minería Bitcoin en solitario. Este proyecto reúne la historia del hardware y el contenido creado a su alrededor.",
-    "scope": "Vídeos de producto, explicaciones claras de minería Bitcoin, guías de configuración y material para compradores y distribuidores. Bitaxe Gamma 601 aparece en las piezas correspondientes.",
-    "results": "Una biblioteca completa con páginas de reproducción individuales, subtítulos originales y archivos de entrega, organizada para la revisión rápida y el descubrimiento público.",
-    "credit": "Cliente destacado · StarMiner",
+    "title": "Mineros Bitcoin y guías de minería en solitario",
+    "summary": "Presentaciones de producto, conceptos de minería, configuración y uso diario de mineros Bitcoin de escritorio, con demostraciones centradas principalmente en Bitaxe Gamma 601. Explora los vídeos por tema y accede a los archivos originales, los subtítulos disponibles y el material complementario.",
+    "role": "",
+    "scope": "",
+    "results": "",
+    "credit": "Recursos del proyecto StarMiner",
     "original": "Vídeo original en inglés",
     "historical": "Las versiones anteriores se conservan tal como se produjeron. Las especificaciones, los precios y las recompensas pueden cambiar.",
-    "caveat": "La minería en solitario no garantiza recompensas. StarMiner es un cliente destacado; los créditos del producto y de la colaboración se conservan en los vídeos originales."
+    "caveat": "La minería en solitario no garantiza recompensas. Los vídeos originales conservan la información del producto y los créditos de StarMiner."
   },
   "collections": {
     "desk-miner-101": [
