@@ -5276,6 +5276,35 @@
     "historical": false
   },
   {
+    "id": "creator100-c064",
+    "slug": "c064-what-should-guide-a-device-s-desk-cleaning-routine",
+    "group": "hardware-desk-learning",
+    "duration_s": 20.6,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c064.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c064_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c064.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c064_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c064_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "What should guide a device's desk-cleaning routine?",
+      "Check the current manufacturer's instructions for handling and storage.",
+      "Keep the routine within what those instructions permit.",
+      "A styled scene is not a cleaning or water-resistance test.",
+      "Do not invent care advice for StarMiner Solo Miner.",
+      "Solo mining does not guarantee rewards.",
+      "Which instruction would you verify first?"
+    ],
+    "poster": "/assets/media/creator100-c064.jpg",
+    "upload_date": "2026-10-03T16:55:19Z",
+    "original_language": "en",
+    "topic": "creator100-c064",
+    "show_edition": false,
+    "historical": false
+  },
+  {
     "id": "creator100-c065",
     "slug": "c065-what-did-unwanted-email-have-to-do-with-proof-of-work",
     "group": "hardware-desk-learning",
@@ -5301,6 +5330,122 @@
     "upload_date": "2026-10-03T16:07:16Z",
     "original_language": "en",
     "topic": "creator100-c065",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "creator100-c066",
+    "slug": "c066-how-did-people-prove-a-digital-document-existed-earlier",
+    "group": "hardware-desk-learning",
+    "duration_s": 28.4,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c066.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c066_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c066.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c066_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c066_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "How did people prove a digital document existed earlier?",
+      "A digital timestamp asks whether data can be shown to have existed earlier.",
+      "The Bitcoin paper cites earlier work on timestamping digital documents.",
+      "Its hash linked timestamp explanation is a specific design, not a claim about every clock.",
+      "StarMiner Solo Miner is a modern example; it did not invent that earlier research.",
+      "Solo mining does not guarantee rewards.",
+      "What would a timestamp still fail to tell you?"
+    ],
+    "poster": "/assets/media/creator100-c066.jpg",
+    "upload_date": "2026-10-03T16:55:24Z",
+    "original_language": "en",
+    "topic": "creator100-c066",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "creator100-c067",
+    "slug": "c067-did-bitcoin-invent-the-hash-function-it-uses",
+    "group": "hardware-desk-learning",
+    "duration_s": 26.2333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c067.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c067_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c067.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c067_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c067_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Did Bitcoin invent the hash function it uses?",
+      "SHA is a family of hash algorithms described in a public standard.",
+      "The Bitcoin paper describes using SHA-256 for proof of work.",
+      "Using a standard algorithm is different from inventing that algorithm.",
+      "StarMiner Solo Miner is part of the mining context; the hash standard is not a product invention.",
+      "Solo mining does not guarantee rewards.",
+      "Which standard hides inside another everyday device?"
+    ],
+    "poster": "/assets/media/creator100-c067.jpg",
+    "upload_date": "2026-10-03T16:55:30Z",
+    "original_language": "en",
+    "topic": "creator100-c067",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "creator100-c068",
+    "slug": "c068-does-publishing-a-design-mean-a-network-is-already-running",
+    "group": "hardware-desk-learning",
+    "duration_s": 25.9667,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c068.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c068_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c068.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c068_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c068_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Does publishing a design mean a network is already running?",
+      "A paper describes a system; a running network needs working implementations.",
+      "Finding a design document does not prove when a particular device or network was operating.",
+      "Keep publication evidence separate from runtime evidence.",
+      "A page mentioning StarMiner Solo Miner would likewise be different from a recorded test of a unit.",
+      "Solo mining does not guarantee rewards.",
+      "Which kind of evidence would you ask for?"
+    ],
+    "poster": "/assets/media/creator100-c068.jpg",
+    "upload_date": "2026-10-03T16:55:35Z",
+    "original_language": "en",
+    "topic": "creator100-c068",
+    "show_edition": false,
+    "historical": false
+  },
+  {
+    "id": "creator100-c069",
+    "slug": "c069-why-would-a-serious-project-publish-its-issue-history",
+    "group": "hardware-desk-learning",
+    "duration_s": 25.6333,
+    "links": {
+      "main": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c069.mp4",
+      "no_music": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c069_no_music.mp4",
+      "subtitles": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c069.srt",
+      "cover": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c069_cover_9x16.jpg",
+      "cover_3x4": "https://github.com/tanshuai/starminer-public/releases/download/creator100-v2/c069_cover_3x4_preview.jpg"
+    },
+    "index": true,
+    "transcript": [
+      "Why would a serious project publish its issue history?",
+      "Bitcoin Core's public issue tracker records questions and reported problems.",
+      "A report is a starting point for investigation, not proof of a reproduced defect.",
+      "Look for the actual discussion and resolution before drawing a conclusion.",
+      "This example does not say StarMiner Solo Miner has the same software or licensing.",
+      "Solo mining does not guarantee rewards.",
+      "What would you check after reading an issue title?"
+    ],
+    "poster": "/assets/media/creator100-c069.jpg",
+    "upload_date": "2026-10-03T16:55:39Z",
+    "original_language": "en",
+    "topic": "creator100-c069",
     "show_edition": false,
     "historical": false
   },

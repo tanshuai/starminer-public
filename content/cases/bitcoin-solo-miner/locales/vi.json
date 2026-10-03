@@ -476,6 +476,26 @@
     "creator100-c063": [
       "Which object should lead the story in a desk shot?",
       "Choose the object that helps answer this video's question. Foreground placement is a storytelling choice, not a product ranking. Keep the context objects useful rather than building a shopping list. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c064": [
+      "What should guide a device's desk-cleaning routine?",
+      "Check the current manufacturer's instructions for handling and storage. Keep the routine within what those instructions permit. A styled scene is not a cleaning or water-resistance test. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c066": [
+      "How did people prove a digital document existed earlier?",
+      "A digital timestamp asks whether data can be shown to have existed earlier. The Bitcoin paper cites earlier work on timestamping digital documents. Its hash linked timestamp explanation is a specific design, not a claim about every clock. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c067": [
+      "Did Bitcoin invent the hash function it uses?",
+      "SHA is a family of hash algorithms described in a public standard. The Bitcoin paper describes using SHA-256 for proof of work. Using a standard algorithm is different from inventing that algorithm. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c068": [
+      "Does publishing a design mean a network is already running?",
+      "A paper describes a system; a running network needs working implementations. Finding a design document does not prove when a particular device or network was operating. Keep publication evidence separate from runtime evidence. English educational edition with manufacturer imagery and labeled illustrations."
+    ],
+    "creator100-c069": [
+      "Why would a serious project publish its issue history?",
+      "Bitcoin Core's public issue tracker records questions and reported problems. A report is a starting point for investigation, not proof of a reproduced defect. Look for the actual discussion and resolution before drawing a conclusion. English educational edition with manufacturer imagery and labeled illustrations."
     ]
   }
 }

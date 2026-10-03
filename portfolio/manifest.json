@@ -5,176 +5,176 @@
     {
       "source": "content/cases/bitcoin-solo-miner.json",
       "path": "cases/bitcoin-solo-miner.json",
-      "bytes": 4756,
-      "sha256": "f6dd204e4f89d2771fc81a64465f9055524188fb2f93d38f77a2d7b398bdd290"
+      "bytes": 4871,
+      "sha256": "5d0479271faf9c42213ca547352cea7bd52c16cec427595e1a07ed750576226c"
     },
     {
       "source": "content/media.json",
       "path": "media.json",
-      "bytes": 259197,
-      "sha256": "efaee7d5f15f36f2be27d16531f1411f64e99b33287ffdb141e08dc0b97014b8"
+      "bytes": 266807,
+      "sha256": "982a49daca1577120dfc0407de79e1032d8c0302eaf138b5b169bc9e6c2dfb9d"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/am.json",
       "path": "cases/bitcoin-solo-miner/locales/am.json",
-      "bytes": 35208,
-      "sha256": "d83f79eef9371e6a8d1e8ea35f462aaa2147f5b526efd694da7d65801dbb1bb5"
+      "bytes": 37214,
+      "sha256": "b52317a5e6b95389ee001dd5ee0dfe1398acc699d1435f7305cee17fde27a992"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/ar.json",
       "path": "cases/bitcoin-solo-miner/locales/ar.json",
-      "bytes": 34585,
-      "sha256": "0d9193814957441dd058ddc3c5bbb9e79a2acb1f6299bfdef6f7b57270601ebe"
+      "bytes": 36591,
+      "sha256": "7a40ae3c7bee111b737d58fd46b740f445a3e554f5da452a454e7affd8347722"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/bn.json",
       "path": "cases/bitcoin-solo-miner/locales/bn.json",
-      "bytes": 37694,
-      "sha256": "0151d95a4a822e16bb96385aa588f2a0e0bca068691ae2ffbf7a24c496c3e156"
+      "bytes": 39700,
+      "sha256": "24b8063c47849af43b3301dbc49edb5e1f337fdd42418ed4dc0c2d5c0f2e5c85"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/de.json",
       "path": "cases/bitcoin-solo-miner/locales/de.json",
-      "bytes": 33211,
-      "sha256": "b21e48e8ff7b4cbee417c424787b453123ce3acfbb943a6a40e4facaa27a761e"
+      "bytes": 35217,
+      "sha256": "6e0a23200e77b7f3552bef03a5a2662a217e2ec6834eb93ccd3876695fa117f9"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/en.json",
       "path": "cases/bitcoin-solo-miner/locales/en.json",
-      "bytes": 32671,
-      "sha256": "2adbd5eea7cb654efcef70492de6f3ba59f2df49d2d1fdc26764d12e4e66ef27"
+      "bytes": 34677,
+      "sha256": "ad00897b548505284f23afa42ac011ce13feb5a03cbbeadc8d6b647a0bf33c3d"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/es.json",
       "path": "cases/bitcoin-solo-miner/locales/es.json",
-      "bytes": 33608,
-      "sha256": "ca692ff4a451bf48e47523c7eea7c5e4721167e660a9d8477658f03dca0a7e39"
+      "bytes": 35614,
+      "sha256": "0c70b977a14373f192016a4acaa428e133162bfcff89df389286bd3f6d649e5d"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/fa.json",
       "path": "cases/bitcoin-solo-miner/locales/fa.json",
-      "bytes": 35019,
-      "sha256": "5deb0fd7f6154eec669a912e33b55a10d57d5f5439db6003c4666a4143690c72"
+      "bytes": 37025,
+      "sha256": "bbdcbe60556c5778147913a083ef288099a3a7e99c1a44948cd088b9baeea654"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/fr.json",
       "path": "cases/bitcoin-solo-miner/locales/fr.json",
-      "bytes": 33366,
-      "sha256": "d5f1f948945aac5ad8c05d704cea13e25265fc1eb3d8718a6066083e224e19f9"
+      "bytes": 35372,
+      "sha256": "76362d0d17e26b7fdcf0df96188518c60ee2935c77d491ef8b924d3fc08a1d7e"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/hi.json",
       "path": "cases/bitcoin-solo-miner/locales/hi.json",
-      "bytes": 38324,
-      "sha256": "473e822b55e2da16cfebbf3d14ffdc740680146679f74ae1dbe53be7c41e9fa4"
+      "bytes": 40330,
+      "sha256": "75db646e0fec60466b6b928eddb91fd532044458afea00aa01ec2b8354f70597"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/id.json",
       "path": "cases/bitcoin-solo-miner/locales/id.json",
-      "bytes": 32682,
-      "sha256": "7e129b444e558b22f48e05796e68ee80a65ad9b35cf609d68431a6a5c2e9197c"
+      "bytes": 34688,
+      "sha256": "abd5a2009aa8b6d4223d70947d02eaec5398ccdac68b8dd88ec6cc5b59464221"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/it.json",
       "path": "cases/bitcoin-solo-miner/locales/it.json",
-      "bytes": 32885,
-      "sha256": "bdd0ab3b3558ad4bc671147962a1422636b04f72ee3d719adeee93ad6ed9527b"
+      "bytes": 34891,
+      "sha256": "289401b6c71a610e8b1a3fdd144d240c0d7a1bc2788bcba84b088e7ab9f7c8db"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/ja.json",
       "path": "cases/bitcoin-solo-miner/locales/ja.json",
-      "bytes": 33553,
-      "sha256": "db232c1c6c2b5610accb444978e15b2a01651cebf29af5a90ff888a924672ccd"
+      "bytes": 35559,
+      "sha256": "2babcb9b7e0261895cf919028cd2eda6eef9925287ec3f3346ac10e329d77fee"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/kk.json",
       "path": "cases/bitcoin-solo-miner/locales/kk.json",
-      "bytes": 35843,
-      "sha256": "7f73e1809926026dc9d4334db6b90e79b60601db0bfb9ea570b3323e5ab4aea5"
+      "bytes": 37849,
+      "sha256": "9e11c1f74f03a85e779c41c17d13843ee99f9fb8900375a509927ef7aa3d2b84"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/ko.json",
       "path": "cases/bitcoin-solo-miner/locales/ko.json",
-      "bytes": 33388,
-      "sha256": "479e035e5b5faa84da5d61a0aeec8ec25643c72ed07f21a46e5b13df5ee0c69c"
+      "bytes": 35394,
+      "sha256": "0b80e29e0069f3922e95fed1324ba77d606ee192705c1b713d12a4e290f4c529"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/ms.json",
       "path": "cases/bitcoin-solo-miner/locales/ms.json",
-      "bytes": 32557,
-      "sha256": "017a6a7c9fc901b0a8fd8dcc656c557d5e3e07d658e686559f4858dc04e7216a"
+      "bytes": 34563,
+      "sha256": "ceca74f84c66402c6b7e7483f01e01d7ce634c1f5a38a3656aa87ccc01e1737c"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/nl.json",
       "path": "cases/bitcoin-solo-miner/locales/nl.json",
-      "bytes": 32787,
-      "sha256": "85266bbf1a2866f14e5bfe83c12508e249db6bdd0923f551a67d49aff126dc9f"
+      "bytes": 34793,
+      "sha256": "f2ef34ae49d83c2ebaa57b33b6019dcdbb7a3ebb68b12852cb965f086cab5c5d"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/pl.json",
       "path": "cases/bitcoin-solo-miner/locales/pl.json",
-      "bytes": 32637,
-      "sha256": "3ed0fc8bf4b973366ed207535869c78d874a32344bf81fef781023fc3b869362"
+      "bytes": 34643,
+      "sha256": "0205e9e3f035cb1544f6337911c8b58989a7784785c72f6a443c73af517a4bd7"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/pt.json",
       "path": "cases/bitcoin-solo-miner/locales/pt.json",
-      "bytes": 33211,
-      "sha256": "5bddf44270cd726605e95463c72c39d7e1e027bde9e8c0bd3138088b162a9d01"
+      "bytes": 35217,
+      "sha256": "60e2c31ee368f307419cdd2983017088a257df33bfe921a3bbb78815c4a9d932"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/ru.json",
       "path": "cases/bitcoin-solo-miner/locales/ru.json",
-      "bytes": 36365,
-      "sha256": "a59fe12ca61f89535b6b8a6bb51ce62a7b662366c1b2bc5af9f2eba39ec82cb9"
+      "bytes": 38371,
+      "sha256": "975b406f041658cd042a3ed31076fe8467b273530ee6b0074241dc70a97fe5a4"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/th.json",
       "path": "cases/bitcoin-solo-miner/locales/th.json",
-      "bytes": 38209,
-      "sha256": "2c16b2a157d0ba68d17379c47e8a657c7ca60c43c9c9cd33dddd8d5fe063b9b5"
+      "bytes": 40215,
+      "sha256": "25940b23bd1da6463f117872c02fa4c4a260ecd953e1ed771747a5cb56bcf453"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/tl.json",
       "path": "cases/bitcoin-solo-miner/locales/tl.json",
-      "bytes": 33013,
-      "sha256": "e33753917e96d426d9da9255404c0c17038ad3d1600e2ecea74fd5a510080158"
+      "bytes": 35019,
+      "sha256": "894573abd15a50d9a8d0639d9284ce468d988aed17fe9be8f89c3dd4565d39e0"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/tr.json",
       "path": "cases/bitcoin-solo-miner/locales/tr.json",
-      "bytes": 32918,
-      "sha256": "5efd1be45dd5b38839105a0a67f3cae2746b8b3435738dc84a051737d7c89e7c"
+      "bytes": 34924,
+      "sha256": "24c0c9a880b2fa32cd037c109ac31dd2fa5f6d7be7aa8bc913a01c9add15f63b"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/uk.json",
       "path": "cases/bitcoin-solo-miner/locales/uk.json",
-      "bytes": 35971,
-      "sha256": "cf8851e88d473048088db87f378f90a9d87763bbd134232f91f48846108ddefe"
+      "bytes": 37977,
+      "sha256": "1bb8918610e2703ae93baa5885df47f8700beb9b555a7753889d0ba6244e86ee"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/ur.json",
       "path": "cases/bitcoin-solo-miner/locales/ur.json",
-      "bytes": 34673,
-      "sha256": "97dc892ed3f69147aca4ea5d1f6e353ff2060e5e7019b2009bf8520131cac9da"
+      "bytes": 36679,
+      "sha256": "11dde48e812a644a744883e4a5f7d98dae969ecedc06cfda69ec59837f2d6bf3"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/vi.json",
       "path": "cases/bitcoin-solo-miner/locales/vi.json",
-      "bytes": 33440,
-      "sha256": "731b6018b482be5751dcde9070bfe1deec99a7fdde444d69a01f994649221d06"
+      "bytes": 35446,
+      "sha256": "b347e7b1df95160ee3e844c82f709eb7dd49eb413bf748579c24dbad3e28a18b"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/zh-hans.json",
       "path": "cases/bitcoin-solo-miner/locales/zh-hans.json",
-      "bytes": 32140,
-      "sha256": "bbe7fdba4ac738c0e055768d30828914abd435e8ba89625ba6763fc80f5ea7a4"
+      "bytes": 34146,
+      "sha256": "8caf04a8e3ee7adca2d8426cd075d3fd7cf41d205053ec5a013f153ee3d9c262"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/zh-hant.json",
       "path": "cases/bitcoin-solo-miner/locales/zh-hant.json",
-      "bytes": 32131,
-      "sha256": "6537e02bd6f8d3fe4a76ed612655627bbdf77812dd5622ed8e65972c84f4f905"
+      "bytes": 34137,
+      "sha256": "31c5d699ed26dd5a7127e1ecd64be3efc447ebc54417e6a7f95180ebb77cdf32"
     },
     {
       "source": "assets/media/buyer-01-first-miner.jpg",
@@ -615,10 +615,40 @@
       "sha256": "d583a8c287cd5fdd4a3c9c87725b10e1d10d209d3213cba54e1531fe620c9cc2"
     },
     {
+      "source": "assets/media/creator100-c064.jpg",
+      "path": "assets/media/creator100-c064.jpg",
+      "bytes": 244562,
+      "sha256": "55a2f8d463dd11b48c2c884c0be4f8363264bff39545161b0a27c37a019b2fc3"
+    },
+    {
       "source": "assets/media/creator100-c065.jpg",
       "path": "assets/media/creator100-c065.jpg",
       "bytes": 317732,
       "sha256": "42ff99c8ea2ab2b83f718bf505ccbe74b93a3d712f40a11f2b1a05c208218e19"
+    },
+    {
+      "source": "assets/media/creator100-c066.jpg",
+      "path": "assets/media/creator100-c066.jpg",
+      "bytes": 247733,
+      "sha256": "1e0769f82b5497ac6db087784e7a5ad59f2b5399e3a7ff8dab6bb45a0b4e3a03"
+    },
+    {
+      "source": "assets/media/creator100-c067.jpg",
+      "path": "assets/media/creator100-c067.jpg",
+      "bytes": 247204,
+      "sha256": "d0bdbdc2fd291331b024841543469907707af66077678294568eddd38c7352e8"
+    },
+    {
+      "source": "assets/media/creator100-c068.jpg",
+      "path": "assets/media/creator100-c068.jpg",
+      "bytes": 263773,
+      "sha256": "81b48740c06ca3b6bd0eade5d5a22666c1133b624b332ac2694a3e54c920e205"
+    },
+    {
+      "source": "assets/media/creator100-c069.jpg",
+      "path": "assets/media/creator100-c069.jpg",
+      "bytes": 250805,
+      "sha256": "3374e37d461aecff47622c51a599cf534a22bf2a8886f589ec85ad6c80fd9311"
     },
     {
       "source": "assets/media/creator100-c073.jpg",
