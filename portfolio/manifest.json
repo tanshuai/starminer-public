@@ -167,8 +167,8 @@
     {
       "source": "content/cases/bitcoin-solo-miner/locales/zh-hans.json",
       "path": "cases/bitcoin-solo-miner/locales/zh-hans.json",
-      "bytes": 6466,
-      "sha256": "9a37f45e6ce9132982aa521d040fe2e62d32562daccdb39cc4f004bf5f197bac"
+      "bytes": 6369,
+      "sha256": "dded1dfc47f665e653bc8c8ac554e1e8f187929212f10391f07d0e3c54b58c0b"
     },
     {
       "source": "content/cases/bitcoin-solo-miner/locales/zh-hant.json",
