@@ -19,7 +19,7 @@
   }));
   document.querySelector('[data-reset-consent]')?.addEventListener('click',()=>{try{localStorage.removeItem(storageKey)}catch{};location.reload()});
   document.querySelectorAll('.language-menu a').forEach(a=>a.addEventListener('click',()=>event('language_change',{language:a.lang})));
-  document.querySelectorAll('a.download').forEach(a=>a.addEventListener('click',()=>event('file_download',{file_name:a.href.split('/').pop(),link_url:a.href})));
+  document.querySelectorAll('a.download').forEach(a=>a.addEventListener('click',()=>event('work_download',{file_name:a.href.split('/').pop(),link_url:a.href})));
   const search=document.querySelector('[data-search-input]');
   search?.addEventListener('input',()=>{
     const q=search.value.toLocaleLowerCase().trim();let visible=0;

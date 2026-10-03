@@ -41,21 +41,24 @@ def build(out, language_codes=None):
         if m.get('show_edition'):
             base+=f' · {text["ui"]["edition"]} {m["sequence"]:02}'
         return base
+    case_media={}
     for case in cases:
-        items=[registry[id] for id in case.get('media',[])]
+        items=[dict(registry[id]) for id in case.get('media',[])]
+        case_media[case['id']]=items
         for group in case.get('collections',[]):
             for n,m in enumerate([x for x in items if x['group']==group],1):m['sequence']=n
     for lang in languages:
-        code=lang['code'];base=load(HERE/'locales'/f'{code}.json');ui=base['ui']
+        code=lang['code'];base=load(HERE/'locales'/f'{code}.json');base_ui=base['ui'];ui=base_ui
         index_rows=''
         for case in cases:
-            text=load(HERE/'content/cases'/case['id']/'locales'/f'{code}.json');text['ui']=ui;c=text['case'];cp='/'+case['slug']+'/'
-            items=[registry[id] for id in case.get('media',[])];groups=case.get('collections',[])
+            text=load(HERE/'content/cases'/case['id']/'locales'/f'{code}.json');ui={**base_ui,**text.get('ui',{})};text['ui']=ui;c=text['case'];cp='/'+case['slug']+'/'
+            items=case_media[case['id']];groups=case.get('collections',[])
             photo=f'<img src="{items[0]["poster"]}" width="72" height="96" alt="" loading="lazy">' if items else ''
-            count=f'{len(items)} {ui["videos"]}' if items else ui.get(case['kind'],case['kind'])
-            index_rows+=f'<article class="case-row" data-search="{E(c["title"]+" "+case.get("client","")+" "+c["summary"]+" "+" ".join(text["topics"][m["topic"]][0] for m in items),quote=True)}">{photo}<div><div class="eyebrow">{E(ui.get(case["kind"],case["kind"]))} <span>· {E(c.get("credit",""))}</span></div><h2>{a(local(code,cp),c["title"])}</h2><p>{E(c["summary"])}</p></div><div class="case-tail"><small>{E(count)}</small>{a(local(code,cp),ui["open"]+' ↗')}</div></article>'
+            count=f'{len(items)} {ui["videos"]}' if items else case.get('updated','')
+            credit='<span>· '+E(c['credit'])+'</span>' if c.get('credit') else ''
+            index_rows+=f'<article class="case-row" data-search="{E(c["title"]+" "+case.get("client","")+" "+c["summary"]+" "+" ".join(text["topics"][m["topic"]][0] for m in items),quote=True)}">{photo}<div><div class="eyebrow">{E(ui.get(case["kind"],case["kind"]))} {credit}</div><h2>{a(local(code,cp),c["title"])}</h2><p>{E(c["summary"])}</p></div><div class="case-tail"><small>{E(count)}</small>{a(local(code,cp),ui["open"]+' ↗')}</div></article>'
             body=crumbs(code,ui,[])+f'<section class="case-intro"><div><p class="eyebrow">{E(c.get("credit",""))}</p><h1>{E(c["title"])}</h1><p class="lead">{E(c["summary"])}</p></div>'+photo+'</section><section class="case-notes">'+''.join(f'<div><h2>{E(ui[k])}</h2><p>{E(c[k])}</p></div>' for k in ['role','scope','results'] if c.get(k))+'</section>'
-            if case.get('links'):body+='<div class="actions">'+''.join(a(x['url'],x['label']) for x in case['links'])+'</div>'
+            if case.get('links'):body+='<div class="actions">'+''.join(a(x['url'],text.get('links',{}).get(x.get('id',''),x.get('label',x['url']))) for x in case['links'])+'</div>'
             if groups:body+=f'<div class="section-heading"><h2>{E(ui["collections"])}</h2><span>{len(items)} {E(ui["videos"])}</span></div><div class="collection-index">'
             for group in groups:
                 members=[x for x in items if x['group']==group];gt,gd=text['collections'][group];gp=cp+group+'/'
@@ -86,6 +89,7 @@ def build(out, language_codes=None):
                 page(code,gp,gt+(' · '+case['client'] if case.get('client') else ''),gd,cb,ui,index=any(m['index'] for m in members),image=members[0]['poster'])
             if groups:body+='</div>'
             page(code,cp,c['title']+(' · '+case['client'] if case.get('client') else ''),c['summary'],body,ui,image=items[0]['poster'] if items else None)
+        ui=base_ui
         root=f'<section class="home-intro"><p class="eyebrow">Tan Shuai · 谭帅</p><h1>{E(ui["work"])}</h1><p>{E(ui["intro"])}</p></section><div class="section-heading"><h2>{E(ui["index"])}</h2><label class="search"><span>{E(ui["search"])}</span><input type="search" data-search-input placeholder="{E(ui["search"],quote=True)}"></label></div><section class="work-index">{index_rows}</section><p class="empty" hidden>{E(ui["empty"])}</p><div class="home-contact">{a("mailto:"+author["email"],ui["contact"]+" ↗")}{a(author["home"],ui["home"]+" ↗")}</div>'
         website={'@context':'https://schema.org','@type':'WebSite','name':'Tan Shuai · '+ui['work'],'url':origin+local(code,'/'),'inLanguage':code,'publisher':{'@type':'Person','name':author['name'],'url':author['home']}}
         page(code,'/',ui['work'],ui['intro'],root,ui,schemas=[website],image=registry[cases[0]['media'][0]]['poster'] if cases and cases[0].get('media') else None)

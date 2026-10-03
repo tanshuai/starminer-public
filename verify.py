@@ -40,7 +40,7 @@ for f in root.rglob('index.html'):
   if schema.get('@type')=='VideoObject':
    assert len(check.video)==1 and check.video[0]['src']==schema['contentUrl']
    assert all(schema.get(k) for k in ('name','description','thumbnailUrl','uploadDate','contentUrl','duration'))
-   assert schema['inLanguage']=='en' and schema['thumbnailUrl'][0]==origin+check.video[0]['poster']
+   assert schema['inLanguage']==next(m['original_language'] for m in media if m['links']['main']==schema['contentUrl']) and schema['thumbnailUrl'][0]==origin+check.video[0]['poster']
    assert check.video[0]['preload']=='none'
    if check.robots=='index,follow':videos.append(url)
 for url,c in pages.items():

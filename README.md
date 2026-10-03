@@ -23,13 +23,13 @@ Python standard library only. To preview a smaller development build, use `--lan
 
 The flat homepage lists cases. Large video cases optionally add collection views; each video has its own watch page. Download pages and repetitive alternative editions remain accessible with `noindex,follow`. Non-video cases omit `media` and `collections`, and use role, scope, results and public links. They do not inherit video controls or StarMiner credits.
 
-To add a case, create its case record and translated text modules, add its stable ID to `site.json`, then build and inspect it. Common layout, language controls, analytics and personal-site links remain shared. Add case-specific disclosures in that case's text. Product specs, results and client contributions must reflect verified or owner-supplied facts.
+To add a case, create its case record and translated text modules, add its stable ID to `site.json`, then build and inspect it. Common layout, language controls, analytics and personal-site links remain shared. For external links, put stable IDs and URLs in the case record and translate labels in each case locale's `links` mapping. Optional case-locale `ui` overrides can label different original audio or subtitle languages without changing the shared interface. Add case-specific disclosures in that case's text. Product specs, results and client contributions must reflect verified or owner-supplied facts.
 
 Language pages have independent self-canonical URLs, reciprocal `hreflang` and English `x-default`. Translated titles and summaries accompany the original English videos, subtitles and explicitly identified source transcripts. The original media is not dubbed. Language menus retain the same case, collection or video when switching languages.
 
 ## Analytics
 
-Every page loads one shared module using the personal site's existing GA4 property. The Google script loads only after optional statistics consent. Advertising features are disabled. Page and referrer URLs omit query strings. Consent can be changed on the shared privacy page. Video-play, completion, download and language-change events use the same implementation across cases. Events being collected is separate from creating reports or registering custom dimensions in the Analytics dashboard.
+Every page loads one shared module using the personal site's existing GA4 property. The Google script loads only after optional statistics consent. Advertising features are disabled. Page and referrer URLs omit query strings. Consent can be changed on the shared privacy page. Video-play, completion, `work_download` and language-change events use the same implementation across cases. Events being collected is separate from creating reports or registering custom dimensions in the Analytics dashboard.
 
 ## Deployment
 
